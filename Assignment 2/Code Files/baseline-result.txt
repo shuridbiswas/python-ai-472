@@ -1,0 +1,1436 @@
+1 Why We Sleep, and Why We Often Can’t story -23.3148566845 -28.8086973651 -33.5440555416 0 story right
+2 The Media’s Post-Advertising Future Is Also Its Past story -28.2661931748 -33.4017863099 -36.4748076819 0 story right
+3 How Well Do We Understand Probabilities in Medicine? (2016) story -24.8531609432 -29.2157913435 -32.3083303885 0 story right
+4 Progress in Deep Learning Object Detection story -21.0060663446 -24.4234307045 -23.3672654868 0 story right
+5 Upgrading the Nginx Executable on the Fly story -13.0160606915 -18.0882796279 -18.223289326 0 story right
+6 The demographic time bomb that could hit America story -21.5515071031 -27.8219765852 -27.6428872496 0 story right
+7 Selenium: Storing Data Efficiently story -15.457642161 -17.2727095253 -17.239417538 0 story right
+8 Remembering Riccardo Giacconi, a Titan of the Heroic Age of Astronomy story -23.4726314706 -28.6882706024 -29.248116149 0 story right
+9 Exploring personal smartphone usage across 2018 story -19.3878255812 -22.4506452195 -22.6237064214 0 story right
+10 Ask HN: What’s the most effective NY resolution you ever had? ask_hn -31.8797517675 -30.2475208053 -38.9690884968 0 ask_hn right
+11 AI Index 2018 Report [pdf] story -12.7056250883 -18.3141022105 -17.3265677137 0 story right
+12 2019: Make Yourself Great Again story -14.0271985126 -16.7230376035 -17.5274825564 0 story right
+13 Review of Modern Auto Layout story -8.6850951155 -11.8451207416 -11.6707422965 0 story right
+14 Show HN: Pre-render JavaScript apps on CloudFront show_hn -28.9383915511 -30.7914767944 -26.8804721803 0 show_hn right
+15 Lars Bak: How Dart learned from past object-oriented systems (splashcon 2015) story -22.5258175762 -26.4402047769 -28.5893395147 0 story right
+16 Object eversion, ZigZag, and the RDBMS story -11.7071651538 -15.5755859018 -14.6867493219 0 story right
+17 Massive bonfire sparks ember storm in Dutch town story -18.2985068845 -21.0192814553 -21.3765518065 0 story right
+18 Why We Support #ProofofKeys and You Should, Too story -19.472946773 -24.5103035361 -28.1597666582 0 story right
+19 Sally Rooney Gets in Your Head story -10.6968079762 -14.4761982658 -14.4481948787 0 story right
+20 The West Coast is beating the East Coast on transportation? story -19.7442453357 -24.6877918494 -25.7951383703 0 story right
+21 Understanding Zero-Knowledge Proofs story -11.3453819745 -13.9557104519 -14.4150352795 0 story right
+22 Discard autocomplete – write code quickly and without errors story -14.8835255534 -19.0727928005 -18.5698983616 0 story right
+23 Chinese schools monitor students activities with 'intelligent uniforms' story -28.9895987833 -34.0944567311 -33.5031759037 0 story right
+24 The Chinese takeover of Indian app ecosystem story -22.5339848521 -27.8096844115 -27.8118781683 0 story right
+25 Ask HN: What are your goals for 2019? ask_hn -20.7791319378 -18.8784940746 -24.0819613599 0 ask_hn right
+26 Node.js with TypeScript – Setting Up a Node.js App with TypeScript story -35.8278705148 -47.0742316302 -43.4626622127 0 story right
+27 How I Earn $200,000 a Year from Photography story -21.0064663832 -24.282618504 -25.6894408808 0 story right
+28 California Could Soon Have Its Own Version of the Internet story -28.9311060518 -37.6797094781 -40.5852942581 0 story right
+29 Visual Mental Imagery Training story -7.6768192873 -9.5973186933 -9.3731690769 0 story right
+30 The Usefulness of Useless Knowledge [Flexner, 1939] story -11.467288677 -15.43347914 -15.4821595777 0 story right
+31 Laravel, Cloudflare and Trusted Proxies story -18.4100676735 -21.1811322753 -20.369238911 0 story right
+32 Could dust destroy Bitcoin? story -14.5765953906 -17.9461254252 -17.4357121831 0 story right
+33 Show HN: Distinguish – a simple way to minify and disambiguate CSS classes show_hn -26.4539480823 -29.3658321517 -26.2884296591 0 show_hn right
+34 Pro-tips to pass resume screening story -17.1598312981 -20.5755839561 -20.7848573307 0 story right
+35 Nikolaas Tinbergen Seagull (1974) story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+36 The Year in Science–and What Americans Thought about It story -25.973246182 -33.3768847303 -38.1747526021 0 story right
+37 Censoring China’s Internet, for Stability and Profit story -18.4490652472 -23.6762011738 -23.6078431427 0 story right
+38 Hydrogen power: China backs fuel cell technology story -24.6277500204 -31.1674287367 -31.0876500684 0 story right
+39 You Should Open Source Your Product story -17.3287563184 -20.1048456944 -22.7279293765 0 story right
+40 “Don’t just use your beliefs to measure reality, also use reality to measure...” story -36.3943397487 -42.0613762199 -45.0787579118 0 story right
+41 GitHub: Partial System Outage story -3.4774089251 -4.8709501494 -4.6152995306 0 story right
+42 Google’s Kelsey Hightower Dissects Serverless Hype and Hope story -20.8318839302 -25.1715472486 -25.5572331493 0 story right
+43 'Bandersnatch:' Every Path and How to Watch Every Ending story -23.3733149285 -29.5994909131 -31.2280851962 0 story right
+44 Replicating the GitHub GraphQL API with Neo4j story -18.7123637323 -22.8082993043 -21.6278931934 0 story right
+45 3 Implications of Product-Led Growth story -12.4458726945 -16.3126569696 -16.2354872443 0 story right
+46 Thunderbird “loses” emails when downloading from mail server to a local folder story -35.906366594 -40.4947961167 -41.0212617405 0 story right
+47 Where Can We Reduce Healthcare Costs in 2019? story -14.370379913 -18.7762434066 -20.2004605475 0 story right
+48 This Year in Solus: 2018 Edition story -11.680852123 -15.8157916567 -16.0794130988 0 story right
+49 Patches welcome story -8.1539405419 -10.074439948 -10.0721390812 0 story right
+50 Imagine Giving Birth in Space story -12.848876059 -17.1380109514 -16.5565343535 0 story right
+51 “Smart uniforms” help schools in China monitor students story -26.5983762902 -32.9183654721 -32.605899852 0 story right
+52 [ANN] tools.deps.alpha 0.6.474 and clj 1.10.0.408 story -13.3716761961 -16.1237705124 -15.6953494937 0 story right
+53 Google sat on a Chromecast bug for years, now hackers could wreak havoc story -33.0959216632 -41.4792113928 -42.7547478541 0 story right
+54 Fancy Tree Traversals story -4.0416803555 -5.7160481894 -5.7292428829 0 story right
+55 No Collision story -7.3458260683 -9.5973186933 -9.5950178265 0 story right
+56 Windows 10 1903 to support AVIF format story -12.3089702682 -16.6943134522 -15.5211423785 0 story right
+57 Ask HN: CI and Tests for Personal Project story -24.9460339847 -25.2931682246 -27.5061821497 0 ask_hn wrong
+58 The iCERT Portal System is currently unavailable story -7.9579257523 -10.5912845413 -11.5935217511 0 story right
+59 2990WX Threadripper Performance Regression FIXED on Windows* story -13.3262292737 -16.7013183538 -16.5965634756 0 story right
+60 How to Get Ideas for New Product Features story -14.3888262734 -18.8575337159 -20.3966081479 0 story right
+61 Alibaba Open-Sources Mars to Complement NumPy story -15.2226685712 -19.3994926971 -19.6087660717 0 story right
+62 Mark Cuban created a huge discussion about a single resume story -21.2266511737 -25.0682143321 -24.8454797379 0 story right
+63 Accessibility of nested classes story -9.7332038285 -12.3222419963 -12.3697123008 0 story right
+64 Proto-internet trolls: Struensee and press freedom in 18th century Denmark story -24.0258219446 -28.2447032787 -28.175853478 0 story right
+65 Genchi – real time visibility for project stakeholders story -10.9215971261 -14.7725645676 -14.1641028818 0 story right
+66 Electronic health records are coming of age with Open Standards help story -34.2296301574 -41.2885584872 -42.5275001276 0 story right
+67 Perl 6 environment manager – Shoichi Kaji story -11.6362505223 -13.2567404476 -13.9379140248 0 story right
+68 Bristol-Myers Squibb to buy Celgene in $74B deal story -15.1039071648 -18.223401438 -19.5377027158 0 story right
+69 Andrew Sullivan on the Opioid Epidemic in America (2018) story -17.7971858164 -22.5177347423 -22.5494798308 0 story right
+70 I made MPD index SoundCloud, here's how I did it story -22.3913695944 -25.7557298339 -31.0402294984 0 story right
+71 Why Rust? (2015) story -5.9483152043 -8.5830782541 -10.0721390812 0 story right
+72 The Best Skin-Care Trick: Be Rich story -17.7739892156 -22.3877062161 -24.1450890913 0 story right
+73 Early Nintendo programmer worked without a keyboard story -23.6785121167 -26.8662467646 -28.0589974948 0 story right
+74 Wild monkeys with killer herpes are breeding like crazy in Florida story -39.6985992993 -43.0567255165 -43.8027897461 0 story right
+75 Is This the End of the Age of Apple? story -21.5566011026 -30.9053242721 -32.3298040621 0 story right
+76 Putting paralyzed patients back on their feet story -15.7999055164 -20.8378613628 -21.6384296782 0 story right
+77 That Viral Video of Alexandria Ocasio-Cortez Dancing Is a Meta-Meme story -24.0383258973 -28.6499900309 -29.8188800898 0 story right
+78 Polish government: wind turbines will be scrapped within 17 years story -23.7612360922 -27.6187936769 -29.2413129563 0 story right
+79 Guide which focuses upon a different set of UX Workflow Terminologies story -38.1658278977 -43.1917712777 -44.5983341346 0 story right
+80 The rise of alternate VC story -11.467288677 -14.9563578853 -15.4821595777 0 story right
+81 Major hack of German politicians’ private data story -18.9658946278 -24.8331458416 -24.135159461 0 story right
+82 How crucial is context in AR? story -13.7322280716 -17.296346044 -19.5636384499 0 story right
+83 Ask HN: How is the light handled in the Monument Valley games? story -27.0022399309 -29.6538799837 -33.7243290945 0 ask_hn wrong
+84 Unheralded Mathematician Bridges the Prime Gap story -18.1380998678 -21.4253393542 -20.9161362453 0 story right
+85 Our working methodology is inefficient. What should we do? story -23.5087319342 -26.8439571018 -33.4715048744 0 story right
+86 Blood speaks: how the taboo of menstruation hurts health story -21.554330272 -25.7268990412 -27.8118781683 0 story right
+87 Cloud Atlas 'astonishingly different' in US and UK editions, study finds (2016) story -24.4556801516 -30.625371432 -31.0873859122 0 story right
+88 Migrating to PR Label Based Continuous Deployment story -25.7118337792 -28.2254206837 -28.356706375 0 story right
+89 Charity Majors: Engineering Management: The Pendulum or the Ladder story -21.7487015408 -25.9195364481 -26.8274116762 0 story right
+90 Bouchard Sues Glassdoor Over Identity of Anonymous Former Employee story -20.5023305399 -25.3974172721 -25.0304241104 0 story right
+91 Experts explain the science behind graphene, the new supermaterial story -24.3048801536 -29.8008069519 -31.6729832337 0 story right
+92 Map Labeling Algorithms with Application in Graph Drawing and Cartography (2008) [pdf] story -23.8359666937 -31.6488525278 -29.1934393047 0 story right
+93 After the fires, solar advocates seek greater role in California electric grid story -36.3352885387 -45.4453561373 -45.2492375655 0 story right
+94 Amazon Says 100M Alexa Devices Have Been Sold – What’s Next? story -19.6272141698 -25.740655026 -30.6726767204 0 story right
+95 Embracing Apple's Boring Future story -15.0570865514 -18.3141022105 -18.2808102231 0 story right
+96 Some Fun Numbers About the Human Brain story -14.6054853676 -19.7177691781 -19.372068201 0 story right
+97 A closer look at bake, a tool that makes building C/C++ code effortless story -32.5223234983 -39.6325944005 -40.0188002932 0 story right
+98 A Linguist’s Guide to Pronouncing ‘GIF’ story -15.3092527352 -18.984519349 -19.2245520875 0 story right
+99 Autumn can now resize iTerm2 by pixel story -12.8538415208 -16.0710641618 -17.2138634335 0 story right
+100 Southwest Airlines Co-Founder Herb Kelleher Dies – SFGate story -11.1892409424 -14.4328317066 -14.4150352795 0 story right
+101 Woman says her son couldn't afford his insulin – now he's dead story -28.2637700608 -35.2705479902 -35.6523950163 0 story right
+102 Spring '19 Updates to Translated Terminology story -14.0710522075 -16.6943134522 -16.9190823871 0 story right
+103 Thanks to Heavy Taxes and Regulations,CA’s Legal Cannabis Sales Fell story -31.9293487369 -36.5177892967 -36.7470726535 0 story right
+104 The Genetic Case Against Designer Babies story -12.8869790203 -17.0669475956 -16.573240047 0 story right
+105 Cigarette butts are the single greatest source of ocean trash story -23.3061375275 -28.8412898599 -30.1957329743 0 story right
+106 The Modern Dignity of an Uncontacted Tribe story -13.9851878879 -18.6157796396 -18.1718432623 0 story right
+107 Blur password manager exposes 2.4M users on misconfigured AWS cloud instance story -26.6869308767 -31.7457193039 -33.235754509 0 story right
+108 My take on the future of applications development and operability story -23.8362147795 -30.7778837887 -30.9312978977 0 story right
+109 Reinforcement Learning – The different challenges, methods and frontiers story -26.3319714296 -31.8330616771 -31.2132360751 0 story right
+110 Minimalism: Practical Guide to Writing Less Code (2002) [pdf] story -25.8484825489 -32.2413897614 -31.5370841215 0 story right
+111 MSI Installer for GNU Emacs story -14.8097803656 -16.9279006051 -16.8085414712 0 story right
+112 Free css generator to build broken and unusual grids story -30.4947851999 -34.0059059357 -32.8795462424 0 story right
+113 How Bitcoin grew up and became big money story -23.2777046957 -29.1980903724 -31.5228662426 0 story right
+114 LiteCLI – A user-friendly command-line client for SQLite database story -30.7675888537 -34.4086354877 -33.9872854111 0 story right
+115 Release 1.0 story -3.0665039392 -5.2389269347 -5.2521216282 0 story right
+116 Azerbaijani blogger is on hunger strike last 10 days. He could die soon story -38.0773654361 -44.393819364 -46.104742261 0 story right
+117 As Market Cools, Median Price for Manhattan Apartment Drops Below $1M story -23.3042102711 -27.4577687644 -26.8455610588 0 story right
+118 Taxpayers Should Never Subsidize Stadiums story -11.2095032519 -12.5577704432 -14.4150352795 0 story right
+119 Thinking Forth – A Language and Philosophy for Solving Problems (1984) [pdf] story -30.12013636 -37.1295375168 -37.9877589286 0 story right
+120 The cryptoeconomic circle story -5.8849096735 -8.3501640784 -7.8874476504 0 story right
+121 iOS Image Classifier in 5 Minutes story -8.8123365866 -12.7796191928 -11.5768160576 0 story right
+122 What happened to Winnograd Schemas? story -12.077974127 -14.6814762275 -16.9190823871 0 story right
+123 Ask HN: Any services for running API performance tests on every pull request? story -42.0461676321 -44.5224328019 -46.4474753104 0 ask_hn wrong
+124 Blog on ZFS story -10.5209240655 -12.3429265952 -12.9526372816 0 story right
+125 Peak AI and the Singularity story -14.6376938138 -19.4568564057 -19.0296455202 0 story right
+126 Interactive Painting with Neural Style Transfer story -17.8207431735 -21.7182514596 -20.7297598139 0 story right
+127 7 Things Desktop Linux Needs in 2019 story -8.6532725392 -11.6035279338 -12.2136381552 0 story right
+128 The Price of a Hack story -12.0992256623 -17.7236850369 -17.3105080234 0 story right
+129 Partial Function Application as a Design Pattern story -3.5031796992 -5.9380682245 -5.9972860854 0 story right
+130 DynamoDB with Clojure story -10.5264831107 -13.0014679424 -12.7429374216 0 story right
+131 The Verified CakeML Compiler Back End [pdf] story -18.8611236332 -25.7837311128 -25.2590324436 0 story right
+132 The contested world of literary estates story -15.3160818798 -19.3147496439 -19.3479345213 0 story right
+133 Engineering Security (2014) [pdf] story -2.872071224 -5.7160481894 -5.2521216282 0 story right
+134 A Critique of Standard ML (1992) [pdf] story -18.4560519415 -22.961254625 -22.8838531431 0 story right
+135 Self-host Sentry for $5/mo story -13.7094098204 -16.4507793504 -16.1095714669 0 story right
+136 Uber employees' feelings about the company revealed in leaked worker survey story -31.7904072425 -38.6260665359 -40.5383645819 0 story right
+137 Ask HN: Good keyboard and mouse to mitigate RSI? ask_hn -26.8837799478 -25.5502751336 -29.3069191456 0 ask_hn right
+138 The future of microdata public use from the Census story -16.5107950995 -23.4409699524 -24.2654589015 0 story right
+139 How creating one product led to the birth of another one? story -24.931815667 -31.723523255 -32.5284877058 0 story right
+140 Tactics for Digital Wellbeing story -9.4503655642 -12.5695088465 -11.6205472329 0 story right
+141 AWS ALB Ingress Controller for Kubernetes story -17.1125770373 -19.964073069 -20.1971951601 0 story right
+142 Auction Your Skills story -10.7893750127 -11.8801634905 -12.3938459805 0 story right
+143 Kymatio: Scattering Transforms in Python story -5.106134299 -7.5761293942 -7.2339198593 0 story right
+144 Ten Things Everyone Should Know About Hospitals story -16.6690001419 -19.7888325339 -22.2557296361 0 story right
+145 The Folly of Hiring Winners and Firing Losers story -20.7859161531 -26.172194682 -26.6243574475 0 story right
+146 Hiding messages in chess games story -12.6628080994 -16.4390409471 -15.5151416684 0 story right
+147 Everything – Locate files and folders by name instantly on Windows story -29.4580111768 -35.825824194 -34.6252131926 0 story right
+148 Data mining adds evidence that war is baked into the structure of society story -36.9263614224 -45.1642256226 -45.41198173 0 story right
+149 Ask HN: Are any ML researchers supported by the community? story -31.4607382155 -32.5131808417 -36.5073717453 0 ask_hn wrong
+150 How to make yourself work when you don’t have any motivation story -28.1418509051 -31.5295355412 -38.3154518862 0 story right
+151 Educational Heap Exploitation story -4.2969528606 -5.7160481894 -5.7292428829 0 story right
+152 Saudi princess, 19, executed for adultery in 1977 story -8.0517705109 -10.9162963327 -10.7413694033 0 story right
+153 How AI can save our humanity story -18.0758134621 -22.9269110583 -25.5686626111 0 story right
+154 Eight odd details hidden in masterpieces story -14.7494914269 -16.6608896967 -17.0336556082 0 story right
+155 How Can Tech Fix the World in 2019? story -17.6786776209 -22.7938710812 -26.002591509 0 story right
+156 Smashing through barriers to set up a $2B tech firm story -28.5431686653 -35.3041430312 -35.6418943713 0 story right
+157 Ask HN: Would you be interested in a Voting-Ring-Detection-As-A-Service ask_hn -43.0029068163 -42.9073158169 -47.6998047419 0 ask_hn right
+158 Yusaku Maezawa: Japanese billionaire tweets most retweeted tweet story -23.9764085034 -26.553764473 -25.7535277944 0 story right
+159 Nvidia Announces GeForce RTX 2060 story -16.6419134285 -18.7912234652 -18.7579314778 0 story right
+160 Web Designer Salaries Increase with Skills Specialization story -14.4465170142 -16.183768442 -17.0858336199 0 story right
+161 Why I Majored in Philosophy Despite Everyone Telling Me Not to (2013) story -34.4923419164 -40.4659717068 -44.3646309843 0 story right
+162 Five big questions about Apple putting iTunes on Samsung TVs story -26.2579857554 -32.2054664625 -33.8220202331 0 story right
+163 ‘Flyover Tech’ Is All the Rage at J.P. Morgan Healthcare Investment Conference story -16.0376309479 -21.0084484205 -23.6679678366 0 story right
+164 Haystack: Democratizing Search Relevance story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+165 Ionic Chat Tutorials story -4.5188016102 -5.7160481894 -5.7292428829 0 story right
+166 Cattle not pets: infrastructure, containers and security in a cloud native world story -33.4292676756 -41.064777335 -42.0786480092 0 story right
+167 Kroger, Microsoft Create Futuristic Grocery Store story -6.2279412755 -9.5973186933 -9.3731690769 0 story right
+168 These Are the Best Parenting Books story -10.3650556257 -13.6709226989 -15.4592966947 0 story right
+169 Escaping the Gang: A Blood's Story story -14.672315078 -19.3571534925 -19.3558310021 0 story right
+170 Tails – simplified installation method story -13.0355780546 -14.4328317066 -13.9379140248 0 story right
+171 The CDC’s First Study of Dockless Electric Scooters Will Happen in Austin story -29.912637543 -38.5326771692 -38.6391696389 0 story right
+172 Ask HN: How do you get what you need from the HR department? ask_hn -34.0677901533 -33.1815630349 -42.2990942513 0 ask_hn right
+173 Forbes is building more AI tools for its reporters story -22.0369447662 -27.823827964 -30.2990270461 0 story right
+174 Despite ride-hailing’s promise, vehicle ownership (and traffic) is on the rise story -39.0553071931 -46.2355435635 -47.3306988128 0 story right
+175 Manhattan judge blocks NYC law regulating Airbnb activity story -27.1431303034 -31.866398741 -30.3552563086 0 story right
+176 Ask HN: Is anyone using Google Cloud Platform for a non-trivial project? ask_hn -28.7452939415 -28.4125853728 -33.9333443705 0 ask_hn right
+177 Anonymous found the organization responsible for gangstalking story -14.9510225308 -17.8061416384 -18.489624984 0 story right
+178 Ask HN: Anyone using constraint programming in production? ask_hn -22.5927736287 -21.1391770244 -25.6033590575 0 ask_hn right
+179 New Horizons planning additional extended missions story -17.9081641485 -21.7182514596 -21.5823137362 0 story right
+180 Imputing text data using markov random fields story -17.5208394577 -19.3880632352 -19.9987371507 0 story right
+181 Introducing Individual Account Subscription Tiers for Perma story -9.8282884594 -12.0923875918 -11.7666752686 0 story right
+182 Useless Use of dd story -8.5626627342 -11.2552952066 -11.4851057195 0 story right
+183 NASA exoplanet hunter racks up bizarre worlds and exploding stars story -28.6932202305 -33.7791862964 -33.2887830365 0 story right
+184 How to secure and manage secrets using Google Cloud KMS story -25.1726649859 -30.869746583 -33.3641555185 0 story right
+185 6 Lessons self-taught developers can learn from J.D. Salinger story -21.9164091227 -26.1708076291 -27.26712022 0 story right
+186 The Most Confusing Things About Spacecraft Orbits story -10.7990263459 -14.4051349101 -16.2052632617 0 story right
+187 U.S. Carbon Emissions Surged in 2018 Even as Coal Plants Closed story -11.3527585907 -15.0698250897 -14.9962291103 0 story right
+188 Get free Windows Server eval license from Microsoft (180 days) story -25.6431457095 -32.0732674321 -31.6689942782 0 story right
+189 Autonomous Robot Hit and ‘Killed’ by Self-Driving Tesla story -22.2729546325 -29.6760670429 -29.0550313076 0 story right
+190 Police handed new anti-drone powers after Gatwick disruption story -27.8546456194 -35.2705479902 -34.3891535816 0 story right
+191 Open Source Communities story -2.9060177535 -5.017078185 -4.7750003735 0 story right
+192 Waymo CEO Says Self-Driving Cars Will Always Be Limited story -33.2337535944 -42.1253327168 -42.2700015512 0 story right
+193 Ask HN: Does UpWork suspend accounts just for not subscribing? ask_hn -26.4059637932 -24.909468655 -29.4296564411 0 ask_hn right
+194 Show HN: A guessing game for historical events / people show_hn -25.481102315 -27.5185094199 -24.4359654405 0 show_hn right
+195 What’s the rush? The power of a slow morning story -24.7532657174 -30.7211689727 -32.7526738909 0 story right
+196 Team Building Mental Models story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+197 Eight Odd Details Hidden in Masterpieces story -5.8761676591 -8.4212274342 -8.3478632116 0 story right
+198 2018, the Year Bitcoin Separated from the Pack story -20.4010826974 -25.7734084124 -25.8731691668 0 story right
+199 I Got 99 Problems and Your Hiring Practices Are All of Them story -23.2603095879 -28.8784823373 -31.6107457624 0 story right
+200 Is KDE the Future of Linux and Mobile Phones? story -24.758534437 -31.9635924298 -33.7190852371 0 story right
+201 Scape Technologies raises $8m to let machines visually recognize their location story -27.5786852825 -32.729940478 -32.6374546666 0 story right
+202 How the Brain Interprets Coffee story -8.0463878826 -10.6257704667 -12.0084950991 0 story right
+203 AT&T misleads customers by updating phones with fake 5G icon story -26.0489681204 -32.6965167224 -33.6123203731 0 story right
+204 DoneJS 3 story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+205 Linux 5.0 File-System Benchmarks: Btrfs vs. EXT4 vs. F2FS vs. XFS story -24.6097685314 -27.9367244231 -30.8323775633 0 story right
+206 Looking back at Postgres [pdf] story -15.7822536621 -21.7516752151 -21.9247364171 0 story right
+207 Google Gives Nielsen a Cross-Platform Boost story -19.242720427 -24.117601826 -24.0840780818 0 story right
+208 Walter Benjamin, “Unpacking My Library: A Talk about Book Collecting” [pdf] story -20.4175189196 -25.4462041137 -25.261729954 0 story right
+209 Lies, Damn Lies, and TOPS/Watt story -17.0893356901 -21.1811322753 -20.7372156963 0 story right
+210 Clojure: Deps and CLI story -9.5367439057 -12.4643487581 -11.6834465144 0 story right
+211 Rec Room Reports 1M Installs, but with Small Steam Stats, Likely Much Less Users story -27.6565747028 -31.228169392 -33.5031759037 0 story right
+212 Exploring the effect of microdosing psychedelics on creativity story -17.2973473624 -22.5374788005 -22.2284327217 0 story right
+213 The elements of journalism story -11.9444099318 -15.43347914 -15.4821595777 0 story right
+214 The world’s first foldable phone is charmingly awful story -12.782434723 -18.1319767995 -19.1032228887 0 story right
+215 Show HN: Delivery route planner on stereoids show_hn -22.4506090622 -23.2507845362 -20.7473479997 0 show_hn right
+216 EU Bug Bounty – Software Security as a Civil Right story -14.7086428104 -19.0132435004 -19.0259746803 0 story right
+217 Purely Functional Retrogames story -8.6745274905 -10.074439948 -9.5950178265 0 story right
+218 American Cheese Surplus Reaches Record High story -7.4494904084 -10.074439948 -10.0721390812 0 story right
+219 Hexyl: A command-line hex viewer story -13.7731286403 -16.7230376034 -15.5444137209 0 story right
+220 How to Display Steppers on Mobile Forms story -10.5447074064 -12.5216229705 -14.2805931302 0 story right
+221 The Real Problems with Artificial Intelligence story -16.9212514135 -23.5072693086 -22.6326920763 0 story right
+222 Why Regulators Went Soft on Monopolies story -19.9284967779 -23.4496189224 -24.8673825242 0 story right
+223 London is top European city for tech investment story -25.3568833454 -30.6531317368 -32.1119404027 0 story right
+224 Data Visualization: A Practical Introduction (R/ggplot) story -16.1197534483 -20.0400366769 -20.022008493 0 story right
+225 Building a Better World Wide Web story -17.5350574068 -21.681439179 -22.8609902601 0 story right
+226 Who do you think you are? story -15.5647490482 -17.5982345617 -23.0709038929 0 story right
+227 This How You Can Make “Union”, “Except” and “Intersect” Sql Queries in Sqlkata story -33.3760870121 -38.071186207 -40.9234141468 0 story right
+228 Open mapping in Africa: community spirit and the common good story -31.3151131097 -37.0972921311 -38.5427293874 0 story right
+229 A Comprehensive List of Blockchain Platforms story -11.1966660466 -14.3905991435 -13.8300839612 0 story right
+230 A Future of Netflix story -10.4129823075 -14.6124478931 -15.1523032559 0 story right
+231 Availability of the Government of the United States story -17.6541886621 -24.6737888359 -25.2350762724 0 story right
+232 Nature is intelligent: Pentagon looks to insects for AI biomimicry design story -27.0315861883 -32.8524655757 -34.3941387607 0 story right
+233 Property-Based Testing with PropEr, Erlang, and Elixir story -23.0865195987 -27.6214539883 -26.2689900974 0 story right
+234 Serverless Startups in Golang – Part 1 story -9.0561796299 -12.3024979381 -12.2136381552 0 story right
+235 Show HN: Extract the contents of files using data recovery techniques in macOS story -37.043063365 -42.9403801212 -39.0646143472 0 show_hn wrong
+236 CDC Open Technology story -10.6193370821 -13.034891698 -13.4607927701 0 story right
+237 The Truth About Brake Pad Replacement in Teslas and Other EVs story -22.923279081 -29.6483702463 -29.4889602055 0 story right
+238 Learning to Infer and Execute 3D Shape Programs story -6.4512886556 -9.6684687407 -9.8445974237 0 story right
+239 Chrome OS to let companies use other Linux distros for apps story -34.1233382706 -39.9911846688 -41.0328061242 0 story right
+240 Underclocking the ESP8266 Leads to WiFi Weirdness story -11.0039198616 -14.9700375826 -14.7343909563 0 story right
+241 Setting up test data for end-to-end browser tests story -28.242354779 -38.9857059491 -36.7769668654 0 story right
+242 Defining Transit Service Areas with Unsupervised Machine Learning story -18.1281439572 -19.5879176911 -21.4287298182 0 story right
+243 Your code may be right, but lack of transparency still hurts story -34.5125631865 -41.2561951185 -43.6097724506 0 story right
+244 What’s Next for Altcoins in 2019? story -9.6838183657 -12.7847296119 -15.0842656016 0 story right
+245 How SendGrid handled 1,000+ PRs during Hacktoberfest story -14.2748499862 -16.7084380949 -18.0589614735 0 story right
+246 A New Cold War Has Begun story -18.3929530285 -22.9670646713 -24.3649046914 0 story right
+247 Take C# 8.0 for a spin story -11.1420259796 -14.160744739 -14.072144969 0 story right
+248 Criminals Demand $10M in Monero in Norwegian Kidnapping Case story -11.4375642678 -15.4847984376 -15.3093797386 0 story right
+249 The First Prime Motion Picture story -8.9885696882 -12.0095858327 -11.5313738444 0 story right
+250 React – useReducer the new amazing Hook Redux style story -16.3882698939 -19.7721268405 -19.5067667749 0 story right
+251 Are the days of the private car really over? story -22.8659170043 -31.9859507591 -32.3539377418 0 story right
+252 Purely Functional GTK+, Part 1: Hello World story -16.4219266088 -18.7912234652 -18.2808102231 0 story right
+253 Amazon accused of knocking off AWS customers' products (2013) story -22.9545179092 -27.3666429464 -29.2641758393 0 story right
+254 For Owners of Ring Security Cameras, Strangers May Have Been Watching Too story -38.6584327214 -45.5715384733 -46.7392322129 0 story right
+255 NASA delays SpaceX commercial crew test flight to February story -28.2635156634 -33.6507592319 -32.9684478856 0 story right
+256 Religion for the Nonreligious story -3.546851798 -6.4868412183 -6.4151788985 0 story right
+257 America’s Electric Grid Has a Vulnerable Back Door–and Russia Walked Through It story -42.5291168662 -51.507324033 -53.4429587848 0 story right
+258 Ask HN: Is PHP still relevant? ask_hn -20.7081452356 -19.2587345369 -22.5335532082 0 ask_hn right
+259 Anonymous Google Employees Voted Arms Control Persons of the Year story -18.6079555558 -23.1960201478 -23.6908307196 0 story right
+260 A Biologist Reconstructs the Grotesque Efficiency of the Nazis’ Killing Machine story -19.9667599963 -24.7161926844 -24.7658514986 0 story right
+261 Genes on the move help nose make sense of scents story -22.8457259612 -28.4871064517 -28.6168294074 0 story right
+262 How to Make Real Life Sketches While Using Google Earth VR story -26.5161479851 -32.4232561835 -33.9110528529 0 story right
+263 Visibility Design – Research story -3.6341950289 -5.2389269347 -5.7292428829 0 story right
+264 Zoneminder 1.32.3 released story -3.0665039392 -5.2389269347 -5.2521216282 0 story right
+265 New Docs Reveal a Covert British Mil-Intel Smear Machine Meddling in US Politics story -20.4180541311 -26.4917878517 -26.98352502 0 story right
+266 MacOS 10.14 Mojave vs. Ubuntu 18.04 LTS vs. Clear Linux Benchmarks story -15.4106455984 -17.3598597011 -17.9128334378 0 story right
+267 Michael Phelps: 'It’s OK to Not Be OK' story -17.2434629335 -20.7485185572 -24.4909314314 0 story right
+268 Chronostasis story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+269 More Trouble for the Hubble Telescope as a Primary Camera Malfunctions story -17.9185751634 -23.4434582835 -23.5776856395 0 story right
+270 How Dead Space's Scariest Scene Almost Killed the Game [video] story -27.8583050931 -35.6000297593 -36.0702370944 0 story right
+271 What it’s like to be too big in America story -23.2709551673 -29.2759522522 -34.9502461167 0 story right
+272 Enhance your IDE with Vim story -13.368614987 -15.6522895249 -15.0646443209 0 story right
+273 How termites help rainforests survive climate change story -20.2135116886 -23.0396153386 -25.4225345754 0 story right
+274 Reserving disk space to keep Windows 10 up to date story -24.4896073795 -31.5538492189 -30.5767568263 0 story right
+275 Kappa architecture at NTT story -6.4024414864 -8.6764999393 -9.5950178265 0 story right
+276 Major Positions on Conscious AI Systems story -15.776620733 -19.7374908177 -21.1613084235 0 story right
+277 Detail Guide for React Native Bridge UI Component story -20.4929507745 -25.1675628676 -23.4731445688 0 story right
+278 Ask HN: Are you Enterprise, or Startup? ask_hn -21.5506016059 -20.0048723894 -25.211807431 0 ask_hn right
+279 Ask HN: Why are we still using text editors to write code? story -35.6729518444 -36.7370420984 -43.1138916672 0 ask_hn wrong
+280 Amazon’s IMDb launches a free streaming service, Freedive story -18.4221082535 -24.2637298617 -23.8622293322 0 story right
+281 Anime.js v3.0.0 story -11.7371616745 -13.9557104519 -12.8965213397 0 story right
+282 Ockam's easy to deploy identity, trust, and interoperability open-source IoT SDK story -32.1351872303 -38.7458472869 -38.7377863338 0 story right
+283 Protect Your Mental Health Against Instagram Envy story -17.5449640644 -20.2659537887 -21.5567596318 0 story right
+284 Republic of Macedonia Approves Name Change in Step Toward Joining EU story -25.1493835444 -31.5067457661 -32.8370386773 0 story right
+285 How Aging Japan Defied Demographics and Revived Its Economy story -26.2657437116 -30.7421584166 -33.5440555416 0 story right
+286 ZFS on Linux Runs into a Snag with Linux 5.0 story -23.2310827831 -28.1704489641 -28.6811321132 0 story right
+287 Undernet: a CSS and JavaScript framework – my personal project this past year story -33.1561687271 -39.7389982295 -39.8408861924 0 story right
+288 Bipolar Junction Transistors in Reverse Avalanche Mode story -10.4655491003 -12.7796191928 -12.2136381552 0 story right
+289 The City of Los Angeles paid $300,000 for a vulnerable earthquake alert app story -34.4951232311 -40.8346214694 -40.7195252023 0 story right
+290 Lawsuit aims to end SEC “gag orders” against startups who have settled charges story -40.9910087246 -47.9747477194 -50.7080094641 0 story right
+291 NIST Computer Security Resource Center story -4.0416803555 -5.7160481894 -5.7292428829 0 story right
+292 The Religious Fanaticism of Silicon Valley Elites story -15.5895908018 -19.7918708986 -19.825055776 0 story right
+293 Geeks! I need feedback on a product idea – WebTraff story -24.9730514977 -27.9349205172 -29.2689090855 0 story right
+294 Facebook,Mozilla others take on India's proposed new social media regulations story -36.6081587533 -44.3807568912 -44.4113761343 0 story right
+295 Leetcode now supports PHP story -9.9662800424 -13.9557104519 -13.0170952709 0 story right
+296 Utah police advise drivers not to drive blindfolded story -24.4418200389 -28.178424121 -29.947770982 0 story right
+297 Show HN: Todox: A Simple TODO List with Trello-Like Boards show_hn -24.8997375944 -27.6414695904 -23.5180943532 0 show_hn right
+298 KB4480116 and KB4480970 failure getting access to MDB database story -17.2480702689 -21.7894015071 -21.9780213691 0 story right
+299 Say no to Venn diagrams when explaining SQL joins (2016) story -26.5282562585 -32.3285399372 -33.3364246709 0 story right
+300 Drug to clear zombie cells anti-ageing treatment after ‘impressive’ human trial story -39.9863984822 -46.7259345077 -46.6203857709 0 story right
+301 Cryptex – Online Treasure Hunt|IIT Hyderabad story -11.5408670293 -13.9557104519 -13.5699372395 0 story right
+302 Canada Says, ‘Give Me Your MBAs, Your Entrepreneurs’ story -22.2835953267 -27.6061603488 -28.2213627294 0 story right
+303 Exponent Podcast: A Significant Shift story -14.3664850442 -16.7230376035 -16.2433837252 0 story right
+304 How We’ll Forget John Lennon: Our culture has two types of forgetting story -32.4330801056 -38.530714992 -41.5938944299 0 story right
+305 Converting Merchant Ships to Missile Ships story -10.0679364904 -12.3359216936 -12.5761861888 0 story right
+306 Problems with crypto market capitalization metric and potential solutions story -26.3298444088 -30.5819057383 -30.979863081 0 story right
+307 Human microbiome aging clocks based on deep learning story -22.6862687706 -28.9313955896 -27.3352174592 0 story right
+308 Ask HN: What are your favorite text adventure games? ask_hn -29.8120598803 -27.5835391886 -32.9767810737 0 ask_hn right
+309 Turning $1 into $1000 in NYC (Day 1) story -15.060441471 -19.6213414467 -20.0543325118 0 story right
+310 Today we remember Aaron story -14.842572879 -16.9161622018 -18.7579314778 0 story right
+311 Too Many Workers Are Trapped by Non-Competes story -22.7283461728 -26.7736956369 -29.3504574257 0 story right
+312 Economics of software design story -8.3936104377 -10.9243019876 -12.1478635511 0 story right
+313 React component which works with istanbul to measure code coverage of QA story -30.0845725545 -35.7521153217 -36.2466233656 0 story right
+314 Related subreddits based on behavior for Hacker News story -20.2866443738 -22.7096809709 -22.9179925176 0 story right
+315 SF restaurants are suffocating story -6.0019921541 -7.9571686523 -8.9581957289 0 story right
+316 Toshi: An Elasticsearch competitor written in Rust story -19.4713118215 -23.8336051695 -23.3338417313 0 story right
+317 DNA pioneer James Watson has final honours stripped amid racism row story -23.5484055597 -25.9894930425 -27.4437238744 0 story right
+318 Show HN: Lbcapi3 – A Python3 version of the localBitcoins api library show_hn -23.0808394005 -26.9783304642 -22.9813671006 0 show_hn right
+319 Understanding Chinese generations using Wechat story -17.4898925545 -20.65130467 -21.2619785854 0 story right
+320 Show HN: Human Foods Dogs Can Eat (App) show_hn -20.4748619764 -22.6205303442 -20.1128359847 0 show_hn right
+321 Google kills the Chromecast Audio story -7.9072647484 -11.863457797 -12.7074651034 0 story right
+322 A long read on a former quant coder convicted of stealing algorithms story -34.1084738567 -40.9630992302 -42.0527521482 0 story right
+323 Notes on the Hawaii false alarm, one year later story -14.900287477 -19.3354342428 -18.9766169927 0 story right
+324 Three Kids Beat Square and Translated Final Fantasy V into English (2017) story -16.8540183318 -20.482162271 -20.369238911 0 story right
+325 Custom Resolution Utility (CRU) 1.4.1 story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+326 The Internet but not as we know it: life online in China, Cuba, India and Russia story -45.0089732816 -58.3031564856 -62.6718245487 0 story right
+327 CPU Wars and Exascale Clarity: HPC in 2019 story -19.446131323 -24.3634327748 -23.8329572797 0 story right
+328 Megashifts, AI and Why the Future Is More Unknowable Than Ever story -23.1501487937 -31.1514566822 -34.8101657064 0 story right
+329 Extraordinary therapeutic potential of psychedelic drugs, explained story -22.1439515204 -25.3974172721 -25.8755221504 0 story right
+330 Spark “first” function behavior on pandas dataframe story -17.0378742624 -20.8378613628 -20.0943616339 0 story right
+331 The Plan to Modernize New York City Transit [PDF] story -15.7738436137 -22.2554573357 -21.9016694131 0 story right
+332 Psychology’s five revelations for finding your true calling story -18.8390974539 -22.6583603452 -22.2970533098 0 story right
+333 Ask HN: Is GDPR the end of side projects? story -26.1395594072 -28.2301989205 -30.9642506083 0 ask_hn wrong
+334 Exploring a critical Net::Protocol issue in Ruby 2.6.0p story -25.365259758 -32.5033921241 -31.4135713941 0 story right
+335 Building, managing and maintaining relationships story -18.7660631616 -21.1811322753 -21.214336951 0 story right
+336 Fisher and Paykel SleepStyle Auto CPAP Machine – Cpapusa story -8.9640509887 -12.2425000084 -11.82957455 0 story right
+337 HAProxy 1.9 Has Arrived story -11.2248080433 -12.9143177667 -14.4150352795 0 story right
+338 NanoSQL story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+339 Ask HN: How do you learn a new programming language? ask_hn -28.3038813388 -27.7111985501 -35.3548014413 0 ask_hn right
+340 Get started with Joplin, a note-taking app story -19.7320280316 -25.3156965927 -24.4616717641 0 story right
+341 US officials say California men were agents of Iran story -29.4277566421 -36.1334725025 -37.3131461383 0 story right
+342 Truth About the Gig Economy story -12.6439864926 -15.8364986742 -16.2052632617 0 story right
+343 Knit Macro Electronics story -4.0416803555 -5.7160481894 -5.7292428829 0 story right
+344 Magement – Next Gen Data Integration Platform story -3.3427103512 -5.2389269347 -5.7292428829 0 story right
+345 Windows 7 enters its final year of free support story -21.2296291616 -27.6254752622 -27.4982590454 0 story right
+346 Are VCs biased against women? A new experiment has surprising results story -35.5951659964 -42.6417521687 -44.9654423306 0 story right
+347 The weird world of YouTuber burnout [video] story -22.5024445507 -27.0772906517 -27.5566056632 0 story right
+348 AAPL as mobile as a service company story -16.8796254645 -21.1869438282 -22.6699008743 0 story right
+349 Brain Maps Out Ideas and Memories Like Spaces story -18.266314447 -23.5773125947 -24.2350138546 0 story right
+350 Feds Can't Force You to Unlock Your iPhone with Finger or Face, Judge Rules story -42.47456008 -47.4163074464 -50.2035215402 0 story right
+351 Our family, divided by the Troubles (2016) story -19.0218896989 -24.6076398538 -23.9368131489 0 story right
+352 Daimler is beating Tesla to making semi-autonomous big rigs story -33.3005828612 -39.1363281011 -40.6320673033 0 story right
+353 DevOps for the Hybrid Cloud: Red Hat Ansible Tower 3.4 story -22.2956291377 -27.8016787566 -27.6525386353 0 story right
+354 Key-Value Storage written in PHP story -20.2894682336 -24.5325751739 -22.7440161964 0 story right
+355 Finally, a Problem That Only Quantum Computers Will Ever Be Able to Solve (2018) story -38.8902657686 -47.1122199275 -51.2627137146 0 story right
+356 Facebook Faces Action from German Watchdog story -20.83003116 -25.4868176833 -26.2676326154 0 story right
+357 Your phone could reveal your radiation exposure after a nuclear disaster story -27.6089439578 -35.0998560443 -34.8697286281 0 story right
+358 Ask HN: What's the post mortem of the big Quora hack? story -34.0218302376 -35.9639627367 -40.6004842254 0 ask_hn wrong
+359 Use the Unofficial Bash Strict Mode (Unless You Looove Debugging) story -18.7525529328 -22.2184737693 -22.8559119225 0 story right
+1 Why We Sleep, and Why We Often Can’t story -23.3148566845 -28.8086973651 -33.5440555416 0 story right
+2 The Media’s Post-Advertising Future Is Also Its Past story -28.2661931748 -33.4017863099 -36.4748076819 0 story right
+3 How Well Do We Understand Probabilities in Medicine? (2016) story -24.8531609432 -29.2157913435 -32.3083303885 0 story right
+4 Progress in Deep Learning Object Detection story -21.0060663446 -24.4234307045 -23.3672654868 0 story right
+5 Upgrading the Nginx Executable on the Fly story -13.0160606915 -18.0882796279 -18.223289326 0 story right
+6 The demographic time bomb that could hit America story -21.5515071031 -27.8219765852 -27.6428872496 0 story right
+7 Selenium: Storing Data Efficiently story -15.457642161 -17.2727095253 -17.239417538 0 story right
+8 Remembering Riccardo Giacconi, a Titan of the Heroic Age of Astronomy story -23.4726314706 -28.6882706024 -29.248116149 0 story right
+9 Exploring personal smartphone usage across 2018 story -19.3878255812 -22.4506452195 -22.6237064214 0 story right
+10 Ask HN: What’s the most effective NY resolution you ever had? ask_hn -31.8797517675 -30.2475208053 -38.9690884968 0 ask_hn right
+11 AI Index 2018 Report [pdf] story -12.7056250883 -18.3141022105 -17.3265677137 0 story right
+12 2019: Make Yourself Great Again story -14.0271985126 -16.7230376035 -17.5274825564 0 story right
+13 Review of Modern Auto Layout story -8.6850951155 -11.8451207416 -11.6707422965 0 story right
+14 Show HN: Pre-render JavaScript apps on CloudFront show_hn -28.9383915511 -30.7914767944 -26.8804721803 0 show_hn right
+15 Lars Bak: How Dart learned from past object-oriented systems (splashcon 2015) story -22.5258175762 -26.4402047769 -28.5893395147 0 story right
+16 Object eversion, ZigZag, and the RDBMS story -11.7071651538 -15.5755859018 -14.6867493219 0 story right
+17 Massive bonfire sparks ember storm in Dutch town story -18.2985068845 -21.0192814553 -21.3765518065 0 story right
+18 Why We Support #ProofofKeys and You Should, Too story -19.472946773 -24.5103035361 -28.1597666582 0 story right
+19 Sally Rooney Gets in Your Head story -10.6968079762 -14.4761982658 -14.4481948787 0 story right
+20 The West Coast is beating the East Coast on transportation? story -19.7442453357 -24.6877918494 -25.7951383703 0 story right
+21 Understanding Zero-Knowledge Proofs story -11.3453819745 -13.9557104519 -14.4150352795 0 story right
+22 Discard autocomplete – write code quickly and without errors story -14.8835255534 -19.0727928005 -18.5698983616 0 story right
+23 Chinese schools monitor students activities with 'intelligent uniforms' story -28.9895987833 -34.0944567311 -33.5031759037 0 story right
+24 The Chinese takeover of Indian app ecosystem story -22.5339848521 -27.8096844115 -27.8118781683 0 story right
+25 Ask HN: What are your goals for 2019? ask_hn -20.7791319378 -18.8784940746 -24.0819613599 0 ask_hn right
+26 Node.js with TypeScript – Setting Up a Node.js App with TypeScript story -35.8278705148 -47.0742316302 -43.4626622127 0 story right
+27 How I Earn $200,000 a Year from Photography story -21.0064663832 -24.282618504 -25.6894408808 0 story right
+28 California Could Soon Have Its Own Version of the Internet story -28.9311060518 -37.6797094781 -40.5852942581 0 story right
+29 Visual Mental Imagery Training story -7.6768192873 -9.5973186933 -9.3731690769 0 story right
+30 The Usefulness of Useless Knowledge [Flexner, 1939] story -11.467288677 -15.43347914 -15.4821595777 0 story right
+31 Laravel, Cloudflare and Trusted Proxies story -18.4100676735 -21.1811322753 -20.369238911 0 story right
+32 Could dust destroy Bitcoin? story -14.5765953906 -17.9461254252 -17.4357121831 0 story right
+33 Show HN: Distinguish – a simple way to minify and disambiguate CSS classes show_hn -26.4539480823 -29.3658321517 -26.2884296591 0 show_hn right
+34 Pro-tips to pass resume screening story -17.1598312981 -20.5755839561 -20.7848573307 0 story right
+35 Nikolaas Tinbergen Seagull (1974) story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+36 The Year in Science–and What Americans Thought about It story -25.973246182 -33.3768847303 -38.1747526021 0 story right
+37 Censoring China’s Internet, for Stability and Profit story -18.4490652472 -23.6762011738 -23.6078431427 0 story right
+38 Hydrogen power: China backs fuel cell technology story -24.6277500204 -31.1674287367 -31.0876500684 0 story right
+39 You Should Open Source Your Product story -17.3287563184 -20.1048456944 -22.7279293765 0 story right
+40 “Don’t just use your beliefs to measure reality, also use reality to measure...” story -36.3943397487 -42.0613762199 -45.0787579118 0 story right
+41 GitHub: Partial System Outage story -3.4774089251 -4.8709501494 -4.6152995306 0 story right
+42 Google’s Kelsey Hightower Dissects Serverless Hype and Hope story -20.8318839302 -25.1715472486 -25.5572331493 0 story right
+43 'Bandersnatch:' Every Path and How to Watch Every Ending story -23.3733149285 -29.5994909131 -31.2280851962 0 story right
+44 Replicating the GitHub GraphQL API with Neo4j story -18.7123637323 -22.8082993043 -21.6278931934 0 story right
+45 3 Implications of Product-Led Growth story -12.4458726945 -16.3126569696 -16.2354872443 0 story right
+46 Thunderbird “loses” emails when downloading from mail server to a local folder story -35.906366594 -40.4947961167 -41.0212617405 0 story right
+47 Where Can We Reduce Healthcare Costs in 2019? story -14.370379913 -18.7762434066 -20.2004605475 0 story right
+48 This Year in Solus: 2018 Edition story -11.680852123 -15.8157916567 -16.0794130988 0 story right
+49 Patches welcome story -8.1539405419 -10.074439948 -10.0721390812 0 story right
+50 Imagine Giving Birth in Space story -12.848876059 -17.1380109514 -16.5565343535 0 story right
+51 “Smart uniforms” help schools in China monitor students story -26.5983762902 -32.9183654721 -32.605899852 0 story right
+52 [ANN] tools.deps.alpha 0.6.474 and clj 1.10.0.408 story -13.3716761961 -16.1237705124 -15.6953494937 0 story right
+53 Google sat on a Chromecast bug for years, now hackers could wreak havoc story -33.0959216632 -41.4792113928 -42.7547478541 0 story right
+54 Fancy Tree Traversals story -4.0416803555 -5.7160481894 -5.7292428829 0 story right
+55 No Collision story -7.3458260683 -9.5973186933 -9.5950178265 0 story right
+56 Windows 10 1903 to support AVIF format story -12.3089702682 -16.6943134522 -15.5211423785 0 story right
+57 Ask HN: CI and Tests for Personal Project story -24.9460339847 -25.2931682246 -27.5061821497 0 ask_hn wrong
+58 The iCERT Portal System is currently unavailable story -7.9579257523 -10.5912845413 -11.5935217511 0 story right
+59 2990WX Threadripper Performance Regression FIXED on Windows* story -13.3262292737 -16.7013183538 -16.5965634756 0 story right
+60 How to Get Ideas for New Product Features story -14.3888262734 -18.8575337159 -20.3966081479 0 story right
+61 Alibaba Open-Sources Mars to Complement NumPy story -15.2226685712 -19.3994926971 -19.6087660717 0 story right
+62 Mark Cuban created a huge discussion about a single resume story -21.2266511737 -25.0682143321 -24.8454797379 0 story right
+63 Accessibility of nested classes story -9.7332038285 -12.3222419963 -12.3697123008 0 story right
+64 Proto-internet trolls: Struensee and press freedom in 18th century Denmark story -24.0258219446 -28.2447032787 -28.175853478 0 story right
+65 Genchi – real time visibility for project stakeholders story -10.9215971261 -14.7725645676 -14.1641028818 0 story right
+66 Electronic health records are coming of age with Open Standards help story -34.2296301574 -41.2885584872 -42.5275001276 0 story right
+67 Perl 6 environment manager – Shoichi Kaji story -11.6362505223 -13.2567404476 -13.9379140248 0 story right
+68 Bristol-Myers Squibb to buy Celgene in $74B deal story -15.1039071648 -18.223401438 -19.5377027158 0 story right
+69 Andrew Sullivan on the Opioid Epidemic in America (2018) story -17.7971858164 -22.5177347423 -22.5494798308 0 story right
+70 I made MPD index SoundCloud, here's how I did it story -22.3913695944 -25.7557298339 -31.0402294984 0 story right
+71 Why Rust? (2015) story -5.9483152043 -8.5830782541 -10.0721390812 0 story right
+72 The Best Skin-Care Trick: Be Rich story -17.7739892156 -22.3877062161 -24.1450890913 0 story right
+73 Early Nintendo programmer worked without a keyboard story -23.6785121167 -26.8662467646 -28.0589974948 0 story right
+74 Wild monkeys with killer herpes are breeding like crazy in Florida story -39.6985992993 -43.0567255165 -43.8027897461 0 story right
+75 Is This the End of the Age of Apple? story -21.5566011026 -30.9053242721 -32.3298040621 0 story right
+76 Putting paralyzed patients back on their feet story -15.7999055164 -20.8378613628 -21.6384296782 0 story right
+77 That Viral Video of Alexandria Ocasio-Cortez Dancing Is a Meta-Meme story -24.0383258973 -28.6499900309 -29.8188800898 0 story right
+78 Polish government: wind turbines will be scrapped within 17 years story -23.7612360922 -27.6187936769 -29.2413129563 0 story right
+79 Guide which focuses upon a different set of UX Workflow Terminologies story -38.1658278977 -43.1917712777 -44.5983341346 0 story right
+80 The rise of alternate VC story -11.467288677 -14.9563578853 -15.4821595777 0 story right
+81 Major hack of German politicians’ private data story -18.9658946278 -24.8331458416 -24.135159461 0 story right
+82 How crucial is context in AR? story -13.7322280716 -17.296346044 -19.5636384499 0 story right
+83 Ask HN: How is the light handled in the Monument Valley games? story -27.0022399309 -29.6538799837 -33.7243290945 0 ask_hn wrong
+84 Unheralded Mathematician Bridges the Prime Gap story -18.1380998678 -21.4253393542 -20.9161362453 0 story right
+85 Our working methodology is inefficient. What should we do? story -23.5087319342 -26.8439571018 -33.4715048744 0 story right
+86 Blood speaks: how the taboo of menstruation hurts health story -21.554330272 -25.7268990412 -27.8118781683 0 story right
+87 Cloud Atlas 'astonishingly different' in US and UK editions, study finds (2016) story -24.4556801516 -30.625371432 -31.0873859122 0 story right
+88 Migrating to PR Label Based Continuous Deployment story -25.7118337792 -28.2254206837 -28.356706375 0 story right
+89 Charity Majors: Engineering Management: The Pendulum or the Ladder story -21.7487015408 -25.9195364481 -26.8274116762 0 story right
+90 Bouchard Sues Glassdoor Over Identity of Anonymous Former Employee story -20.5023305399 -25.3974172721 -25.0304241104 0 story right
+91 Experts explain the science behind graphene, the new supermaterial story -24.3048801536 -29.8008069519 -31.6729832337 0 story right
+92 Map Labeling Algorithms with Application in Graph Drawing and Cartography (2008) [pdf] story -23.8359666937 -31.6488525278 -29.1934393047 0 story right
+93 After the fires, solar advocates seek greater role in California electric grid story -36.3352885387 -45.4453561373 -45.2492375655 0 story right
+94 Amazon Says 100M Alexa Devices Have Been Sold – What’s Next? story -19.6272141698 -25.740655026 -30.6726767204 0 story right
+95 Embracing Apple's Boring Future story -15.0570865514 -18.3141022105 -18.2808102231 0 story right
+96 Some Fun Numbers About the Human Brain story -14.6054853676 -19.7177691781 -19.372068201 0 story right
+97 A closer look at bake, a tool that makes building C/C++ code effortless story -32.5223234983 -39.6325944005 -40.0188002932 0 story right
+98 A Linguist’s Guide to Pronouncing ‘GIF’ story -15.3092527352 -18.984519349 -19.2245520875 0 story right
+99 Autumn can now resize iTerm2 by pixel story -12.8538415208 -16.0710641618 -17.2138634335 0 story right
+100 Southwest Airlines Co-Founder Herb Kelleher Dies – SFGate story -11.1892409424 -14.4328317066 -14.4150352795 0 story right
+101 Woman says her son couldn't afford his insulin – now he's dead story -28.2637700608 -35.2705479902 -35.6523950163 0 story right
+102 Spring '19 Updates to Translated Terminology story -14.0710522075 -16.6943134522 -16.9190823871 0 story right
+103 Thanks to Heavy Taxes and Regulations,CA’s Legal Cannabis Sales Fell story -31.9293487369 -36.5177892967 -36.7470726535 0 story right
+104 The Genetic Case Against Designer Babies story -12.8869790203 -17.0669475956 -16.573240047 0 story right
+105 Cigarette butts are the single greatest source of ocean trash story -23.3061375275 -28.8412898599 -30.1957329743 0 story right
+106 The Modern Dignity of an Uncontacted Tribe story -13.9851878879 -18.6157796396 -18.1718432623 0 story right
+107 Blur password manager exposes 2.4M users on misconfigured AWS cloud instance story -26.6869308767 -31.7457193039 -33.235754509 0 story right
+108 My take on the future of applications development and operability story -23.8362147795 -30.7778837887 -30.9312978977 0 story right
+109 Reinforcement Learning – The different challenges, methods and frontiers story -26.3319714296 -31.8330616771 -31.2132360751 0 story right
+110 Minimalism: Practical Guide to Writing Less Code (2002) [pdf] story -25.8484825489 -32.2413897614 -31.5370841215 0 story right
+111 MSI Installer for GNU Emacs story -14.8097803656 -16.9279006051 -16.8085414712 0 story right
+112 Free css generator to build broken and unusual grids story -30.4947851999 -34.0059059357 -32.8795462424 0 story right
+113 How Bitcoin grew up and became big money story -23.2777046957 -29.1980903724 -31.5228662426 0 story right
+114 LiteCLI – A user-friendly command-line client for SQLite database story -30.7675888537 -34.4086354877 -33.9872854111 0 story right
+115 Release 1.0 story -3.0665039392 -5.2389269347 -5.2521216282 0 story right
+116 Azerbaijani blogger is on hunger strike last 10 days. He could die soon story -38.0773654361 -44.393819364 -46.104742261 0 story right
+117 As Market Cools, Median Price for Manhattan Apartment Drops Below $1M story -23.3042102711 -27.4577687644 -26.8455610588 0 story right
+118 Taxpayers Should Never Subsidize Stadiums story -11.2095032519 -12.5577704432 -14.4150352795 0 story right
+119 Thinking Forth – A Language and Philosophy for Solving Problems (1984) [pdf] story -30.12013636 -37.1295375168 -37.9877589286 0 story right
+120 The cryptoeconomic circle story -5.8849096735 -8.3501640784 -7.8874476504 0 story right
+121 iOS Image Classifier in 5 Minutes story -8.8123365866 -12.7796191928 -11.5768160576 0 story right
+122 What happened to Winnograd Schemas? story -12.077974127 -14.6814762275 -16.9190823871 0 story right
+123 Ask HN: Any services for running API performance tests on every pull request? story -42.0461676321 -44.5224328019 -46.4474753104 0 ask_hn wrong
+124 Blog on ZFS story -10.5209240655 -12.3429265952 -12.9526372816 0 story right
+125 Peak AI and the Singularity story -14.6376938138 -19.4568564057 -19.0296455202 0 story right
+126 Interactive Painting with Neural Style Transfer story -17.8207431735 -21.7182514596 -20.7297598139 0 story right
+127 7 Things Desktop Linux Needs in 2019 story -8.6532725392 -11.6035279338 -12.2136381552 0 story right
+128 The Price of a Hack story -12.0992256623 -17.7236850369 -17.3105080234 0 story right
+129 Partial Function Application as a Design Pattern story -3.5031796992 -5.9380682245 -5.9972860854 0 story right
+130 DynamoDB with Clojure story -10.5264831107 -13.0014679424 -12.7429374216 0 story right
+131 The Verified CakeML Compiler Back End [pdf] story -18.8611236332 -25.7837311128 -25.2590324436 0 story right
+132 The contested world of literary estates story -15.3160818798 -19.3147496439 -19.3479345213 0 story right
+133 Engineering Security (2014) [pdf] story -2.872071224 -5.7160481894 -5.2521216282 0 story right
+134 A Critique of Standard ML (1992) [pdf] story -18.4560519415 -22.961254625 -22.8838531431 0 story right
+135 Self-host Sentry for $5/mo story -13.7094098204 -16.4507793504 -16.1095714669 0 story right
+136 Uber employees' feelings about the company revealed in leaked worker survey story -31.7904072425 -38.6260665359 -40.5383645819 0 story right
+137 Ask HN: Good keyboard and mouse to mitigate RSI? ask_hn -26.8837799478 -25.5502751336 -29.3069191456 0 ask_hn right
+138 The future of microdata public use from the Census story -16.5107950995 -23.4409699524 -24.2654589015 0 story right
+139 How creating one product led to the birth of another one? story -24.931815667 -31.723523255 -32.5284877058 0 story right
+140 Tactics for Digital Wellbeing story -9.4503655642 -12.5695088465 -11.6205472329 0 story right
+141 AWS ALB Ingress Controller for Kubernetes story -17.1125770373 -19.964073069 -20.1971951601 0 story right
+142 Auction Your Skills story -10.7893750127 -11.8801634905 -12.3938459805 0 story right
+143 Kymatio: Scattering Transforms in Python story -5.106134299 -7.5761293942 -7.2339198593 0 story right
+144 Ten Things Everyone Should Know About Hospitals story -16.6690001419 -19.7888325339 -22.2557296361 0 story right
+145 The Folly of Hiring Winners and Firing Losers story -20.7859161531 -26.172194682 -26.6243574475 0 story right
+146 Hiding messages in chess games story -12.6628080994 -16.4390409471 -15.5151416684 0 story right
+147 Everything – Locate files and folders by name instantly on Windows story -29.4580111768 -35.825824194 -34.6252131926 0 story right
+148 Data mining adds evidence that war is baked into the structure of society story -36.9263614224 -45.1642256226 -45.41198173 0 story right
+149 Ask HN: Are any ML researchers supported by the community? story -31.4607382155 -32.5131808417 -36.5073717453 0 ask_hn wrong
+150 How to make yourself work when you don’t have any motivation story -28.1418509051 -31.5295355412 -38.3154518862 0 story right
+151 Educational Heap Exploitation story -4.2969528606 -5.7160481894 -5.7292428829 0 story right
+152 Saudi princess, 19, executed for adultery in 1977 story -8.0517705109 -10.9162963327 -10.7413694033 0 story right
+153 How AI can save our humanity story -18.0758134621 -22.9269110583 -25.5686626111 0 story right
+154 Eight odd details hidden in masterpieces story -14.7494914269 -16.6608896967 -17.0336556082 0 story right
+155 How Can Tech Fix the World in 2019? story -17.6786776209 -22.7938710812 -26.002591509 0 story right
+156 Smashing through barriers to set up a $2B tech firm story -28.5431686653 -35.3041430312 -35.6418943713 0 story right
+157 Ask HN: Would you be interested in a Voting-Ring-Detection-As-A-Service ask_hn -43.0029068163 -42.9073158169 -47.6998047419 0 ask_hn right
+158 Yusaku Maezawa: Japanese billionaire tweets most retweeted tweet story -23.9764085034 -26.553764473 -25.7535277944 0 story right
+159 Nvidia Announces GeForce RTX 2060 story -16.6419134285 -18.7912234652 -18.7579314778 0 story right
+160 Web Designer Salaries Increase with Skills Specialization story -14.4465170142 -16.183768442 -17.0858336199 0 story right
+161 Why I Majored in Philosophy Despite Everyone Telling Me Not to (2013) story -34.4923419164 -40.4659717068 -44.3646309843 0 story right
+162 Five big questions about Apple putting iTunes on Samsung TVs story -26.2579857554 -32.2054664625 -33.8220202331 0 story right
+163 ‘Flyover Tech’ Is All the Rage at J.P. Morgan Healthcare Investment Conference story -16.0376309479 -21.0084484205 -23.6679678366 0 story right
+164 Haystack: Democratizing Search Relevance story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+165 Ionic Chat Tutorials story -4.5188016102 -5.7160481894 -5.7292428829 0 story right
+166 Cattle not pets: infrastructure, containers and security in a cloud native world story -33.4292676756 -41.064777335 -42.0786480092 0 story right
+167 Kroger, Microsoft Create Futuristic Grocery Store story -6.2279412755 -9.5973186933 -9.3731690769 0 story right
+168 These Are the Best Parenting Books story -10.3650556257 -13.6709226989 -15.4592966947 0 story right
+169 Escaping the Gang: A Blood's Story story -14.672315078 -19.3571534925 -19.3558310021 0 story right
+170 Tails – simplified installation method story -13.0355780546 -14.4328317066 -13.9379140248 0 story right
+171 The CDC’s First Study of Dockless Electric Scooters Will Happen in Austin story -29.912637543 -38.5326771692 -38.6391696389 0 story right
+172 Ask HN: How do you get what you need from the HR department? ask_hn -34.0677901533 -33.1815630349 -42.2990942513 0 ask_hn right
+173 Forbes is building more AI tools for its reporters story -22.0369447662 -27.823827964 -30.2990270461 0 story right
+174 Despite ride-hailing’s promise, vehicle ownership (and traffic) is on the rise story -39.0553071931 -46.2355435635 -47.3306988128 0 story right
+175 Manhattan judge blocks NYC law regulating Airbnb activity story -27.1431303034 -31.866398741 -30.3552563086 0 story right
+176 Ask HN: Is anyone using Google Cloud Platform for a non-trivial project? ask_hn -28.7452939415 -28.4125853728 -33.9333443705 0 ask_hn right
+177 Anonymous found the organization responsible for gangstalking story -14.9510225308 -17.8061416384 -18.489624984 0 story right
+178 Ask HN: Anyone using constraint programming in production? ask_hn -22.5927736287 -21.1391770244 -25.6033590575 0 ask_hn right
+179 New Horizons planning additional extended missions story -17.9081641485 -21.7182514596 -21.5823137362 0 story right
+180 Imputing text data using markov random fields story -17.5208394577 -19.3880632352 -19.9987371507 0 story right
+181 Introducing Individual Account Subscription Tiers for Perma story -9.8282884594 -12.0923875918 -11.7666752686 0 story right
+182 Useless Use of dd story -8.5626627342 -11.2552952066 -11.4851057195 0 story right
+183 NASA exoplanet hunter racks up bizarre worlds and exploding stars story -28.6932202305 -33.7791862964 -33.2887830365 0 story right
+184 How to secure and manage secrets using Google Cloud KMS story -25.1726649859 -30.869746583 -33.3641555185 0 story right
+185 6 Lessons self-taught developers can learn from J.D. Salinger story -21.9164091227 -26.1708076291 -27.26712022 0 story right
+186 The Most Confusing Things About Spacecraft Orbits story -10.7990263459 -14.4051349101 -16.2052632617 0 story right
+187 U.S. Carbon Emissions Surged in 2018 Even as Coal Plants Closed story -11.3527585907 -15.0698250897 -14.9962291103 0 story right
+188 Get free Windows Server eval license from Microsoft (180 days) story -25.6431457095 -32.0732674321 -31.6689942782 0 story right
+189 Autonomous Robot Hit and ‘Killed’ by Self-Driving Tesla story -22.2729546325 -29.6760670429 -29.0550313076 0 story right
+190 Police handed new anti-drone powers after Gatwick disruption story -27.8546456194 -35.2705479902 -34.3891535816 0 story right
+191 Open Source Communities story -2.9060177535 -5.017078185 -4.7750003735 0 story right
+192 Waymo CEO Says Self-Driving Cars Will Always Be Limited story -33.2337535944 -42.1253327168 -42.2700015512 0 story right
+193 Ask HN: Does UpWork suspend accounts just for not subscribing? ask_hn -26.4059637932 -24.909468655 -29.4296564411 0 ask_hn right
+194 Show HN: A guessing game for historical events / people show_hn -25.481102315 -27.5185094199 -24.4359654405 0 show_hn right
+195 What’s the rush? The power of a slow morning story -24.7532657174 -30.7211689727 -32.7526738909 0 story right
+196 Team Building Mental Models story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+197 Eight Odd Details Hidden in Masterpieces story -5.8761676591 -8.4212274342 -8.3478632116 0 story right
+198 2018, the Year Bitcoin Separated from the Pack story -20.4010826974 -25.7734084124 -25.8731691668 0 story right
+199 I Got 99 Problems and Your Hiring Practices Are All of Them story -23.2603095879 -28.8784823373 -31.6107457624 0 story right
+200 Is KDE the Future of Linux and Mobile Phones? story -24.758534437 -31.9635924298 -33.7190852371 0 story right
+201 Scape Technologies raises $8m to let machines visually recognize their location story -27.5786852825 -32.729940478 -32.6374546666 0 story right
+202 How the Brain Interprets Coffee story -8.0463878826 -10.6257704667 -12.0084950991 0 story right
+203 AT&T misleads customers by updating phones with fake 5G icon story -26.0489681204 -32.6965167224 -33.6123203731 0 story right
+204 DoneJS 3 story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+205 Linux 5.0 File-System Benchmarks: Btrfs vs. EXT4 vs. F2FS vs. XFS story -24.6097685314 -27.9367244231 -30.8323775633 0 story right
+206 Looking back at Postgres [pdf] story -15.7822536621 -21.7516752151 -21.9247364171 0 story right
+207 Google Gives Nielsen a Cross-Platform Boost story -19.242720427 -24.117601826 -24.0840780818 0 story right
+208 Walter Benjamin, “Unpacking My Library: A Talk about Book Collecting” [pdf] story -20.4175189196 -25.4462041137 -25.261729954 0 story right
+209 Lies, Damn Lies, and TOPS/Watt story -17.0893356901 -21.1811322753 -20.7372156963 0 story right
+210 Clojure: Deps and CLI story -9.5367439057 -12.4643487581 -11.6834465144 0 story right
+211 Rec Room Reports 1M Installs, but with Small Steam Stats, Likely Much Less Users story -27.6565747028 -31.228169392 -33.5031759037 0 story right
+212 Exploring the effect of microdosing psychedelics on creativity story -17.2973473624 -22.5374788005 -22.2284327217 0 story right
+213 The elements of journalism story -11.9444099318 -15.43347914 -15.4821595777 0 story right
+214 The world’s first foldable phone is charmingly awful story -12.782434723 -18.1319767995 -19.1032228887 0 story right
+215 Show HN: Delivery route planner on stereoids show_hn -22.4506090622 -23.2507845362 -20.7473479997 0 show_hn right
+216 EU Bug Bounty – Software Security as a Civil Right story -14.7086428104 -19.0132435004 -19.0259746803 0 story right
+217 Purely Functional Retrogames story -8.6745274905 -10.074439948 -9.5950178265 0 story right
+218 American Cheese Surplus Reaches Record High story -7.4494904084 -10.074439948 -10.0721390812 0 story right
+219 Hexyl: A command-line hex viewer story -13.7731286403 -16.7230376034 -15.5444137209 0 story right
+220 How to Display Steppers on Mobile Forms story -10.5447074064 -12.5216229705 -14.2805931302 0 story right
+221 The Real Problems with Artificial Intelligence story -16.9212514135 -23.5072693086 -22.6326920763 0 story right
+222 Why Regulators Went Soft on Monopolies story -19.9284967779 -23.4496189224 -24.8673825242 0 story right
+223 London is top European city for tech investment story -25.3568833454 -30.6531317368 -32.1119404027 0 story right
+224 Data Visualization: A Practical Introduction (R/ggplot) story -16.1197534483 -20.0400366769 -20.022008493 0 story right
+225 Building a Better World Wide Web story -17.5350574068 -21.681439179 -22.8609902601 0 story right
+226 Who do you think you are? story -15.5647490482 -17.5982345617 -23.0709038929 0 story right
+227 This How You Can Make “Union”, “Except” and “Intersect” Sql Queries in Sqlkata story -33.3760870121 -38.071186207 -40.9234141468 0 story right
+228 Open mapping in Africa: community spirit and the common good story -31.3151131097 -37.0972921311 -38.5427293874 0 story right
+229 A Comprehensive List of Blockchain Platforms story -11.1966660466 -14.3905991435 -13.8300839612 0 story right
+230 A Future of Netflix story -10.4129823075 -14.6124478931 -15.1523032559 0 story right
+231 Availability of the Government of the United States story -17.6541886621 -24.6737888359 -25.2350762724 0 story right
+232 Nature is intelligent: Pentagon looks to insects for AI biomimicry design story -27.0315861883 -32.8524655757 -34.3941387607 0 story right
+233 Property-Based Testing with PropEr, Erlang, and Elixir story -23.0865195987 -27.6214539883 -26.2689900974 0 story right
+234 Serverless Startups in Golang – Part 1 story -9.0561796299 -12.3024979381 -12.2136381552 0 story right
+235 Show HN: Extract the contents of files using data recovery techniques in macOS story -37.043063365 -42.9403801212 -39.0646143472 0 show_hn wrong
+236 CDC Open Technology story -10.6193370821 -13.034891698 -13.4607927701 0 story right
+237 The Truth About Brake Pad Replacement in Teslas and Other EVs story -22.923279081 -29.6483702463 -29.4889602055 0 story right
+238 Learning to Infer and Execute 3D Shape Programs story -6.4512886556 -9.6684687407 -9.8445974237 0 story right
+239 Chrome OS to let companies use other Linux distros for apps story -34.1233382706 -39.9911846688 -41.0328061242 0 story right
+240 Underclocking the ESP8266 Leads to WiFi Weirdness story -11.0039198616 -14.9700375826 -14.7343909563 0 story right
+241 Setting up test data for end-to-end browser tests story -28.242354779 -38.9857059491 -36.7769668654 0 story right
+242 Defining Transit Service Areas with Unsupervised Machine Learning story -18.1281439572 -19.5879176911 -21.4287298182 0 story right
+243 Your code may be right, but lack of transparency still hurts story -34.5125631865 -41.2561951185 -43.6097724506 0 story right
+244 What’s Next for Altcoins in 2019? story -9.6838183657 -12.7847296119 -15.0842656016 0 story right
+245 How SendGrid handled 1,000+ PRs during Hacktoberfest story -14.2748499862 -16.7084380949 -18.0589614735 0 story right
+246 A New Cold War Has Begun story -18.3929530285 -22.9670646713 -24.3649046914 0 story right
+247 Take C# 8.0 for a spin story -11.1420259796 -14.160744739 -14.072144969 0 story right
+248 Criminals Demand $10M in Monero in Norwegian Kidnapping Case story -11.4375642678 -15.4847984376 -15.3093797386 0 story right
+249 The First Prime Motion Picture story -8.9885696882 -12.0095858327 -11.5313738444 0 story right
+250 React – useReducer the new amazing Hook Redux style story -16.3882698939 -19.7721268405 -19.5067667749 0 story right
+251 Are the days of the private car really over? story -22.8659170043 -31.9859507591 -32.3539377418 0 story right
+252 Purely Functional GTK+, Part 1: Hello World story -16.4219266088 -18.7912234652 -18.2808102231 0 story right
+253 Amazon accused of knocking off AWS customers' products (2013) story -22.9545179092 -27.3666429464 -29.2641758393 0 story right
+254 For Owners of Ring Security Cameras, Strangers May Have Been Watching Too story -38.6584327214 -45.5715384733 -46.7392322129 0 story right
+255 NASA delays SpaceX commercial crew test flight to February story -28.2635156634 -33.6507592319 -32.9684478856 0 story right
+256 Religion for the Nonreligious story -3.546851798 -6.4868412183 -6.4151788985 0 story right
+257 America’s Electric Grid Has a Vulnerable Back Door–and Russia Walked Through It story -42.5291168662 -51.507324033 -53.4429587848 0 story right
+258 Ask HN: Is PHP still relevant? ask_hn -20.7081452356 -19.2587345369 -22.5335532082 0 ask_hn right
+259 Anonymous Google Employees Voted Arms Control Persons of the Year story -18.6079555558 -23.1960201478 -23.6908307196 0 story right
+260 A Biologist Reconstructs the Grotesque Efficiency of the Nazis’ Killing Machine story -19.9667599963 -24.7161926844 -24.7658514986 0 story right
+261 Genes on the move help nose make sense of scents story -22.8457259612 -28.4871064517 -28.6168294074 0 story right
+262 How to Make Real Life Sketches While Using Google Earth VR story -26.5161479851 -32.4232561835 -33.9110528529 0 story right
+263 Visibility Design – Research story -3.6341950289 -5.2389269347 -5.7292428829 0 story right
+264 Zoneminder 1.32.3 released story -3.0665039392 -5.2389269347 -5.2521216282 0 story right
+265 New Docs Reveal a Covert British Mil-Intel Smear Machine Meddling in US Politics story -20.4180541311 -26.4917878517 -26.98352502 0 story right
+266 MacOS 10.14 Mojave vs. Ubuntu 18.04 LTS vs. Clear Linux Benchmarks story -15.4106455984 -17.3598597011 -17.9128334378 0 story right
+267 Michael Phelps: 'It’s OK to Not Be OK' story -17.2434629335 -20.7485185572 -24.4909314314 0 story right
+268 Chronostasis story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+269 More Trouble for the Hubble Telescope as a Primary Camera Malfunctions story -17.9185751634 -23.4434582835 -23.5776856395 0 story right
+270 How Dead Space's Scariest Scene Almost Killed the Game [video] story -27.8583050931 -35.6000297593 -36.0702370944 0 story right
+271 What it’s like to be too big in America story -23.2709551673 -29.2759522522 -34.9502461167 0 story right
+272 Enhance your IDE with Vim story -13.368614987 -15.6522895249 -15.0646443209 0 story right
+273 How termites help rainforests survive climate change story -20.2135116886 -23.0396153386 -25.4225345754 0 story right
+274 Reserving disk space to keep Windows 10 up to date story -24.4896073795 -31.5538492189 -30.5767568263 0 story right
+275 Kappa architecture at NTT story -6.4024414864 -8.6764999393 -9.5950178265 0 story right
+276 Major Positions on Conscious AI Systems story -15.776620733 -19.7374908177 -21.1613084235 0 story right
+277 Detail Guide for React Native Bridge UI Component story -20.4929507745 -25.1675628676 -23.4731445688 0 story right
+278 Ask HN: Are you Enterprise, or Startup? ask_hn -21.5506016059 -20.0048723894 -25.211807431 0 ask_hn right
+279 Ask HN: Why are we still using text editors to write code? story -35.6729518444 -36.7370420984 -43.1138916672 0 ask_hn wrong
+280 Amazon’s IMDb launches a free streaming service, Freedive story -18.4221082535 -24.2637298617 -23.8622293322 0 story right
+281 Anime.js v3.0.0 story -11.7371616745 -13.9557104519 -12.8965213397 0 story right
+282 Ockam's easy to deploy identity, trust, and interoperability open-source IoT SDK story -32.1351872303 -38.7458472869 -38.7377863338 0 story right
+283 Protect Your Mental Health Against Instagram Envy story -17.5449640644 -20.2659537887 -21.5567596318 0 story right
+284 Republic of Macedonia Approves Name Change in Step Toward Joining EU story -25.1493835444 -31.5067457661 -32.8370386773 0 story right
+285 How Aging Japan Defied Demographics and Revived Its Economy story -26.2657437116 -30.7421584166 -33.5440555416 0 story right
+286 ZFS on Linux Runs into a Snag with Linux 5.0 story -23.2310827831 -28.1704489641 -28.6811321132 0 story right
+287 Undernet: a CSS and JavaScript framework – my personal project this past year story -33.1561687271 -39.7389982295 -39.8408861924 0 story right
+288 Bipolar Junction Transistors in Reverse Avalanche Mode story -10.4655491003 -12.7796191928 -12.2136381552 0 story right
+289 The City of Los Angeles paid $300,000 for a vulnerable earthquake alert app story -34.4951232311 -40.8346214694 -40.7195252023 0 story right
+290 Lawsuit aims to end SEC “gag orders” against startups who have settled charges story -40.9910087246 -47.9747477194 -50.7080094641 0 story right
+291 NIST Computer Security Resource Center story -4.0416803555 -5.7160481894 -5.7292428829 0 story right
+292 The Religious Fanaticism of Silicon Valley Elites story -15.5895908018 -19.7918708986 -19.825055776 0 story right
+293 Geeks! I need feedback on a product idea – WebTraff story -24.9730514977 -27.9349205172 -29.2689090855 0 story right
+294 Facebook,Mozilla others take on India's proposed new social media regulations story -36.6081587533 -44.3807568912 -44.4113761343 0 story right
+295 Leetcode now supports PHP story -9.9662800424 -13.9557104519 -13.0170952709 0 story right
+296 Utah police advise drivers not to drive blindfolded story -24.4418200389 -28.178424121 -29.947770982 0 story right
+297 Show HN: Todox: A Simple TODO List with Trello-Like Boards show_hn -24.8997375944 -27.6414695904 -23.5180943532 0 show_hn right
+298 KB4480116 and KB4480970 failure getting access to MDB database story -17.2480702689 -21.7894015071 -21.9780213691 0 story right
+299 Say no to Venn diagrams when explaining SQL joins (2016) story -26.5282562585 -32.3285399372 -33.3364246709 0 story right
+300 Drug to clear zombie cells anti-ageing treatment after ‘impressive’ human trial story -39.9863984822 -46.7259345077 -46.6203857709 0 story right
+301 Cryptex – Online Treasure Hunt|IIT Hyderabad story -11.5408670293 -13.9557104519 -13.5699372395 0 story right
+302 Canada Says, ‘Give Me Your MBAs, Your Entrepreneurs’ story -22.2835953267 -27.6061603488 -28.2213627294 0 story right
+303 Exponent Podcast: A Significant Shift story -14.3664850442 -16.7230376035 -16.2433837252 0 story right
+304 How We’ll Forget John Lennon: Our culture has two types of forgetting story -32.4330801056 -38.530714992 -41.5938944299 0 story right
+305 Converting Merchant Ships to Missile Ships story -10.0679364904 -12.3359216936 -12.5761861888 0 story right
+306 Problems with crypto market capitalization metric and potential solutions story -26.3298444088 -30.5819057383 -30.979863081 0 story right
+307 Human microbiome aging clocks based on deep learning story -22.6862687706 -28.9313955896 -27.3352174592 0 story right
+308 Ask HN: What are your favorite text adventure games? ask_hn -29.8120598803 -27.5835391886 -32.9767810737 0 ask_hn right
+309 Turning $1 into $1000 in NYC (Day 1) story -15.060441471 -19.6213414467 -20.0543325118 0 story right
+310 Today we remember Aaron story -14.842572879 -16.9161622018 -18.7579314778 0 story right
+311 Too Many Workers Are Trapped by Non-Competes story -22.7283461728 -26.7736956369 -29.3504574257 0 story right
+312 Economics of software design story -8.3936104377 -10.9243019876 -12.1478635511 0 story right
+313 React component which works with istanbul to measure code coverage of QA story -30.0845725545 -35.7521153217 -36.2466233656 0 story right
+314 Related subreddits based on behavior for Hacker News story -20.2866443738 -22.7096809709 -22.9179925176 0 story right
+315 SF restaurants are suffocating story -6.0019921541 -7.9571686523 -8.9581957289 0 story right
+316 Toshi: An Elasticsearch competitor written in Rust story -19.4713118215 -23.8336051695 -23.3338417313 0 story right
+317 DNA pioneer James Watson has final honours stripped amid racism row story -23.5484055597 -25.9894930425 -27.4437238744 0 story right
+318 Show HN: Lbcapi3 – A Python3 version of the localBitcoins api library show_hn -23.0808394005 -26.9783304642 -22.9813671006 0 show_hn right
+319 Understanding Chinese generations using Wechat story -17.4898925545 -20.65130467 -21.2619785854 0 story right
+320 Show HN: Human Foods Dogs Can Eat (App) show_hn -20.4748619764 -22.6205303442 -20.1128359847 0 show_hn right
+321 Google kills the Chromecast Audio story -7.9072647484 -11.863457797 -12.7074651034 0 story right
+322 A long read on a former quant coder convicted of stealing algorithms story -34.1084738567 -40.9630992302 -42.0527521482 0 story right
+323 Notes on the Hawaii false alarm, one year later story -14.900287477 -19.3354342428 -18.9766169927 0 story right
+324 Three Kids Beat Square and Translated Final Fantasy V into English (2017) story -16.8540183318 -20.482162271 -20.369238911 0 story right
+325 Custom Resolution Utility (CRU) 1.4.1 story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+326 The Internet but not as we know it: life online in China, Cuba, India and Russia story -45.0089732816 -58.3031564856 -62.6718245487 0 story right
+327 CPU Wars and Exascale Clarity: HPC in 2019 story -19.446131323 -24.3634327748 -23.8329572797 0 story right
+328 Megashifts, AI and Why the Future Is More Unknowable Than Ever story -23.1501487937 -31.1514566822 -34.8101657064 0 story right
+329 Extraordinary therapeutic potential of psychedelic drugs, explained story -22.1439515204 -25.3974172721 -25.8755221504 0 story right
+330 Spark “first” function behavior on pandas dataframe story -17.0378742624 -20.8378613628 -20.0943616339 0 story right
+331 The Plan to Modernize New York City Transit [PDF] story -15.7738436137 -22.2554573357 -21.9016694131 0 story right
+332 Psychology’s five revelations for finding your true calling story -18.8390974539 -22.6583603452 -22.2970533098 0 story right
+333 Ask HN: Is GDPR the end of side projects? story -26.1395594072 -28.2301989205 -30.9642506083 0 ask_hn wrong
+334 Exploring a critical Net::Protocol issue in Ruby 2.6.0p story -25.365259758 -32.5033921241 -31.4135713941 0 story right
+335 Building, managing and maintaining relationships story -18.7660631616 -21.1811322753 -21.214336951 0 story right
+336 Fisher and Paykel SleepStyle Auto CPAP Machine – Cpapusa story -8.9640509887 -12.2425000084 -11.82957455 0 story right
+337 HAProxy 1.9 Has Arrived story -11.2248080433 -12.9143177667 -14.4150352795 0 story right
+338 NanoSQL story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+339 Ask HN: How do you learn a new programming language? ask_hn -28.3038813388 -27.7111985501 -35.3548014413 0 ask_hn right
+340 Get started with Joplin, a note-taking app story -19.7320280316 -25.3156965927 -24.4616717641 0 story right
+341 US officials say California men were agents of Iran story -29.4277566421 -36.1334725025 -37.3131461383 0 story right
+342 Truth About the Gig Economy story -12.6439864926 -15.8364986742 -16.2052632617 0 story right
+343 Knit Macro Electronics story -4.0416803555 -5.7160481894 -5.7292428829 0 story right
+344 Magement – Next Gen Data Integration Platform story -3.3427103512 -5.2389269347 -5.7292428829 0 story right
+345 Windows 7 enters its final year of free support story -21.2296291616 -27.6254752622 -27.4982590454 0 story right
+346 Are VCs biased against women? A new experiment has surprising results story -35.5951659964 -42.6417521687 -44.9654423306 0 story right
+347 The weird world of YouTuber burnout [video] story -22.5024445507 -27.0772906517 -27.5566056632 0 story right
+348 AAPL as mobile as a service company story -16.8796254645 -21.1869438282 -22.6699008743 0 story right
+349 Brain Maps Out Ideas and Memories Like Spaces story -18.266314447 -23.5773125947 -24.2350138546 0 story right
+350 Feds Can't Force You to Unlock Your iPhone with Finger or Face, Judge Rules story -42.47456008 -47.4163074464 -50.2035215402 0 story right
+351 Our family, divided by the Troubles (2016) story -19.0218896989 -24.6076398538 -23.9368131489 0 story right
+352 Daimler is beating Tesla to making semi-autonomous big rigs story -33.3005828612 -39.1363281011 -40.6320673033 0 story right
+353 DevOps for the Hybrid Cloud: Red Hat Ansible Tower 3.4 story -22.2956291377 -27.8016787566 -27.6525386353 0 story right
+354 Key-Value Storage written in PHP story -20.2894682336 -24.5325751739 -22.7440161964 0 story right
+355 Finally, a Problem That Only Quantum Computers Will Ever Be Able to Solve (2018) story -38.8902657686 -47.1122199275 -51.2627137146 0 story right
+356 Facebook Faces Action from German Watchdog story -20.83003116 -25.4868176833 -26.2676326154 0 story right
+357 Your phone could reveal your radiation exposure after a nuclear disaster story -27.6089439578 -35.0998560443 -34.8697286281 0 story right
+358 Ask HN: What's the post mortem of the big Quora hack? story -34.0218302376 -35.9639627367 -40.6004842254 0 ask_hn wrong
+359 Use the Unofficial Bash Strict Mode (Unless You Looove Debugging) story -18.7525529328 -22.2184737693 -22.8559119225 0 story right
+1 Why We Sleep, and Why We Often Can’t story -23.3148566845 -28.8086973651 -33.5440555416 0 story right
+2 The Media’s Post-Advertising Future Is Also Its Past story -28.2661931748 -33.4017863099 -36.4748076819 0 story right
+3 How Well Do We Understand Probabilities in Medicine? (2016) story -24.8531609432 -29.2157913435 -32.3083303885 0 story right
+4 Progress in Deep Learning Object Detection story -21.0060663446 -24.4234307045 -23.3672654868 0 story right
+5 Upgrading the Nginx Executable on the Fly story -13.0160606915 -18.0882796279 -18.223289326 0 story right
+6 The demographic time bomb that could hit America story -21.5515071031 -27.8219765852 -27.6428872496 0 story right
+7 Selenium: Storing Data Efficiently story -15.457642161 -17.2727095253 -17.239417538 0 story right
+8 Remembering Riccardo Giacconi, a Titan of the Heroic Age of Astronomy story -23.4726314706 -28.6882706024 -29.248116149 0 story right
+9 Exploring personal smartphone usage across 2018 story -19.3878255812 -22.4506452195 -22.6237064214 0 story right
+10 Ask HN: What’s the most effective NY resolution you ever had? ask_hn -31.8797517675 -30.2475208053 -38.9690884968 0 ask_hn right
+11 AI Index 2018 Report [pdf] story -12.7056250883 -18.3141022105 -17.3265677137 0 story right
+12 2019: Make Yourself Great Again story -14.0271985126 -16.7230376035 -17.5274825564 0 story right
+13 Review of Modern Auto Layout story -8.6850951155 -11.8451207416 -11.6707422965 0 story right
+14 Show HN: Pre-render JavaScript apps on CloudFront show_hn -28.9383915511 -30.7914767944 -26.8804721803 0 show_hn right
+15 Lars Bak: How Dart learned from past object-oriented systems (splashcon 2015) story -22.5258175762 -26.4402047769 -28.5893395147 0 story right
+16 Object eversion, ZigZag, and the RDBMS story -11.7071651538 -15.5755859018 -14.6867493219 0 story right
+17 Massive bonfire sparks ember storm in Dutch town story -18.2985068845 -21.0192814553 -21.3765518065 0 story right
+18 Why We Support #ProofofKeys and You Should, Too story -19.472946773 -24.5103035361 -28.1597666582 0 story right
+19 Sally Rooney Gets in Your Head story -10.6968079762 -14.4761982658 -14.4481948787 0 story right
+20 The West Coast is beating the East Coast on transportation? story -19.7442453357 -24.6877918494 -25.7951383703 0 story right
+21 Understanding Zero-Knowledge Proofs story -11.3453819745 -13.9557104519 -14.4150352795 0 story right
+22 Discard autocomplete – write code quickly and without errors story -14.8835255534 -19.0727928005 -18.5698983616 0 story right
+23 Chinese schools monitor students activities with 'intelligent uniforms' story -28.9895987833 -34.0944567311 -33.5031759037 0 story right
+24 The Chinese takeover of Indian app ecosystem story -22.5339848521 -27.8096844115 -27.8118781683 0 story right
+25 Ask HN: What are your goals for 2019? ask_hn -20.7791319378 -18.8784940746 -24.0819613599 0 ask_hn right
+26 Node.js with TypeScript – Setting Up a Node.js App with TypeScript story -35.8278705148 -47.0742316302 -43.4626622127 0 story right
+27 How I Earn $200,000 a Year from Photography story -21.0064663832 -24.282618504 -25.6894408808 0 story right
+28 California Could Soon Have Its Own Version of the Internet story -28.9311060518 -37.6797094781 -40.5852942581 0 story right
+29 Visual Mental Imagery Training story -7.6768192873 -9.5973186933 -9.3731690769 0 story right
+30 The Usefulness of Useless Knowledge [Flexner, 1939] story -11.467288677 -15.43347914 -15.4821595777 0 story right
+31 Laravel, Cloudflare and Trusted Proxies story -18.4100676735 -21.1811322753 -20.369238911 0 story right
+32 Could dust destroy Bitcoin? story -14.5765953906 -17.9461254252 -17.4357121831 0 story right
+33 Show HN: Distinguish – a simple way to minify and disambiguate CSS classes show_hn -26.4539480823 -29.3658321517 -26.2884296591 0 show_hn right
+34 Pro-tips to pass resume screening story -17.1598312981 -20.5755839561 -20.7848573307 0 story right
+35 Nikolaas Tinbergen Seagull (1974) story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+36 The Year in Science–and What Americans Thought about It story -25.973246182 -33.3768847303 -38.1747526021 0 story right
+37 Censoring China’s Internet, for Stability and Profit story -18.4490652472 -23.6762011738 -23.6078431427 0 story right
+38 Hydrogen power: China backs fuel cell technology story -24.6277500204 -31.1674287367 -31.0876500684 0 story right
+39 You Should Open Source Your Product story -17.3287563184 -20.1048456944 -22.7279293765 0 story right
+40 “Don’t just use your beliefs to measure reality, also use reality to measure...” story -36.3943397487 -42.0613762199 -45.0787579118 0 story right
+41 GitHub: Partial System Outage story -3.4774089251 -4.8709501494 -4.6152995306 0 story right
+42 Google’s Kelsey Hightower Dissects Serverless Hype and Hope story -20.8318839302 -25.1715472486 -25.5572331493 0 story right
+43 'Bandersnatch:' Every Path and How to Watch Every Ending story -23.3733149285 -29.5994909131 -31.2280851962 0 story right
+44 Replicating the GitHub GraphQL API with Neo4j story -18.7123637323 -22.8082993043 -21.6278931934 0 story right
+45 3 Implications of Product-Led Growth story -12.4458726945 -16.3126569696 -16.2354872443 0 story right
+46 Thunderbird “loses” emails when downloading from mail server to a local folder story -35.906366594 -40.4947961167 -41.0212617405 0 story right
+47 Where Can We Reduce Healthcare Costs in 2019? story -14.370379913 -18.7762434066 -20.2004605475 0 story right
+48 This Year in Solus: 2018 Edition story -11.680852123 -15.8157916567 -16.0794130988 0 story right
+49 Patches welcome story -8.1539405419 -10.074439948 -10.0721390812 0 story right
+50 Imagine Giving Birth in Space story -12.848876059 -17.1380109514 -16.5565343535 0 story right
+51 “Smart uniforms” help schools in China monitor students story -26.5983762902 -32.9183654721 -32.605899852 0 story right
+52 [ANN] tools.deps.alpha 0.6.474 and clj 1.10.0.408 story -13.3716761961 -16.1237705124 -15.6953494937 0 story right
+53 Google sat on a Chromecast bug for years, now hackers could wreak havoc story -33.0959216632 -41.4792113928 -42.7547478541 0 story right
+54 Fancy Tree Traversals story -4.0416803555 -5.7160481894 -5.7292428829 0 story right
+55 No Collision story -7.3458260683 -9.5973186933 -9.5950178265 0 story right
+56 Windows 10 1903 to support AVIF format story -12.3089702682 -16.6943134522 -15.5211423785 0 story right
+57 Ask HN: CI and Tests for Personal Project story -24.9460339847 -25.2931682246 -27.5061821497 0 ask_hn wrong
+58 The iCERT Portal System is currently unavailable story -7.9579257523 -10.5912845413 -11.5935217511 0 story right
+59 2990WX Threadripper Performance Regression FIXED on Windows* story -13.3262292737 -16.7013183538 -16.5965634756 0 story right
+60 How to Get Ideas for New Product Features story -14.3888262734 -18.8575337159 -20.3966081479 0 story right
+61 Alibaba Open-Sources Mars to Complement NumPy story -15.2226685712 -19.3994926971 -19.6087660717 0 story right
+62 Mark Cuban created a huge discussion about a single resume story -21.2266511737 -25.0682143321 -24.8454797379 0 story right
+63 Accessibility of nested classes story -9.7332038285 -12.3222419963 -12.3697123008 0 story right
+64 Proto-internet trolls: Struensee and press freedom in 18th century Denmark story -24.0258219446 -28.2447032787 -28.175853478 0 story right
+65 Genchi – real time visibility for project stakeholders story -10.9215971261 -14.7725645676 -14.1641028818 0 story right
+66 Electronic health records are coming of age with Open Standards help story -34.2296301574 -41.2885584872 -42.5275001276 0 story right
+67 Perl 6 environment manager – Shoichi Kaji story -11.6362505223 -13.2567404476 -13.9379140248 0 story right
+68 Bristol-Myers Squibb to buy Celgene in $74B deal story -15.1039071648 -18.223401438 -19.5377027158 0 story right
+69 Andrew Sullivan on the Opioid Epidemic in America (2018) story -17.7971858164 -22.5177347423 -22.5494798308 0 story right
+70 I made MPD index SoundCloud, here's how I did it story -22.3913695944 -25.7557298339 -31.0402294984 0 story right
+71 Why Rust? (2015) story -5.9483152043 -8.5830782541 -10.0721390812 0 story right
+72 The Best Skin-Care Trick: Be Rich story -17.7739892156 -22.3877062161 -24.1450890913 0 story right
+73 Early Nintendo programmer worked without a keyboard story -23.6785121167 -26.8662467646 -28.0589974948 0 story right
+74 Wild monkeys with killer herpes are breeding like crazy in Florida story -39.6985992993 -43.0567255165 -43.8027897461 0 story right
+75 Is This the End of the Age of Apple? story -21.5566011026 -30.9053242721 -32.3298040621 0 story right
+76 Putting paralyzed patients back on their feet story -15.7999055164 -20.8378613628 -21.6384296782 0 story right
+77 That Viral Video of Alexandria Ocasio-Cortez Dancing Is a Meta-Meme story -24.0383258973 -28.6499900309 -29.8188800898 0 story right
+78 Polish government: wind turbines will be scrapped within 17 years story -23.7612360922 -27.6187936769 -29.2413129563 0 story right
+79 Guide which focuses upon a different set of UX Workflow Terminologies story -38.1658278977 -43.1917712777 -44.5983341346 0 story right
+80 The rise of alternate VC story -11.467288677 -14.9563578853 -15.4821595777 0 story right
+81 Major hack of German politicians’ private data story -18.9658946278 -24.8331458416 -24.135159461 0 story right
+82 How crucial is context in AR? story -13.7322280716 -17.296346044 -19.5636384499 0 story right
+83 Ask HN: How is the light handled in the Monument Valley games? story -27.0022399309 -29.6538799837 -33.7243290945 0 ask_hn wrong
+84 Unheralded Mathematician Bridges the Prime Gap story -18.1380998678 -21.4253393542 -20.9161362453 0 story right
+85 Our working methodology is inefficient. What should we do? story -23.5087319342 -26.8439571018 -33.4715048744 0 story right
+86 Blood speaks: how the taboo of menstruation hurts health story -21.554330272 -25.7268990412 -27.8118781683 0 story right
+87 Cloud Atlas 'astonishingly different' in US and UK editions, study finds (2016) story -24.4556801516 -30.625371432 -31.0873859122 0 story right
+88 Migrating to PR Label Based Continuous Deployment story -25.7118337792 -28.2254206837 -28.356706375 0 story right
+89 Charity Majors: Engineering Management: The Pendulum or the Ladder story -21.7487015408 -25.9195364481 -26.8274116762 0 story right
+90 Bouchard Sues Glassdoor Over Identity of Anonymous Former Employee story -20.5023305399 -25.3974172721 -25.0304241104 0 story right
+91 Experts explain the science behind graphene, the new supermaterial story -24.3048801536 -29.8008069519 -31.6729832337 0 story right
+92 Map Labeling Algorithms with Application in Graph Drawing and Cartography (2008) [pdf] story -23.8359666937 -31.6488525278 -29.1934393047 0 story right
+93 After the fires, solar advocates seek greater role in California electric grid story -36.3352885387 -45.4453561373 -45.2492375655 0 story right
+94 Amazon Says 100M Alexa Devices Have Been Sold – What’s Next? story -19.6272141698 -25.740655026 -30.6726767204 0 story right
+95 Embracing Apple's Boring Future story -15.0570865514 -18.3141022105 -18.2808102231 0 story right
+96 Some Fun Numbers About the Human Brain story -14.6054853676 -19.7177691781 -19.372068201 0 story right
+97 A closer look at bake, a tool that makes building C/C++ code effortless story -32.5223234983 -39.6325944005 -40.0188002932 0 story right
+98 A Linguist’s Guide to Pronouncing ‘GIF’ story -15.3092527352 -18.984519349 -19.2245520875 0 story right
+99 Autumn can now resize iTerm2 by pixel story -12.8538415208 -16.0710641618 -17.2138634335 0 story right
+100 Southwest Airlines Co-Founder Herb Kelleher Dies – SFGate story -11.1892409424 -14.4328317066 -14.4150352795 0 story right
+101 Woman says her son couldn't afford his insulin – now he's dead story -28.2637700608 -35.2705479902 -35.6523950163 0 story right
+102 Spring '19 Updates to Translated Terminology story -14.0710522075 -16.6943134522 -16.9190823871 0 story right
+103 Thanks to Heavy Taxes and Regulations,CA’s Legal Cannabis Sales Fell story -31.9293487369 -36.5177892967 -36.7470726535 0 story right
+104 The Genetic Case Against Designer Babies story -12.8869790203 -17.0669475956 -16.573240047 0 story right
+105 Cigarette butts are the single greatest source of ocean trash story -23.3061375275 -28.8412898599 -30.1957329743 0 story right
+106 The Modern Dignity of an Uncontacted Tribe story -13.9851878879 -18.6157796396 -18.1718432623 0 story right
+107 Blur password manager exposes 2.4M users on misconfigured AWS cloud instance story -26.6869308767 -31.7457193039 -33.235754509 0 story right
+108 My take on the future of applications development and operability story -23.8362147795 -30.7778837887 -30.9312978977 0 story right
+109 Reinforcement Learning – The different challenges, methods and frontiers story -26.3319714296 -31.8330616771 -31.2132360751 0 story right
+110 Minimalism: Practical Guide to Writing Less Code (2002) [pdf] story -25.8484825489 -32.2413897614 -31.5370841215 0 story right
+111 MSI Installer for GNU Emacs story -14.8097803656 -16.9279006051 -16.8085414712 0 story right
+112 Free css generator to build broken and unusual grids story -30.4947851999 -34.0059059357 -32.8795462424 0 story right
+113 How Bitcoin grew up and became big money story -23.2777046957 -29.1980903724 -31.5228662426 0 story right
+114 LiteCLI – A user-friendly command-line client for SQLite database story -30.7675888537 -34.4086354877 -33.9872854111 0 story right
+115 Release 1.0 story -3.0665039392 -5.2389269347 -5.2521216282 0 story right
+116 Azerbaijani blogger is on hunger strike last 10 days. He could die soon story -38.0773654361 -44.393819364 -46.104742261 0 story right
+117 As Market Cools, Median Price for Manhattan Apartment Drops Below $1M story -23.3042102711 -27.4577687644 -26.8455610588 0 story right
+118 Taxpayers Should Never Subsidize Stadiums story -11.2095032519 -12.5577704432 -14.4150352795 0 story right
+119 Thinking Forth – A Language and Philosophy for Solving Problems (1984) [pdf] story -30.12013636 -37.1295375168 -37.9877589286 0 story right
+120 The cryptoeconomic circle story -5.8849096735 -8.3501640784 -7.8874476504 0 story right
+121 iOS Image Classifier in 5 Minutes story -8.8123365866 -12.7796191928 -11.5768160576 0 story right
+122 What happened to Winnograd Schemas? story -12.077974127 -14.6814762275 -16.9190823871 0 story right
+123 Ask HN: Any services for running API performance tests on every pull request? story -42.0461676321 -44.5224328019 -46.4474753104 0 ask_hn wrong
+124 Blog on ZFS story -10.5209240655 -12.3429265952 -12.9526372816 0 story right
+125 Peak AI and the Singularity story -14.6376938138 -19.4568564057 -19.0296455202 0 story right
+126 Interactive Painting with Neural Style Transfer story -17.8207431735 -21.7182514596 -20.7297598139 0 story right
+127 7 Things Desktop Linux Needs in 2019 story -8.6532725392 -11.6035279338 -12.2136381552 0 story right
+128 The Price of a Hack story -12.0992256623 -17.7236850369 -17.3105080234 0 story right
+129 Partial Function Application as a Design Pattern story -3.5031796992 -5.9380682245 -5.9972860854 0 story right
+130 DynamoDB with Clojure story -10.5264831107 -13.0014679424 -12.7429374216 0 story right
+131 The Verified CakeML Compiler Back End [pdf] story -18.8611236332 -25.7837311128 -25.2590324436 0 story right
+132 The contested world of literary estates story -15.3160818798 -19.3147496439 -19.3479345213 0 story right
+133 Engineering Security (2014) [pdf] story -2.872071224 -5.7160481894 -5.2521216282 0 story right
+134 A Critique of Standard ML (1992) [pdf] story -18.4560519415 -22.961254625 -22.8838531431 0 story right
+135 Self-host Sentry for $5/mo story -13.7094098204 -16.4507793504 -16.1095714669 0 story right
+136 Uber employees' feelings about the company revealed in leaked worker survey story -31.7904072425 -38.6260665359 -40.5383645819 0 story right
+137 Ask HN: Good keyboard and mouse to mitigate RSI? ask_hn -26.8837799478 -25.5502751336 -29.3069191456 0 ask_hn right
+138 The future of microdata public use from the Census story -16.5107950995 -23.4409699524 -24.2654589015 0 story right
+139 How creating one product led to the birth of another one? story -24.931815667 -31.723523255 -32.5284877058 0 story right
+140 Tactics for Digital Wellbeing story -9.4503655642 -12.5695088465 -11.6205472329 0 story right
+141 AWS ALB Ingress Controller for Kubernetes story -17.1125770373 -19.964073069 -20.1971951601 0 story right
+142 Auction Your Skills story -10.7893750127 -11.8801634905 -12.3938459805 0 story right
+143 Kymatio: Scattering Transforms in Python story -5.106134299 -7.5761293942 -7.2339198593 0 story right
+144 Ten Things Everyone Should Know About Hospitals story -16.6690001419 -19.7888325339 -22.2557296361 0 story right
+145 The Folly of Hiring Winners and Firing Losers story -20.7859161531 -26.172194682 -26.6243574475 0 story right
+146 Hiding messages in chess games story -12.6628080994 -16.4390409471 -15.5151416684 0 story right
+147 Everything – Locate files and folders by name instantly on Windows story -29.4580111768 -35.825824194 -34.6252131926 0 story right
+148 Data mining adds evidence that war is baked into the structure of society story -36.9263614224 -45.1642256226 -45.41198173 0 story right
+149 Ask HN: Are any ML researchers supported by the community? story -31.4607382155 -32.5131808417 -36.5073717453 0 ask_hn wrong
+150 How to make yourself work when you don’t have any motivation story -28.1418509051 -31.5295355412 -38.3154518862 0 story right
+151 Educational Heap Exploitation story -4.2969528606 -5.7160481894 -5.7292428829 0 story right
+152 Saudi princess, 19, executed for adultery in 1977 story -8.0517705109 -10.9162963327 -10.7413694033 0 story right
+153 How AI can save our humanity story -18.0758134621 -22.9269110583 -25.5686626111 0 story right
+154 Eight odd details hidden in masterpieces story -14.7494914269 -16.6608896967 -17.0336556082 0 story right
+155 How Can Tech Fix the World in 2019? story -17.6786776209 -22.7938710812 -26.002591509 0 story right
+156 Smashing through barriers to set up a $2B tech firm story -28.5431686653 -35.3041430312 -35.6418943713 0 story right
+157 Ask HN: Would you be interested in a Voting-Ring-Detection-As-A-Service ask_hn -43.0029068163 -42.9073158169 -47.6998047419 0 ask_hn right
+158 Yusaku Maezawa: Japanese billionaire tweets most retweeted tweet story -23.9764085034 -26.553764473 -25.7535277944 0 story right
+159 Nvidia Announces GeForce RTX 2060 story -16.6419134285 -18.7912234652 -18.7579314778 0 story right
+160 Web Designer Salaries Increase with Skills Specialization story -14.4465170142 -16.183768442 -17.0858336199 0 story right
+161 Why I Majored in Philosophy Despite Everyone Telling Me Not to (2013) story -34.4923419164 -40.4659717068 -44.3646309843 0 story right
+162 Five big questions about Apple putting iTunes on Samsung TVs story -26.2579857554 -32.2054664625 -33.8220202331 0 story right
+163 ‘Flyover Tech’ Is All the Rage at J.P. Morgan Healthcare Investment Conference story -16.0376309479 -21.0084484205 -23.6679678366 0 story right
+164 Haystack: Democratizing Search Relevance story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+165 Ionic Chat Tutorials story -4.5188016102 -5.7160481894 -5.7292428829 0 story right
+166 Cattle not pets: infrastructure, containers and security in a cloud native world story -33.4292676756 -41.064777335 -42.0786480092 0 story right
+167 Kroger, Microsoft Create Futuristic Grocery Store story -6.2279412755 -9.5973186933 -9.3731690769 0 story right
+168 These Are the Best Parenting Books story -10.3650556257 -13.6709226989 -15.4592966947 0 story right
+169 Escaping the Gang: A Blood's Story story -14.672315078 -19.3571534925 -19.3558310021 0 story right
+170 Tails – simplified installation method story -13.0355780546 -14.4328317066 -13.9379140248 0 story right
+171 The CDC’s First Study of Dockless Electric Scooters Will Happen in Austin story -29.912637543 -38.5326771692 -38.6391696389 0 story right
+172 Ask HN: How do you get what you need from the HR department? ask_hn -34.0677901533 -33.1815630349 -42.2990942513 0 ask_hn right
+173 Forbes is building more AI tools for its reporters story -22.0369447662 -27.823827964 -30.2990270461 0 story right
+174 Despite ride-hailing’s promise, vehicle ownership (and traffic) is on the rise story -39.0553071931 -46.2355435635 -47.3306988128 0 story right
+175 Manhattan judge blocks NYC law regulating Airbnb activity story -27.1431303034 -31.866398741 -30.3552563086 0 story right
+176 Ask HN: Is anyone using Google Cloud Platform for a non-trivial project? ask_hn -28.7452939415 -28.4125853728 -33.9333443705 0 ask_hn right
+177 Anonymous found the organization responsible for gangstalking story -14.9510225308 -17.8061416384 -18.489624984 0 story right
+178 Ask HN: Anyone using constraint programming in production? ask_hn -22.5927736287 -21.1391770244 -25.6033590575 0 ask_hn right
+179 New Horizons planning additional extended missions story -17.9081641485 -21.7182514596 -21.5823137362 0 story right
+180 Imputing text data using markov random fields story -17.5208394577 -19.3880632352 -19.9987371507 0 story right
+181 Introducing Individual Account Subscription Tiers for Perma story -9.8282884594 -12.0923875918 -11.7666752686 0 story right
+182 Useless Use of dd story -8.5626627342 -11.2552952066 -11.4851057195 0 story right
+183 NASA exoplanet hunter racks up bizarre worlds and exploding stars story -28.6932202305 -33.7791862964 -33.2887830365 0 story right
+184 How to secure and manage secrets using Google Cloud KMS story -25.1726649859 -30.869746583 -33.3641555185 0 story right
+185 6 Lessons self-taught developers can learn from J.D. Salinger story -21.9164091227 -26.1708076291 -27.26712022 0 story right
+186 The Most Confusing Things About Spacecraft Orbits story -10.7990263459 -14.4051349101 -16.2052632617 0 story right
+187 U.S. Carbon Emissions Surged in 2018 Even as Coal Plants Closed story -11.3527585907 -15.0698250897 -14.9962291103 0 story right
+188 Get free Windows Server eval license from Microsoft (180 days) story -25.6431457095 -32.0732674321 -31.6689942782 0 story right
+189 Autonomous Robot Hit and ‘Killed’ by Self-Driving Tesla story -22.2729546325 -29.6760670429 -29.0550313076 0 story right
+190 Police handed new anti-drone powers after Gatwick disruption story -27.8546456194 -35.2705479902 -34.3891535816 0 story right
+191 Open Source Communities story -2.9060177535 -5.017078185 -4.7750003735 0 story right
+192 Waymo CEO Says Self-Driving Cars Will Always Be Limited story -33.2337535944 -42.1253327168 -42.2700015512 0 story right
+193 Ask HN: Does UpWork suspend accounts just for not subscribing? ask_hn -26.4059637932 -24.909468655 -29.4296564411 0 ask_hn right
+194 Show HN: A guessing game for historical events / people show_hn -25.481102315 -27.5185094199 -24.4359654405 0 show_hn right
+195 What’s the rush? The power of a slow morning story -24.7532657174 -30.7211689727 -32.7526738909 0 story right
+196 Team Building Mental Models story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+197 Eight Odd Details Hidden in Masterpieces story -5.8761676591 -8.4212274342 -8.3478632116 0 story right
+198 2018, the Year Bitcoin Separated from the Pack story -20.4010826974 -25.7734084124 -25.8731691668 0 story right
+199 I Got 99 Problems and Your Hiring Practices Are All of Them story -23.2603095879 -28.8784823373 -31.6107457624 0 story right
+200 Is KDE the Future of Linux and Mobile Phones? story -24.758534437 -31.9635924298 -33.7190852371 0 story right
+201 Scape Technologies raises $8m to let machines visually recognize their location story -27.5786852825 -32.729940478 -32.6374546666 0 story right
+202 How the Brain Interprets Coffee story -8.0463878826 -10.6257704667 -12.0084950991 0 story right
+203 AT&T misleads customers by updating phones with fake 5G icon story -26.0489681204 -32.6965167224 -33.6123203731 0 story right
+204 DoneJS 3 story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+205 Linux 5.0 File-System Benchmarks: Btrfs vs. EXT4 vs. F2FS vs. XFS story -24.6097685314 -27.9367244231 -30.8323775633 0 story right
+206 Looking back at Postgres [pdf] story -15.7822536621 -21.7516752151 -21.9247364171 0 story right
+207 Google Gives Nielsen a Cross-Platform Boost story -19.242720427 -24.117601826 -24.0840780818 0 story right
+208 Walter Benjamin, “Unpacking My Library: A Talk about Book Collecting” [pdf] story -20.4175189196 -25.4462041137 -25.261729954 0 story right
+209 Lies, Damn Lies, and TOPS/Watt story -17.0893356901 -21.1811322753 -20.7372156963 0 story right
+210 Clojure: Deps and CLI story -9.5367439057 -12.4643487581 -11.6834465144 0 story right
+211 Rec Room Reports 1M Installs, but with Small Steam Stats, Likely Much Less Users story -27.6565747028 -31.228169392 -33.5031759037 0 story right
+212 Exploring the effect of microdosing psychedelics on creativity story -17.2973473624 -22.5374788005 -22.2284327217 0 story right
+213 The elements of journalism story -11.9444099318 -15.43347914 -15.4821595777 0 story right
+214 The world’s first foldable phone is charmingly awful story -12.782434723 -18.1319767995 -19.1032228887 0 story right
+215 Show HN: Delivery route planner on stereoids show_hn -22.4506090622 -23.2507845362 -20.7473479997 0 show_hn right
+216 EU Bug Bounty – Software Security as a Civil Right story -14.7086428104 -19.0132435004 -19.0259746803 0 story right
+217 Purely Functional Retrogames story -8.6745274905 -10.074439948 -9.5950178265 0 story right
+218 American Cheese Surplus Reaches Record High story -7.4494904084 -10.074439948 -10.0721390812 0 story right
+219 Hexyl: A command-line hex viewer story -13.7731286403 -16.7230376034 -15.5444137209 0 story right
+220 How to Display Steppers on Mobile Forms story -10.5447074064 -12.5216229705 -14.2805931302 0 story right
+221 The Real Problems with Artificial Intelligence story -16.9212514135 -23.5072693086 -22.6326920763 0 story right
+222 Why Regulators Went Soft on Monopolies story -19.9284967779 -23.4496189224 -24.8673825242 0 story right
+223 London is top European city for tech investment story -25.3568833454 -30.6531317368 -32.1119404027 0 story right
+224 Data Visualization: A Practical Introduction (R/ggplot) story -16.1197534483 -20.0400366769 -20.022008493 0 story right
+225 Building a Better World Wide Web story -17.5350574068 -21.681439179 -22.8609902601 0 story right
+226 Who do you think you are? story -15.5647490482 -17.5982345617 -23.0709038929 0 story right
+227 This How You Can Make “Union”, “Except” and “Intersect” Sql Queries in Sqlkata story -33.3760870121 -38.071186207 -40.9234141468 0 story right
+228 Open mapping in Africa: community spirit and the common good story -31.3151131097 -37.0972921311 -38.5427293874 0 story right
+229 A Comprehensive List of Blockchain Platforms story -11.1966660466 -14.3905991435 -13.8300839612 0 story right
+230 A Future of Netflix story -10.4129823075 -14.6124478931 -15.1523032559 0 story right
+231 Availability of the Government of the United States story -17.6541886621 -24.6737888359 -25.2350762724 0 story right
+232 Nature is intelligent: Pentagon looks to insects for AI biomimicry design story -27.0315861883 -32.8524655757 -34.3941387607 0 story right
+233 Property-Based Testing with PropEr, Erlang, and Elixir story -23.0865195987 -27.6214539883 -26.2689900974 0 story right
+234 Serverless Startups in Golang – Part 1 story -9.0561796299 -12.3024979381 -12.2136381552 0 story right
+235 Show HN: Extract the contents of files using data recovery techniques in macOS story -37.043063365 -42.9403801212 -39.0646143472 0 show_hn wrong
+236 CDC Open Technology story -10.6193370821 -13.034891698 -13.4607927701 0 story right
+237 The Truth About Brake Pad Replacement in Teslas and Other EVs story -22.923279081 -29.6483702463 -29.4889602055 0 story right
+238 Learning to Infer and Execute 3D Shape Programs story -6.4512886556 -9.6684687407 -9.8445974237 0 story right
+239 Chrome OS to let companies use other Linux distros for apps story -34.1233382706 -39.9911846688 -41.0328061242 0 story right
+240 Underclocking the ESP8266 Leads to WiFi Weirdness story -11.0039198616 -14.9700375826 -14.7343909563 0 story right
+241 Setting up test data for end-to-end browser tests story -28.242354779 -38.9857059491 -36.7769668654 0 story right
+242 Defining Transit Service Areas with Unsupervised Machine Learning story -18.1281439572 -19.5879176911 -21.4287298182 0 story right
+243 Your code may be right, but lack of transparency still hurts story -34.5125631865 -41.2561951185 -43.6097724506 0 story right
+244 What’s Next for Altcoins in 2019? story -9.6838183657 -12.7847296119 -15.0842656016 0 story right
+245 How SendGrid handled 1,000+ PRs during Hacktoberfest story -14.2748499862 -16.7084380949 -18.0589614735 0 story right
+246 A New Cold War Has Begun story -18.3929530285 -22.9670646713 -24.3649046914 0 story right
+247 Take C# 8.0 for a spin story -11.1420259796 -14.160744739 -14.072144969 0 story right
+248 Criminals Demand $10M in Monero in Norwegian Kidnapping Case story -11.4375642678 -15.4847984376 -15.3093797386 0 story right
+249 The First Prime Motion Picture story -8.9885696882 -12.0095858327 -11.5313738444 0 story right
+250 React – useReducer the new amazing Hook Redux style story -16.3882698939 -19.7721268405 -19.5067667749 0 story right
+251 Are the days of the private car really over? story -22.8659170043 -31.9859507591 -32.3539377418 0 story right
+252 Purely Functional GTK+, Part 1: Hello World story -16.4219266088 -18.7912234652 -18.2808102231 0 story right
+253 Amazon accused of knocking off AWS customers' products (2013) story -22.9545179092 -27.3666429464 -29.2641758393 0 story right
+254 For Owners of Ring Security Cameras, Strangers May Have Been Watching Too story -38.6584327214 -45.5715384733 -46.7392322129 0 story right
+255 NASA delays SpaceX commercial crew test flight to February story -28.2635156634 -33.6507592319 -32.9684478856 0 story right
+256 Religion for the Nonreligious story -3.546851798 -6.4868412183 -6.4151788985 0 story right
+257 America’s Electric Grid Has a Vulnerable Back Door–and Russia Walked Through It story -42.5291168662 -51.507324033 -53.4429587848 0 story right
+258 Ask HN: Is PHP still relevant? ask_hn -20.7081452356 -19.2587345369 -22.5335532082 0 ask_hn right
+259 Anonymous Google Employees Voted Arms Control Persons of the Year story -18.6079555558 -23.1960201478 -23.6908307196 0 story right
+260 A Biologist Reconstructs the Grotesque Efficiency of the Nazis’ Killing Machine story -19.9667599963 -24.7161926844 -24.7658514986 0 story right
+261 Genes on the move help nose make sense of scents story -22.8457259612 -28.4871064517 -28.6168294074 0 story right
+262 How to Make Real Life Sketches While Using Google Earth VR story -26.5161479851 -32.4232561835 -33.9110528529 0 story right
+263 Visibility Design – Research story -3.6341950289 -5.2389269347 -5.7292428829 0 story right
+264 Zoneminder 1.32.3 released story -3.0665039392 -5.2389269347 -5.2521216282 0 story right
+265 New Docs Reveal a Covert British Mil-Intel Smear Machine Meddling in US Politics story -20.4180541311 -26.4917878517 -26.98352502 0 story right
+266 MacOS 10.14 Mojave vs. Ubuntu 18.04 LTS vs. Clear Linux Benchmarks story -15.4106455984 -17.3598597011 -17.9128334378 0 story right
+267 Michael Phelps: 'It’s OK to Not Be OK' story -17.2434629335 -20.7485185572 -24.4909314314 0 story right
+268 Chronostasis story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+269 More Trouble for the Hubble Telescope as a Primary Camera Malfunctions story -17.9185751634 -23.4434582835 -23.5776856395 0 story right
+270 How Dead Space's Scariest Scene Almost Killed the Game [video] story -27.8583050931 -35.6000297593 -36.0702370944 0 story right
+271 What it’s like to be too big in America story -23.2709551673 -29.2759522522 -34.9502461167 0 story right
+272 Enhance your IDE with Vim story -13.368614987 -15.6522895249 -15.0646443209 0 story right
+273 How termites help rainforests survive climate change story -20.2135116886 -23.0396153386 -25.4225345754 0 story right
+274 Reserving disk space to keep Windows 10 up to date story -24.4896073795 -31.5538492189 -30.5767568263 0 story right
+275 Kappa architecture at NTT story -6.4024414864 -8.6764999393 -9.5950178265 0 story right
+276 Major Positions on Conscious AI Systems story -15.776620733 -19.7374908177 -21.1613084235 0 story right
+277 Detail Guide for React Native Bridge UI Component story -20.4929507745 -25.1675628676 -23.4731445688 0 story right
+278 Ask HN: Are you Enterprise, or Startup? ask_hn -21.5506016059 -20.0048723894 -25.211807431 0 ask_hn right
+279 Ask HN: Why are we still using text editors to write code? story -35.6729518444 -36.7370420984 -43.1138916672 0 ask_hn wrong
+280 Amazon’s IMDb launches a free streaming service, Freedive story -18.4221082535 -24.2637298617 -23.8622293322 0 story right
+281 Anime.js v3.0.0 story -11.7371616745 -13.9557104519 -12.8965213397 0 story right
+282 Ockam's easy to deploy identity, trust, and interoperability open-source IoT SDK story -32.1351872303 -38.7458472869 -38.7377863338 0 story right
+283 Protect Your Mental Health Against Instagram Envy story -17.5449640644 -20.2659537887 -21.5567596318 0 story right
+284 Republic of Macedonia Approves Name Change in Step Toward Joining EU story -25.1493835444 -31.5067457661 -32.8370386773 0 story right
+285 How Aging Japan Defied Demographics and Revived Its Economy story -26.2657437116 -30.7421584166 -33.5440555416 0 story right
+286 ZFS on Linux Runs into a Snag with Linux 5.0 story -23.2310827831 -28.1704489641 -28.6811321132 0 story right
+287 Undernet: a CSS and JavaScript framework – my personal project this past year story -33.1561687271 -39.7389982295 -39.8408861924 0 story right
+288 Bipolar Junction Transistors in Reverse Avalanche Mode story -10.4655491003 -12.7796191928 -12.2136381552 0 story right
+289 The City of Los Angeles paid $300,000 for a vulnerable earthquake alert app story -34.4951232311 -40.8346214694 -40.7195252023 0 story right
+290 Lawsuit aims to end SEC “gag orders” against startups who have settled charges story -40.9910087246 -47.9747477194 -50.7080094641 0 story right
+291 NIST Computer Security Resource Center story -4.0416803555 -5.7160481894 -5.7292428829 0 story right
+292 The Religious Fanaticism of Silicon Valley Elites story -15.5895908018 -19.7918708986 -19.825055776 0 story right
+293 Geeks! I need feedback on a product idea – WebTraff story -24.9730514977 -27.9349205172 -29.2689090855 0 story right
+294 Facebook,Mozilla others take on India's proposed new social media regulations story -36.6081587533 -44.3807568912 -44.4113761343 0 story right
+295 Leetcode now supports PHP story -9.9662800424 -13.9557104519 -13.0170952709 0 story right
+296 Utah police advise drivers not to drive blindfolded story -24.4418200389 -28.178424121 -29.947770982 0 story right
+297 Show HN: Todox: A Simple TODO List with Trello-Like Boards show_hn -24.8997375944 -27.6414695904 -23.5180943532 0 show_hn right
+298 KB4480116 and KB4480970 failure getting access to MDB database story -17.2480702689 -21.7894015071 -21.9780213691 0 story right
+299 Say no to Venn diagrams when explaining SQL joins (2016) story -26.5282562585 -32.3285399372 -33.3364246709 0 story right
+300 Drug to clear zombie cells anti-ageing treatment after ‘impressive’ human trial story -39.9863984822 -46.7259345077 -46.6203857709 0 story right
+301 Cryptex – Online Treasure Hunt|IIT Hyderabad story -11.5408670293 -13.9557104519 -13.5699372395 0 story right
+302 Canada Says, ‘Give Me Your MBAs, Your Entrepreneurs’ story -22.2835953267 -27.6061603488 -28.2213627294 0 story right
+303 Exponent Podcast: A Significant Shift story -14.3664850442 -16.7230376035 -16.2433837252 0 story right
+304 How We’ll Forget John Lennon: Our culture has two types of forgetting story -32.4330801056 -38.530714992 -41.5938944299 0 story right
+305 Converting Merchant Ships to Missile Ships story -10.0679364904 -12.3359216936 -12.5761861888 0 story right
+306 Problems with crypto market capitalization metric and potential solutions story -26.3298444088 -30.5819057383 -30.979863081 0 story right
+307 Human microbiome aging clocks based on deep learning story -22.6862687706 -28.9313955896 -27.3352174592 0 story right
+308 Ask HN: What are your favorite text adventure games? ask_hn -29.8120598803 -27.5835391886 -32.9767810737 0 ask_hn right
+309 Turning $1 into $1000 in NYC (Day 1) story -15.060441471 -19.6213414467 -20.0543325118 0 story right
+310 Today we remember Aaron story -14.842572879 -16.9161622018 -18.7579314778 0 story right
+311 Too Many Workers Are Trapped by Non-Competes story -22.7283461728 -26.7736956369 -29.3504574257 0 story right
+312 Economics of software design story -8.3936104377 -10.9243019876 -12.1478635511 0 story right
+313 React component which works with istanbul to measure code coverage of QA story -30.0845725545 -35.7521153217 -36.2466233656 0 story right
+314 Related subreddits based on behavior for Hacker News story -20.2866443738 -22.7096809709 -22.9179925176 0 story right
+315 SF restaurants are suffocating story -6.0019921541 -7.9571686523 -8.9581957289 0 story right
+316 Toshi: An Elasticsearch competitor written in Rust story -19.4713118215 -23.8336051695 -23.3338417313 0 story right
+317 DNA pioneer James Watson has final honours stripped amid racism row story -23.5484055597 -25.9894930425 -27.4437238744 0 story right
+318 Show HN: Lbcapi3 – A Python3 version of the localBitcoins api library show_hn -23.0808394005 -26.9783304642 -22.9813671006 0 show_hn right
+319 Understanding Chinese generations using Wechat story -17.4898925545 -20.65130467 -21.2619785854 0 story right
+320 Show HN: Human Foods Dogs Can Eat (App) show_hn -20.4748619764 -22.6205303442 -20.1128359847 0 show_hn right
+321 Google kills the Chromecast Audio story -7.9072647484 -11.863457797 -12.7074651034 0 story right
+322 A long read on a former quant coder convicted of stealing algorithms story -34.1084738567 -40.9630992302 -42.0527521482 0 story right
+323 Notes on the Hawaii false alarm, one year later story -14.900287477 -19.3354342428 -18.9766169927 0 story right
+324 Three Kids Beat Square and Translated Final Fantasy V into English (2017) story -16.8540183318 -20.482162271 -20.369238911 0 story right
+325 Custom Resolution Utility (CRU) 1.4.1 story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+326 The Internet but not as we know it: life online in China, Cuba, India and Russia story -45.0089732816 -58.3031564856 -62.6718245487 0 story right
+327 CPU Wars and Exascale Clarity: HPC in 2019 story -19.446131323 -24.3634327748 -23.8329572797 0 story right
+328 Megashifts, AI and Why the Future Is More Unknowable Than Ever story -23.1501487937 -31.1514566822 -34.8101657064 0 story right
+329 Extraordinary therapeutic potential of psychedelic drugs, explained story -22.1439515204 -25.3974172721 -25.8755221504 0 story right
+330 Spark “first” function behavior on pandas dataframe story -17.0378742624 -20.8378613628 -20.0943616339 0 story right
+331 The Plan to Modernize New York City Transit [PDF] story -15.7738436137 -22.2554573357 -21.9016694131 0 story right
+332 Psychology’s five revelations for finding your true calling story -18.8390974539 -22.6583603452 -22.2970533098 0 story right
+333 Ask HN: Is GDPR the end of side projects? story -26.1395594072 -28.2301989205 -30.9642506083 0 ask_hn wrong
+334 Exploring a critical Net::Protocol issue in Ruby 2.6.0p story -25.365259758 -32.5033921241 -31.4135713941 0 story right
+335 Building, managing and maintaining relationships story -18.7660631616 -21.1811322753 -21.214336951 0 story right
+336 Fisher and Paykel SleepStyle Auto CPAP Machine – Cpapusa story -8.9640509887 -12.2425000084 -11.82957455 0 story right
+337 HAProxy 1.9 Has Arrived story -11.2248080433 -12.9143177667 -14.4150352795 0 story right
+338 NanoSQL story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+339 Ask HN: How do you learn a new programming language? ask_hn -28.3038813388 -27.7111985501 -35.3548014413 0 ask_hn right
+340 Get started with Joplin, a note-taking app story -19.7320280316 -25.3156965927 -24.4616717641 0 story right
+341 US officials say California men were agents of Iran story -29.4277566421 -36.1334725025 -37.3131461383 0 story right
+342 Truth About the Gig Economy story -12.6439864926 -15.8364986742 -16.2052632617 0 story right
+343 Knit Macro Electronics story -4.0416803555 -5.7160481894 -5.7292428829 0 story right
+344 Magement – Next Gen Data Integration Platform story -3.3427103512 -5.2389269347 -5.7292428829 0 story right
+345 Windows 7 enters its final year of free support story -21.2296291616 -27.6254752622 -27.4982590454 0 story right
+346 Are VCs biased against women? A new experiment has surprising results story -35.5951659964 -42.6417521687 -44.9654423306 0 story right
+347 The weird world of YouTuber burnout [video] story -22.5024445507 -27.0772906517 -27.5566056632 0 story right
+348 AAPL as mobile as a service company story -16.8796254645 -21.1869438282 -22.6699008743 0 story right
+349 Brain Maps Out Ideas and Memories Like Spaces story -18.266314447 -23.5773125947 -24.2350138546 0 story right
+350 Feds Can't Force You to Unlock Your iPhone with Finger or Face, Judge Rules story -42.47456008 -47.4163074464 -50.2035215402 0 story right
+351 Our family, divided by the Troubles (2016) story -19.0218896989 -24.6076398538 -23.9368131489 0 story right
+352 Daimler is beating Tesla to making semi-autonomous big rigs story -33.3005828612 -39.1363281011 -40.6320673033 0 story right
+353 DevOps for the Hybrid Cloud: Red Hat Ansible Tower 3.4 story -22.2956291377 -27.8016787566 -27.6525386353 0 story right
+354 Key-Value Storage written in PHP story -20.2894682336 -24.5325751739 -22.7440161964 0 story right
+355 Finally, a Problem That Only Quantum Computers Will Ever Be Able to Solve (2018) story -38.8902657686 -47.1122199275 -51.2627137146 0 story right
+356 Facebook Faces Action from German Watchdog story -20.83003116 -25.4868176833 -26.2676326154 0 story right
+357 Your phone could reveal your radiation exposure after a nuclear disaster story -27.6089439578 -35.0998560443 -34.8697286281 0 story right
+358 Ask HN: What's the post mortem of the big Quora hack? story -34.0218302376 -35.9639627367 -40.6004842254 0 ask_hn wrong
+359 Use the Unofficial Bash Strict Mode (Unless You Looove Debugging) story -18.7525529328 -22.2184737693 -22.8559119225 0 story right
+1 Why We Sleep, and Why We Often Can’t story -23.3148566845 -28.8086973651 -33.5440555416 0 story right
+2 The Media’s Post-Advertising Future Is Also Its Past story -28.2661931748 -33.4017863099 -36.4748076819 0 story right
+3 How Well Do We Understand Probabilities in Medicine? (2016) story -24.8531609432 -29.2157913435 -32.3083303885 0 story right
+4 Progress in Deep Learning Object Detection story -21.0060663446 -24.4234307045 -23.3672654868 0 story right
+5 Upgrading the Nginx Executable on the Fly story -13.0160606915 -18.0882796279 -18.223289326 0 story right
+6 The demographic time bomb that could hit America story -21.5515071031 -27.8219765852 -27.6428872496 0 story right
+7 Selenium: Storing Data Efficiently story -15.457642161 -17.2727095253 -17.239417538 0 story right
+8 Remembering Riccardo Giacconi, a Titan of the Heroic Age of Astronomy story -23.4726314706 -28.6882706024 -29.248116149 0 story right
+9 Exploring personal smartphone usage across 2018 story -19.3878255812 -22.4506452195 -22.6237064214 0 story right
+10 Ask HN: What’s the most effective NY resolution you ever had? ask_hn -31.8797517675 -30.2475208053 -38.9690884968 0 ask_hn right
+11 AI Index 2018 Report [pdf] story -12.7056250883 -18.3141022105 -17.3265677137 0 story right
+12 2019: Make Yourself Great Again story -14.0271985126 -16.7230376035 -17.5274825564 0 story right
+13 Review of Modern Auto Layout story -8.6850951155 -11.8451207416 -11.6707422965 0 story right
+14 Show HN: Pre-render JavaScript apps on CloudFront show_hn -28.9383915511 -30.7914767944 -26.8804721803 0 show_hn right
+15 Lars Bak: How Dart learned from past object-oriented systems (splashcon 2015) story -22.5258175762 -26.4402047769 -28.5893395147 0 story right
+16 Object eversion, ZigZag, and the RDBMS story -11.7071651538 -15.5755859018 -14.6867493219 0 story right
+17 Massive bonfire sparks ember storm in Dutch town story -18.2985068845 -21.0192814553 -21.3765518065 0 story right
+18 Why We Support #ProofofKeys and You Should, Too story -19.472946773 -24.5103035361 -28.1597666582 0 story right
+19 Sally Rooney Gets in Your Head story -10.6968079762 -14.4761982658 -14.4481948787 0 story right
+20 The West Coast is beating the East Coast on transportation? story -19.7442453357 -24.6877918494 -25.7951383703 0 story right
+21 Understanding Zero-Knowledge Proofs story -11.3453819745 -13.9557104519 -14.4150352795 0 story right
+22 Discard autocomplete – write code quickly and without errors story -14.8835255534 -19.0727928005 -18.5698983616 0 story right
+23 Chinese schools monitor students activities with 'intelligent uniforms' story -28.9895987833 -34.0944567311 -33.5031759037 0 story right
+24 The Chinese takeover of Indian app ecosystem story -22.5339848521 -27.8096844115 -27.8118781683 0 story right
+25 Ask HN: What are your goals for 2019? ask_hn -20.7791319378 -18.8784940746 -24.0819613599 0 ask_hn right
+26 Node.js with TypeScript – Setting Up a Node.js App with TypeScript story -35.8278705148 -47.0742316302 -43.4626622127 0 story right
+27 How I Earn $200,000 a Year from Photography story -21.0064663832 -24.282618504 -25.6894408808 0 story right
+28 California Could Soon Have Its Own Version of the Internet story -28.9311060518 -37.6797094781 -40.5852942581 0 story right
+29 Visual Mental Imagery Training story -7.6768192873 -9.5973186933 -9.3731690769 0 story right
+30 The Usefulness of Useless Knowledge [Flexner, 1939] story -11.467288677 -15.43347914 -15.4821595777 0 story right
+31 Laravel, Cloudflare and Trusted Proxies story -18.4100676735 -21.1811322753 -20.369238911 0 story right
+32 Could dust destroy Bitcoin? story -14.5765953906 -17.9461254252 -17.4357121831 0 story right
+33 Show HN: Distinguish – a simple way to minify and disambiguate CSS classes show_hn -26.4539480823 -29.3658321517 -26.2884296591 0 show_hn right
+34 Pro-tips to pass resume screening story -17.1598312981 -20.5755839561 -20.7848573307 0 story right
+35 Nikolaas Tinbergen Seagull (1974) story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+36 The Year in Science–and What Americans Thought about It story -25.973246182 -33.3768847303 -38.1747526021 0 story right
+37 Censoring China’s Internet, for Stability and Profit story -18.4490652472 -23.6762011738 -23.6078431427 0 story right
+38 Hydrogen power: China backs fuel cell technology story -24.6277500204 -31.1674287367 -31.0876500684 0 story right
+39 You Should Open Source Your Product story -17.3287563184 -20.1048456944 -22.7279293765 0 story right
+40 “Don’t just use your beliefs to measure reality, also use reality to measure...” story -36.3943397487 -42.0613762199 -45.0787579118 0 story right
+41 GitHub: Partial System Outage story -3.4774089251 -4.8709501494 -4.6152995306 0 story right
+42 Google’s Kelsey Hightower Dissects Serverless Hype and Hope story -20.8318839302 -25.1715472486 -25.5572331493 0 story right
+43 'Bandersnatch:' Every Path and How to Watch Every Ending story -23.3733149285 -29.5994909131 -31.2280851962 0 story right
+44 Replicating the GitHub GraphQL API with Neo4j story -18.7123637323 -22.8082993043 -21.6278931934 0 story right
+45 3 Implications of Product-Led Growth story -12.4458726945 -16.3126569696 -16.2354872443 0 story right
+46 Thunderbird “loses” emails when downloading from mail server to a local folder story -35.906366594 -40.4947961167 -41.0212617405 0 story right
+47 Where Can We Reduce Healthcare Costs in 2019? story -14.370379913 -18.7762434066 -20.2004605475 0 story right
+48 This Year in Solus: 2018 Edition story -11.680852123 -15.8157916567 -16.0794130988 0 story right
+49 Patches welcome story -8.1539405419 -10.074439948 -10.0721390812 0 story right
+50 Imagine Giving Birth in Space story -12.848876059 -17.1380109514 -16.5565343535 0 story right
+51 “Smart uniforms” help schools in China monitor students story -26.5983762902 -32.9183654721 -32.605899852 0 story right
+52 [ANN] tools.deps.alpha 0.6.474 and clj 1.10.0.408 story -13.3716761961 -16.1237705124 -15.6953494937 0 story right
+53 Google sat on a Chromecast bug for years, now hackers could wreak havoc story -33.0959216632 -41.4792113928 -42.7547478541 0 story right
+54 Fancy Tree Traversals story -4.0416803555 -5.7160481894 -5.7292428829 0 story right
+55 No Collision story -7.3458260683 -9.5973186933 -9.5950178265 0 story right
+56 Windows 10 1903 to support AVIF format story -12.3089702682 -16.6943134522 -15.5211423785 0 story right
+57 Ask HN: CI and Tests for Personal Project story -24.9460339847 -25.2931682246 -27.5061821497 0 ask_hn wrong
+58 The iCERT Portal System is currently unavailable story -7.9579257523 -10.5912845413 -11.5935217511 0 story right
+59 2990WX Threadripper Performance Regression FIXED on Windows* story -13.3262292737 -16.7013183538 -16.5965634756 0 story right
+60 How to Get Ideas for New Product Features story -14.3888262734 -18.8575337159 -20.3966081479 0 story right
+61 Alibaba Open-Sources Mars to Complement NumPy story -15.2226685712 -19.3994926971 -19.6087660717 0 story right
+62 Mark Cuban created a huge discussion about a single resume story -21.2266511737 -25.0682143321 -24.8454797379 0 story right
+63 Accessibility of nested classes story -9.7332038285 -12.3222419963 -12.3697123008 0 story right
+64 Proto-internet trolls: Struensee and press freedom in 18th century Denmark story -24.0258219446 -28.2447032787 -28.175853478 0 story right
+65 Genchi – real time visibility for project stakeholders story -10.9215971261 -14.7725645676 -14.1641028818 0 story right
+66 Electronic health records are coming of age with Open Standards help story -34.2296301574 -41.2885584872 -42.5275001276 0 story right
+67 Perl 6 environment manager – Shoichi Kaji story -11.6362505223 -13.2567404476 -13.9379140248 0 story right
+68 Bristol-Myers Squibb to buy Celgene in $74B deal story -15.1039071648 -18.223401438 -19.5377027158 0 story right
+69 Andrew Sullivan on the Opioid Epidemic in America (2018) story -17.7971858164 -22.5177347423 -22.5494798308 0 story right
+70 I made MPD index SoundCloud, here's how I did it story -22.3913695944 -25.7557298339 -31.0402294984 0 story right
+71 Why Rust? (2015) story -5.9483152043 -8.5830782541 -10.0721390812 0 story right
+72 The Best Skin-Care Trick: Be Rich story -17.7739892156 -22.3877062161 -24.1450890913 0 story right
+73 Early Nintendo programmer worked without a keyboard story -23.6785121167 -26.8662467646 -28.0589974948 0 story right
+74 Wild monkeys with killer herpes are breeding like crazy in Florida story -39.6985992993 -43.0567255165 -43.8027897461 0 story right
+75 Is This the End of the Age of Apple? story -21.5566011026 -30.9053242721 -32.3298040621 0 story right
+76 Putting paralyzed patients back on their feet story -15.7999055164 -20.8378613628 -21.6384296782 0 story right
+77 That Viral Video of Alexandria Ocasio-Cortez Dancing Is a Meta-Meme story -24.0383258973 -28.6499900309 -29.8188800898 0 story right
+78 Polish government: wind turbines will be scrapped within 17 years story -23.7612360922 -27.6187936769 -29.2413129563 0 story right
+79 Guide which focuses upon a different set of UX Workflow Terminologies story -38.1658278977 -43.1917712777 -44.5983341346 0 story right
+80 The rise of alternate VC story -11.467288677 -14.9563578853 -15.4821595777 0 story right
+81 Major hack of German politicians’ private data story -18.9658946278 -24.8331458416 -24.135159461 0 story right
+82 How crucial is context in AR? story -13.7322280716 -17.296346044 -19.5636384499 0 story right
+83 Ask HN: How is the light handled in the Monument Valley games? story -27.0022399309 -29.6538799837 -33.7243290945 0 ask_hn wrong
+84 Unheralded Mathematician Bridges the Prime Gap story -18.1380998678 -21.4253393542 -20.9161362453 0 story right
+85 Our working methodology is inefficient. What should we do? story -23.5087319342 -26.8439571018 -33.4715048744 0 story right
+86 Blood speaks: how the taboo of menstruation hurts health story -21.554330272 -25.7268990412 -27.8118781683 0 story right
+87 Cloud Atlas 'astonishingly different' in US and UK editions, study finds (2016) story -24.4556801516 -30.625371432 -31.0873859122 0 story right
+88 Migrating to PR Label Based Continuous Deployment story -25.7118337792 -28.2254206837 -28.356706375 0 story right
+89 Charity Majors: Engineering Management: The Pendulum or the Ladder story -21.7487015408 -25.9195364481 -26.8274116762 0 story right
+90 Bouchard Sues Glassdoor Over Identity of Anonymous Former Employee story -20.5023305399 -25.3974172721 -25.0304241104 0 story right
+91 Experts explain the science behind graphene, the new supermaterial story -24.3048801536 -29.8008069519 -31.6729832337 0 story right
+92 Map Labeling Algorithms with Application in Graph Drawing and Cartography (2008) [pdf] story -23.8359666937 -31.6488525278 -29.1934393047 0 story right
+93 After the fires, solar advocates seek greater role in California electric grid story -36.3352885387 -45.4453561373 -45.2492375655 0 story right
+94 Amazon Says 100M Alexa Devices Have Been Sold – What’s Next? story -19.6272141698 -25.740655026 -30.6726767204 0 story right
+95 Embracing Apple's Boring Future story -15.0570865514 -18.3141022105 -18.2808102231 0 story right
+96 Some Fun Numbers About the Human Brain story -14.6054853676 -19.7177691781 -19.372068201 0 story right
+97 A closer look at bake, a tool that makes building C/C++ code effortless story -32.5223234983 -39.6325944005 -40.0188002932 0 story right
+98 A Linguist’s Guide to Pronouncing ‘GIF’ story -15.3092527352 -18.984519349 -19.2245520875 0 story right
+99 Autumn can now resize iTerm2 by pixel story -12.8538415208 -16.0710641618 -17.2138634335 0 story right
+100 Southwest Airlines Co-Founder Herb Kelleher Dies – SFGate story -11.1892409424 -14.4328317066 -14.4150352795 0 story right
+101 Woman says her son couldn't afford his insulin – now he's dead story -28.2637700608 -35.2705479902 -35.6523950163 0 story right
+102 Spring '19 Updates to Translated Terminology story -14.0710522075 -16.6943134522 -16.9190823871 0 story right
+103 Thanks to Heavy Taxes and Regulations,CA’s Legal Cannabis Sales Fell story -31.9293487369 -36.5177892967 -36.7470726535 0 story right
+104 The Genetic Case Against Designer Babies story -12.8869790203 -17.0669475956 -16.573240047 0 story right
+105 Cigarette butts are the single greatest source of ocean trash story -23.3061375275 -28.8412898599 -30.1957329743 0 story right
+106 The Modern Dignity of an Uncontacted Tribe story -13.9851878879 -18.6157796396 -18.1718432623 0 story right
+107 Blur password manager exposes 2.4M users on misconfigured AWS cloud instance story -26.6869308767 -31.7457193039 -33.235754509 0 story right
+108 My take on the future of applications development and operability story -23.8362147795 -30.7778837887 -30.9312978977 0 story right
+109 Reinforcement Learning – The different challenges, methods and frontiers story -26.3319714296 -31.8330616771 -31.2132360751 0 story right
+110 Minimalism: Practical Guide to Writing Less Code (2002) [pdf] story -25.8484825489 -32.2413897614 -31.5370841215 0 story right
+111 MSI Installer for GNU Emacs story -14.8097803656 -16.9279006051 -16.8085414712 0 story right
+112 Free css generator to build broken and unusual grids story -30.4947851999 -34.0059059357 -32.8795462424 0 story right
+113 How Bitcoin grew up and became big money story -23.2777046957 -29.1980903724 -31.5228662426 0 story right
+114 LiteCLI – A user-friendly command-line client for SQLite database story -30.7675888537 -34.4086354877 -33.9872854111 0 story right
+115 Release 1.0 story -3.0665039392 -5.2389269347 -5.2521216282 0 story right
+116 Azerbaijani blogger is on hunger strike last 10 days. He could die soon story -38.0773654361 -44.393819364 -46.104742261 0 story right
+117 As Market Cools, Median Price for Manhattan Apartment Drops Below $1M story -23.3042102711 -27.4577687644 -26.8455610588 0 story right
+118 Taxpayers Should Never Subsidize Stadiums story -11.2095032519 -12.5577704432 -14.4150352795 0 story right
+119 Thinking Forth – A Language and Philosophy for Solving Problems (1984) [pdf] story -30.12013636 -37.1295375168 -37.9877589286 0 story right
+120 The cryptoeconomic circle story -5.8849096735 -8.3501640784 -7.8874476504 0 story right
+121 iOS Image Classifier in 5 Minutes story -8.8123365866 -12.7796191928 -11.5768160576 0 story right
+122 What happened to Winnograd Schemas? story -12.077974127 -14.6814762275 -16.9190823871 0 story right
+123 Ask HN: Any services for running API performance tests on every pull request? story -42.0461676321 -44.5224328019 -46.4474753104 0 ask_hn wrong
+124 Blog on ZFS story -10.5209240655 -12.3429265952 -12.9526372816 0 story right
+125 Peak AI and the Singularity story -14.6376938138 -19.4568564057 -19.0296455202 0 story right
+126 Interactive Painting with Neural Style Transfer story -17.8207431735 -21.7182514596 -20.7297598139 0 story right
+127 7 Things Desktop Linux Needs in 2019 story -8.6532725392 -11.6035279338 -12.2136381552 0 story right
+128 The Price of a Hack story -12.0992256623 -17.7236850369 -17.3105080234 0 story right
+129 Partial Function Application as a Design Pattern story -3.5031796992 -5.9380682245 -5.9972860854 0 story right
+130 DynamoDB with Clojure story -10.5264831107 -13.0014679424 -12.7429374216 0 story right
+131 The Verified CakeML Compiler Back End [pdf] story -18.8611236332 -25.7837311128 -25.2590324436 0 story right
+132 The contested world of literary estates story -15.3160818798 -19.3147496439 -19.3479345213 0 story right
+133 Engineering Security (2014) [pdf] story -2.872071224 -5.7160481894 -5.2521216282 0 story right
+134 A Critique of Standard ML (1992) [pdf] story -18.4560519415 -22.961254625 -22.8838531431 0 story right
+135 Self-host Sentry for $5/mo story -13.7094098204 -16.4507793504 -16.1095714669 0 story right
+136 Uber employees' feelings about the company revealed in leaked worker survey story -31.7904072425 -38.6260665359 -40.5383645819 0 story right
+137 Ask HN: Good keyboard and mouse to mitigate RSI? ask_hn -26.8837799478 -25.5502751336 -29.3069191456 0 ask_hn right
+138 The future of microdata public use from the Census story -16.5107950995 -23.4409699524 -24.2654589015 0 story right
+139 How creating one product led to the birth of another one? story -24.931815667 -31.723523255 -32.5284877058 0 story right
+140 Tactics for Digital Wellbeing story -9.4503655642 -12.5695088465 -11.6205472329 0 story right
+141 AWS ALB Ingress Controller for Kubernetes story -17.1125770373 -19.964073069 -20.1971951601 0 story right
+142 Auction Your Skills story -10.7893750127 -11.8801634905 -12.3938459805 0 story right
+143 Kymatio: Scattering Transforms in Python story -5.106134299 -7.5761293942 -7.2339198593 0 story right
+144 Ten Things Everyone Should Know About Hospitals story -16.6690001419 -19.7888325339 -22.2557296361 0 story right
+145 The Folly of Hiring Winners and Firing Losers story -20.7859161531 -26.172194682 -26.6243574475 0 story right
+146 Hiding messages in chess games story -12.6628080994 -16.4390409471 -15.5151416684 0 story right
+147 Everything – Locate files and folders by name instantly on Windows story -29.4580111768 -35.825824194 -34.6252131926 0 story right
+148 Data mining adds evidence that war is baked into the structure of society story -36.9263614224 -45.1642256226 -45.41198173 0 story right
+149 Ask HN: Are any ML researchers supported by the community? story -31.4607382155 -32.5131808417 -36.5073717453 0 ask_hn wrong
+150 How to make yourself work when you don’t have any motivation story -28.1418509051 -31.5295355412 -38.3154518862 0 story right
+151 Educational Heap Exploitation story -4.2969528606 -5.7160481894 -5.7292428829 0 story right
+152 Saudi princess, 19, executed for adultery in 1977 story -8.0517705109 -10.9162963327 -10.7413694033 0 story right
+153 How AI can save our humanity story -18.0758134621 -22.9269110583 -25.5686626111 0 story right
+154 Eight odd details hidden in masterpieces story -14.7494914269 -16.6608896967 -17.0336556082 0 story right
+155 How Can Tech Fix the World in 2019? story -17.6786776209 -22.7938710812 -26.002591509 0 story right
+156 Smashing through barriers to set up a $2B tech firm story -28.5431686653 -35.3041430312 -35.6418943713 0 story right
+157 Ask HN: Would you be interested in a Voting-Ring-Detection-As-A-Service ask_hn -43.0029068163 -42.9073158169 -47.6998047419 0 ask_hn right
+158 Yusaku Maezawa: Japanese billionaire tweets most retweeted tweet story -23.9764085034 -26.553764473 -25.7535277944 0 story right
+159 Nvidia Announces GeForce RTX 2060 story -16.6419134285 -18.7912234652 -18.7579314778 0 story right
+160 Web Designer Salaries Increase with Skills Specialization story -14.4465170142 -16.183768442 -17.0858336199 0 story right
+161 Why I Majored in Philosophy Despite Everyone Telling Me Not to (2013) story -34.4923419164 -40.4659717068 -44.3646309843 0 story right
+162 Five big questions about Apple putting iTunes on Samsung TVs story -26.2579857554 -32.2054664625 -33.8220202331 0 story right
+163 ‘Flyover Tech’ Is All the Rage at J.P. Morgan Healthcare Investment Conference story -16.0376309479 -21.0084484205 -23.6679678366 0 story right
+164 Haystack: Democratizing Search Relevance story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+165 Ionic Chat Tutorials story -4.5188016102 -5.7160481894 -5.7292428829 0 story right
+166 Cattle not pets: infrastructure, containers and security in a cloud native world story -33.4292676756 -41.064777335 -42.0786480092 0 story right
+167 Kroger, Microsoft Create Futuristic Grocery Store story -6.2279412755 -9.5973186933 -9.3731690769 0 story right
+168 These Are the Best Parenting Books story -10.3650556257 -13.6709226989 -15.4592966947 0 story right
+169 Escaping the Gang: A Blood's Story story -14.672315078 -19.3571534925 -19.3558310021 0 story right
+170 Tails – simplified installation method story -13.0355780546 -14.4328317066 -13.9379140248 0 story right
+171 The CDC’s First Study of Dockless Electric Scooters Will Happen in Austin story -29.912637543 -38.5326771692 -38.6391696389 0 story right
+172 Ask HN: How do you get what you need from the HR department? ask_hn -34.0677901533 -33.1815630349 -42.2990942513 0 ask_hn right
+173 Forbes is building more AI tools for its reporters story -22.0369447662 -27.823827964 -30.2990270461 0 story right
+174 Despite ride-hailing’s promise, vehicle ownership (and traffic) is on the rise story -39.0553071931 -46.2355435635 -47.3306988128 0 story right
+175 Manhattan judge blocks NYC law regulating Airbnb activity story -27.1431303034 -31.866398741 -30.3552563086 0 story right
+176 Ask HN: Is anyone using Google Cloud Platform for a non-trivial project? ask_hn -28.7452939415 -28.4125853728 -33.9333443705 0 ask_hn right
+177 Anonymous found the organization responsible for gangstalking story -14.9510225308 -17.8061416384 -18.489624984 0 story right
+178 Ask HN: Anyone using constraint programming in production? ask_hn -22.5927736287 -21.1391770244 -25.6033590575 0 ask_hn right
+179 New Horizons planning additional extended missions story -17.9081641485 -21.7182514596 -21.5823137362 0 story right
+180 Imputing text data using markov random fields story -17.5208394577 -19.3880632352 -19.9987371507 0 story right
+181 Introducing Individual Account Subscription Tiers for Perma story -9.8282884594 -12.0923875918 -11.7666752686 0 story right
+182 Useless Use of dd story -8.5626627342 -11.2552952066 -11.4851057195 0 story right
+183 NASA exoplanet hunter racks up bizarre worlds and exploding stars story -28.6932202305 -33.7791862964 -33.2887830365 0 story right
+184 How to secure and manage secrets using Google Cloud KMS story -25.1726649859 -30.869746583 -33.3641555185 0 story right
+185 6 Lessons self-taught developers can learn from J.D. Salinger story -21.9164091227 -26.1708076291 -27.26712022 0 story right
+186 The Most Confusing Things About Spacecraft Orbits story -10.7990263459 -14.4051349101 -16.2052632617 0 story right
+187 U.S. Carbon Emissions Surged in 2018 Even as Coal Plants Closed story -11.3527585907 -15.0698250897 -14.9962291103 0 story right
+188 Get free Windows Server eval license from Microsoft (180 days) story -25.6431457095 -32.0732674321 -31.6689942782 0 story right
+189 Autonomous Robot Hit and ‘Killed’ by Self-Driving Tesla story -22.2729546325 -29.6760670429 -29.0550313076 0 story right
+190 Police handed new anti-drone powers after Gatwick disruption story -27.8546456194 -35.2705479902 -34.3891535816 0 story right
+191 Open Source Communities story -2.9060177535 -5.017078185 -4.7750003735 0 story right
+192 Waymo CEO Says Self-Driving Cars Will Always Be Limited story -33.2337535944 -42.1253327168 -42.2700015512 0 story right
+193 Ask HN: Does UpWork suspend accounts just for not subscribing? ask_hn -26.4059637932 -24.909468655 -29.4296564411 0 ask_hn right
+194 Show HN: A guessing game for historical events / people show_hn -25.481102315 -27.5185094199 -24.4359654405 0 show_hn right
+195 What’s the rush? The power of a slow morning story -24.7532657174 -30.7211689727 -32.7526738909 0 story right
+196 Team Building Mental Models story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+197 Eight Odd Details Hidden in Masterpieces story -5.8761676591 -8.4212274342 -8.3478632116 0 story right
+198 2018, the Year Bitcoin Separated from the Pack story -20.4010826974 -25.7734084124 -25.8731691668 0 story right
+199 I Got 99 Problems and Your Hiring Practices Are All of Them story -23.2603095879 -28.8784823373 -31.6107457624 0 story right
+200 Is KDE the Future of Linux and Mobile Phones? story -24.758534437 -31.9635924298 -33.7190852371 0 story right
+201 Scape Technologies raises $8m to let machines visually recognize their location story -27.5786852825 -32.729940478 -32.6374546666 0 story right
+202 How the Brain Interprets Coffee story -8.0463878826 -10.6257704667 -12.0084950991 0 story right
+203 AT&T misleads customers by updating phones with fake 5G icon story -26.0489681204 -32.6965167224 -33.6123203731 0 story right
+204 DoneJS 3 story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+205 Linux 5.0 File-System Benchmarks: Btrfs vs. EXT4 vs. F2FS vs. XFS story -24.6097685314 -27.9367244231 -30.8323775633 0 story right
+206 Looking back at Postgres [pdf] story -15.7822536621 -21.7516752151 -21.9247364171 0 story right
+207 Google Gives Nielsen a Cross-Platform Boost story -19.242720427 -24.117601826 -24.0840780818 0 story right
+208 Walter Benjamin, “Unpacking My Library: A Talk about Book Collecting” [pdf] story -20.4175189196 -25.4462041137 -25.261729954 0 story right
+209 Lies, Damn Lies, and TOPS/Watt story -17.0893356901 -21.1811322753 -20.7372156963 0 story right
+210 Clojure: Deps and CLI story -9.5367439057 -12.4643487581 -11.6834465144 0 story right
+211 Rec Room Reports 1M Installs, but with Small Steam Stats, Likely Much Less Users story -27.6565747028 -31.228169392 -33.5031759037 0 story right
+212 Exploring the effect of microdosing psychedelics on creativity story -17.2973473624 -22.5374788005 -22.2284327217 0 story right
+213 The elements of journalism story -11.9444099318 -15.43347914 -15.4821595777 0 story right
+214 The world’s first foldable phone is charmingly awful story -12.782434723 -18.1319767995 -19.1032228887 0 story right
+215 Show HN: Delivery route planner on stereoids show_hn -22.4506090622 -23.2507845362 -20.7473479997 0 show_hn right
+216 EU Bug Bounty – Software Security as a Civil Right story -14.7086428104 -19.0132435004 -19.0259746803 0 story right
+217 Purely Functional Retrogames story -8.6745274905 -10.074439948 -9.5950178265 0 story right
+218 American Cheese Surplus Reaches Record High story -7.4494904084 -10.074439948 -10.0721390812 0 story right
+219 Hexyl: A command-line hex viewer story -13.7731286403 -16.7230376034 -15.5444137209 0 story right
+220 How to Display Steppers on Mobile Forms story -10.5447074064 -12.5216229705 -14.2805931302 0 story right
+221 The Real Problems with Artificial Intelligence story -16.9212514135 -23.5072693086 -22.6326920763 0 story right
+222 Why Regulators Went Soft on Monopolies story -19.9284967779 -23.4496189224 -24.8673825242 0 story right
+223 London is top European city for tech investment story -25.3568833454 -30.6531317368 -32.1119404027 0 story right
+224 Data Visualization: A Practical Introduction (R/ggplot) story -16.1197534483 -20.0400366769 -20.022008493 0 story right
+225 Building a Better World Wide Web story -17.5350574068 -21.681439179 -22.8609902601 0 story right
+226 Who do you think you are? story -15.5647490482 -17.5982345617 -23.0709038929 0 story right
+227 This How You Can Make “Union”, “Except” and “Intersect” Sql Queries in Sqlkata story -33.3760870121 -38.071186207 -40.9234141468 0 story right
+228 Open mapping in Africa: community spirit and the common good story -31.3151131097 -37.0972921311 -38.5427293874 0 story right
+229 A Comprehensive List of Blockchain Platforms story -11.1966660466 -14.3905991435 -13.8300839612 0 story right
+230 A Future of Netflix story -10.4129823075 -14.6124478931 -15.1523032559 0 story right
+231 Availability of the Government of the United States story -17.6541886621 -24.6737888359 -25.2350762724 0 story right
+232 Nature is intelligent: Pentagon looks to insects for AI biomimicry design story -27.0315861883 -32.8524655757 -34.3941387607 0 story right
+233 Property-Based Testing with PropEr, Erlang, and Elixir story -23.0865195987 -27.6214539883 -26.2689900974 0 story right
+234 Serverless Startups in Golang – Part 1 story -9.0561796299 -12.3024979381 -12.2136381552 0 story right
+235 Show HN: Extract the contents of files using data recovery techniques in macOS story -37.043063365 -42.9403801212 -39.0646143472 0 show_hn wrong
+236 CDC Open Technology story -10.6193370821 -13.034891698 -13.4607927701 0 story right
+237 The Truth About Brake Pad Replacement in Teslas and Other EVs story -22.923279081 -29.6483702463 -29.4889602055 0 story right
+238 Learning to Infer and Execute 3D Shape Programs story -6.4512886556 -9.6684687407 -9.8445974237 0 story right
+239 Chrome OS to let companies use other Linux distros for apps story -34.1233382706 -39.9911846688 -41.0328061242 0 story right
+240 Underclocking the ESP8266 Leads to WiFi Weirdness story -11.0039198616 -14.9700375826 -14.7343909563 0 story right
+241 Setting up test data for end-to-end browser tests story -28.242354779 -38.9857059491 -36.7769668654 0 story right
+242 Defining Transit Service Areas with Unsupervised Machine Learning story -18.1281439572 -19.5879176911 -21.4287298182 0 story right
+243 Your code may be right, but lack of transparency still hurts story -34.5125631865 -41.2561951185 -43.6097724506 0 story right
+244 What’s Next for Altcoins in 2019? story -9.6838183657 -12.7847296119 -15.0842656016 0 story right
+245 How SendGrid handled 1,000+ PRs during Hacktoberfest story -14.2748499862 -16.7084380949 -18.0589614735 0 story right
+246 A New Cold War Has Begun story -18.3929530285 -22.9670646713 -24.3649046914 0 story right
+247 Take C# 8.0 for a spin story -11.1420259796 -14.160744739 -14.072144969 0 story right
+248 Criminals Demand $10M in Monero in Norwegian Kidnapping Case story -11.4375642678 -15.4847984376 -15.3093797386 0 story right
+249 The First Prime Motion Picture story -8.9885696882 -12.0095858327 -11.5313738444 0 story right
+250 React – useReducer the new amazing Hook Redux style story -16.3882698939 -19.7721268405 -19.5067667749 0 story right
+251 Are the days of the private car really over? story -22.8659170043 -31.9859507591 -32.3539377418 0 story right
+252 Purely Functional GTK+, Part 1: Hello World story -16.4219266088 -18.7912234652 -18.2808102231 0 story right
+253 Amazon accused of knocking off AWS customers' products (2013) story -22.9545179092 -27.3666429464 -29.2641758393 0 story right
+254 For Owners of Ring Security Cameras, Strangers May Have Been Watching Too story -38.6584327214 -45.5715384733 -46.7392322129 0 story right
+255 NASA delays SpaceX commercial crew test flight to February story -28.2635156634 -33.6507592319 -32.9684478856 0 story right
+256 Religion for the Nonreligious story -3.546851798 -6.4868412183 -6.4151788985 0 story right
+257 America’s Electric Grid Has a Vulnerable Back Door–and Russia Walked Through It story -42.5291168662 -51.507324033 -53.4429587848 0 story right
+258 Ask HN: Is PHP still relevant? ask_hn -20.7081452356 -19.2587345369 -22.5335532082 0 ask_hn right
+259 Anonymous Google Employees Voted Arms Control Persons of the Year story -18.6079555558 -23.1960201478 -23.6908307196 0 story right
+260 A Biologist Reconstructs the Grotesque Efficiency of the Nazis’ Killing Machine story -19.9667599963 -24.7161926844 -24.7658514986 0 story right
+261 Genes on the move help nose make sense of scents story -22.8457259612 -28.4871064517 -28.6168294074 0 story right
+262 How to Make Real Life Sketches While Using Google Earth VR story -26.5161479851 -32.4232561835 -33.9110528529 0 story right
+263 Visibility Design – Research story -3.6341950289 -5.2389269347 -5.7292428829 0 story right
+264 Zoneminder 1.32.3 released story -3.0665039392 -5.2389269347 -5.2521216282 0 story right
+265 New Docs Reveal a Covert British Mil-Intel Smear Machine Meddling in US Politics story -20.4180541311 -26.4917878517 -26.98352502 0 story right
+266 MacOS 10.14 Mojave vs. Ubuntu 18.04 LTS vs. Clear Linux Benchmarks story -15.4106455984 -17.3598597011 -17.9128334378 0 story right
+267 Michael Phelps: 'It’s OK to Not Be OK' story -17.2434629335 -20.7485185572 -24.4909314314 0 story right
+268 Chronostasis story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+269 More Trouble for the Hubble Telescope as a Primary Camera Malfunctions story -17.9185751634 -23.4434582835 -23.5776856395 0 story right
+270 How Dead Space's Scariest Scene Almost Killed the Game [video] story -27.8583050931 -35.6000297593 -36.0702370944 0 story right
+271 What it’s like to be too big in America story -23.2709551673 -29.2759522522 -34.9502461167 0 story right
+272 Enhance your IDE with Vim story -13.368614987 -15.6522895249 -15.0646443209 0 story right
+273 How termites help rainforests survive climate change story -20.2135116886 -23.0396153386 -25.4225345754 0 story right
+274 Reserving disk space to keep Windows 10 up to date story -24.4896073795 -31.5538492189 -30.5767568263 0 story right
+275 Kappa architecture at NTT story -6.4024414864 -8.6764999393 -9.5950178265 0 story right
+276 Major Positions on Conscious AI Systems story -15.776620733 -19.7374908177 -21.1613084235 0 story right
+277 Detail Guide for React Native Bridge UI Component story -20.4929507745 -25.1675628676 -23.4731445688 0 story right
+278 Ask HN: Are you Enterprise, or Startup? ask_hn -21.5506016059 -20.0048723894 -25.211807431 0 ask_hn right
+279 Ask HN: Why are we still using text editors to write code? story -35.6729518444 -36.7370420984 -43.1138916672 0 ask_hn wrong
+280 Amazon’s IMDb launches a free streaming service, Freedive story -18.4221082535 -24.2637298617 -23.8622293322 0 story right
+281 Anime.js v3.0.0 story -11.7371616745 -13.9557104519 -12.8965213397 0 story right
+282 Ockam's easy to deploy identity, trust, and interoperability open-source IoT SDK story -32.1351872303 -38.7458472869 -38.7377863338 0 story right
+283 Protect Your Mental Health Against Instagram Envy story -17.5449640644 -20.2659537887 -21.5567596318 0 story right
+284 Republic of Macedonia Approves Name Change in Step Toward Joining EU story -25.1493835444 -31.5067457661 -32.8370386773 0 story right
+285 How Aging Japan Defied Demographics and Revived Its Economy story -26.2657437116 -30.7421584166 -33.5440555416 0 story right
+286 ZFS on Linux Runs into a Snag with Linux 5.0 story -23.2310827831 -28.1704489641 -28.6811321132 0 story right
+287 Undernet: a CSS and JavaScript framework – my personal project this past year story -33.1561687271 -39.7389982295 -39.8408861924 0 story right
+288 Bipolar Junction Transistors in Reverse Avalanche Mode story -10.4655491003 -12.7796191928 -12.2136381552 0 story right
+289 The City of Los Angeles paid $300,000 for a vulnerable earthquake alert app story -34.4951232311 -40.8346214694 -40.7195252023 0 story right
+290 Lawsuit aims to end SEC “gag orders” against startups who have settled charges story -40.9910087246 -47.9747477194 -50.7080094641 0 story right
+291 NIST Computer Security Resource Center story -4.0416803555 -5.7160481894 -5.7292428829 0 story right
+292 The Religious Fanaticism of Silicon Valley Elites story -15.5895908018 -19.7918708986 -19.825055776 0 story right
+293 Geeks! I need feedback on a product idea – WebTraff story -24.9730514977 -27.9349205172 -29.2689090855 0 story right
+294 Facebook,Mozilla others take on India's proposed new social media regulations story -36.6081587533 -44.3807568912 -44.4113761343 0 story right
+295 Leetcode now supports PHP story -9.9662800424 -13.9557104519 -13.0170952709 0 story right
+296 Utah police advise drivers not to drive blindfolded story -24.4418200389 -28.178424121 -29.947770982 0 story right
+297 Show HN: Todox: A Simple TODO List with Trello-Like Boards show_hn -24.8997375944 -27.6414695904 -23.5180943532 0 show_hn right
+298 KB4480116 and KB4480970 failure getting access to MDB database story -17.2480702689 -21.7894015071 -21.9780213691 0 story right
+299 Say no to Venn diagrams when explaining SQL joins (2016) story -26.5282562585 -32.3285399372 -33.3364246709 0 story right
+300 Drug to clear zombie cells anti-ageing treatment after ‘impressive’ human trial story -39.9863984822 -46.7259345077 -46.6203857709 0 story right
+301 Cryptex – Online Treasure Hunt|IIT Hyderabad story -11.5408670293 -13.9557104519 -13.5699372395 0 story right
+302 Canada Says, ‘Give Me Your MBAs, Your Entrepreneurs’ story -22.2835953267 -27.6061603488 -28.2213627294 0 story right
+303 Exponent Podcast: A Significant Shift story -14.3664850442 -16.7230376035 -16.2433837252 0 story right
+304 How We’ll Forget John Lennon: Our culture has two types of forgetting story -32.4330801056 -38.530714992 -41.5938944299 0 story right
+305 Converting Merchant Ships to Missile Ships story -10.0679364904 -12.3359216936 -12.5761861888 0 story right
+306 Problems with crypto market capitalization metric and potential solutions story -26.3298444088 -30.5819057383 -30.979863081 0 story right
+307 Human microbiome aging clocks based on deep learning story -22.6862687706 -28.9313955896 -27.3352174592 0 story right
+308 Ask HN: What are your favorite text adventure games? ask_hn -29.8120598803 -27.5835391886 -32.9767810737 0 ask_hn right
+309 Turning $1 into $1000 in NYC (Day 1) story -15.060441471 -19.6213414467 -20.0543325118 0 story right
+310 Today we remember Aaron story -14.842572879 -16.9161622018 -18.7579314778 0 story right
+311 Too Many Workers Are Trapped by Non-Competes story -22.7283461728 -26.7736956369 -29.3504574257 0 story right
+312 Economics of software design story -8.3936104377 -10.9243019876 -12.1478635511 0 story right
+313 React component which works with istanbul to measure code coverage of QA story -30.0845725545 -35.7521153217 -36.2466233656 0 story right
+314 Related subreddits based on behavior for Hacker News story -20.2866443738 -22.7096809709 -22.9179925176 0 story right
+315 SF restaurants are suffocating story -6.0019921541 -7.9571686523 -8.9581957289 0 story right
+316 Toshi: An Elasticsearch competitor written in Rust story -19.4713118215 -23.8336051695 -23.3338417313 0 story right
+317 DNA pioneer James Watson has final honours stripped amid racism row story -23.5484055597 -25.9894930425 -27.4437238744 0 story right
+318 Show HN: Lbcapi3 – A Python3 version of the localBitcoins api library show_hn -23.0808394005 -26.9783304642 -22.9813671006 0 show_hn right
+319 Understanding Chinese generations using Wechat story -17.4898925545 -20.65130467 -21.2619785854 0 story right
+320 Show HN: Human Foods Dogs Can Eat (App) show_hn -20.4748619764 -22.6205303442 -20.1128359847 0 show_hn right
+321 Google kills the Chromecast Audio story -7.9072647484 -11.863457797 -12.7074651034 0 story right
+322 A long read on a former quant coder convicted of stealing algorithms story -34.1084738567 -40.9630992302 -42.0527521482 0 story right
+323 Notes on the Hawaii false alarm, one year later story -14.900287477 -19.3354342428 -18.9766169927 0 story right
+324 Three Kids Beat Square and Translated Final Fantasy V into English (2017) story -16.8540183318 -20.482162271 -20.369238911 0 story right
+325 Custom Resolution Utility (CRU) 1.4.1 story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+326 The Internet but not as we know it: life online in China, Cuba, India and Russia story -45.0089732816 -58.3031564856 -62.6718245487 0 story right
+327 CPU Wars and Exascale Clarity: HPC in 2019 story -19.446131323 -24.3634327748 -23.8329572797 0 story right
+328 Megashifts, AI and Why the Future Is More Unknowable Than Ever story -23.1501487937 -31.1514566822 -34.8101657064 0 story right
+329 Extraordinary therapeutic potential of psychedelic drugs, explained story -22.1439515204 -25.3974172721 -25.8755221504 0 story right
+330 Spark “first” function behavior on pandas dataframe story -17.0378742624 -20.8378613628 -20.0943616339 0 story right
+331 The Plan to Modernize New York City Transit [PDF] story -15.7738436137 -22.2554573357 -21.9016694131 0 story right
+332 Psychology’s five revelations for finding your true calling story -18.8390974539 -22.6583603452 -22.2970533098 0 story right
+333 Ask HN: Is GDPR the end of side projects? story -26.1395594072 -28.2301989205 -30.9642506083 0 ask_hn wrong
+334 Exploring a critical Net::Protocol issue in Ruby 2.6.0p story -25.365259758 -32.5033921241 -31.4135713941 0 story right
+335 Building, managing and maintaining relationships story -18.7660631616 -21.1811322753 -21.214336951 0 story right
+336 Fisher and Paykel SleepStyle Auto CPAP Machine – Cpapusa story -8.9640509887 -12.2425000084 -11.82957455 0 story right
+337 HAProxy 1.9 Has Arrived story -11.2248080433 -12.9143177667 -14.4150352795 0 story right
+338 NanoSQL story -0.03856463846917346 -1.3576564307832717 -1.3863466845676355 0 story right
+339 Ask HN: How do you learn a new programming language? ask_hn -28.3038813388 -27.7111985501 -35.3548014413 0 ask_hn right
+340 Get started with Joplin, a note-taking app story -19.7320280316 -25.3156965927 -24.4616717641 0 story right
+341 US officials say California men were agents of Iran story -29.4277566421 -36.1334725025 -37.3131461383 0 story right
+342 Truth About the Gig Economy story -12.6439864926 -15.8364986742 -16.2052632617 0 story right
+343 Knit Macro Electronics story -4.0416803555 -5.7160481894 -5.7292428829 0 story right
+344 Magement – Next Gen Data Integration Platform story -3.3427103512 -5.2389269347 -5.7292428829 0 story right
+345 Windows 7 enters its final year of free support story -21.2296291616 -27.6254752622 -27.4982590454 0 story right
+346 Are VCs biased against women? A new experiment has surprising results story -35.5951659964 -42.6417521687 -44.9654423306 0 story right
+347 The weird world of YouTuber burnout [video] story -22.5024445507 -27.0772906517 -27.5566056632 0 story right
+348 AAPL as mobile as a service company story -16.8796254645 -21.1869438282 -22.6699008743 0 story right
+349 Brain Maps Out Ideas and Memories Like Spaces story -18.266314447 -23.5773125947 -24.2350138546 0 story right
+350 Feds Can't Force You to Unlock Your iPhone with Finger or Face, Judge Rules story -42.47456008 -47.4163074464 -50.2035215402 0 story right
+351 Our family, divided by the Troubles (2016) story -19.0218896989 -24.6076398538 -23.9368131489 0 story right
+352 Daimler is beating Tesla to making semi-autonomous big rigs story -33.3005828612 -39.1363281011 -40.6320673033 0 story right
+353 DevOps for the Hybrid Cloud: Red Hat Ansible Tower 3.4 story -22.2956291377 -27.8016787566 -27.6525386353 0 story right
+354 Key-Value Storage written in PHP story -20.2894682336 -24.5325751739 -22.7440161964 0 story right
+355 Finally, a Problem That Only Quantum Computers Will Ever Be Able to Solve (2018) story -38.8902657686 -47.1122199275 -51.2627137146 0 story right
+356 Facebook Faces Action from German Watchdog story -20.83003116 -25.4868176833 -26.2676326154 0 story right
+357 Your phone could reveal your radiation exposure after a nuclear disaster story -27.6089439578 -35.0998560443 -34.8697286281 0 story right
+358 Ask HN: What's the post mortem of the big Quora hack? story -34.0218302376 -35.9639627367 -40.6004842254 0 ask_hn wrong
+359 Use the Unofficial Bash Strict Mode (Unless You Looove Debugging) story -18.7525529328 -22.2184737693 -22.8559119225 0 story right

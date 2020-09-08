@@ -1,0 +1,10246 @@
+100th-story 1
+17th-story 1
+2017-story 1
+2018-story 1
+20th-story 3
+21st-story 3
+25th-story 1
+42floors-story 1
+a-ask_hn 58
+a-show_hn 54
+a-story 839
+a220-story 1
+aadhaar-story 1
+aaron-story 1
+abandon-story 1
+abc-story 1
+abi2api-story 1
+ability-story 2
+able-story 3
+abner coimbre-story 2
+about-ask_hn 8
+about-show_hn 3
+about-story 79
+above-story 2
+abridge-story 1
+abroad-story 1
+abrupt-story 1
+absence-story 1
+abstract-story 2
+absurd-story 1
+abuse-story 2
+abusive-story 1
+ac-story 1
+academic-ask_hn 2
+academic-show_hn 1
+academic-story 3
+academy-story 2
+accelerate skill-story 2
+accelerate-story 7
+acceleration-story 1
+accelerator design-story 2
+accelerometer-story 1
+accept-show_hn 1
+accept-story 7
+access-ask_hn 1
+access-show_hn 2
+access-story 15
+accessibility guidelines-story 2
+accessibility-story 2
+accessible-story 2
+accident-story 5
+accidental-story 1
+accidentally-story 4
+accord-story 1
+account-ask_hn 1
+account-show_hn 1
+account-story 5
+accountable-story 1
+accreditation-story 1
+accuse-story 2
+ace-story 1
+acer-story 1
+achieve-story 1
+achive-story 1
+acidification-story 1
+acl-show_hn 1
+aclu-story 1
+acorn-story 1
+acoustic-story 2
+acquire-story 8
+acquires-story 2
+acquisition-story 2
+acre spider-story 2
+acre-story 1
+across-story 4
+acs-story 1
+act-story 5
+action-story 8
+actionable-story 1
+active-show_hn 1
+active-story 4
+activity-show_hn 1
+activity-story 4
+activitypub-story 2
+actor programming-story 2
+actual-story 2
+actually-story 10
+acylic-story 1
+ad fraud-story 2
+ad platform-story 2
+ad-story 10
+ada-story 2
+adapt-story 1
+adapter-story 2
+adaptive-story 1
+adblock-story 2
+adblocking-story 1
+add health-story 2
+add-show_hn 2
+add-story 17
+addition-story 1
+additive-story 2
+address-ask_hn 1
+address-show_hn 2
+address-story 6
+adguard-story 1
+adherence-story 1
+admit-story 1
+admits-story 3
+adnauseam-story 1
+adobe flash-story 2
+adonisjs-show_hn 1
+adopt-story 1
+adoption-story 1
+adult-story 2
+advance-story 4
+advanced-ask_hn 1
+advanced-story 3
+advantage-ask_hn 1
+advantage-story 2
+advent calendar-story 2
+adventure-story 1
+adversarial-story 2
+advertise-ask_hn 1
+advertiser-story 2
+advertises-story 1
+advertising business-story 2
+advertising-story 1
+advice-show_hn 1
+advice-story 3
+advise-ask_hn 1
+advisor-story 1
+adyen-story 1
+aeolipile-story 1
+aerial-story 1
+affair-story 2
+affect-story 5
+affects kids-story 2
+affordable-story 2
+afm-story 1
+afraid-story 1
+africa asia-story 2
+africa-ask_hn 1
+africa-story 4
+african-story 3
+afrikan-story 1
+after-story 44
+again-ask_hn 1
+again-story 7
+against-story 23
+age-story 10
+agency-story 5
+agenices-ask_hn 1
+agent-show_hn 1
+agent-story 1
+aggregate-show_hn 1
+aggregator-show_hn 1
+aggregator-story 2
+aggressive-story 1
+agi-story 1
+agile expanse-story 2
+agile-show_hn 1
+agile-story 4
+agnostic-show_hn 1
+ago-story 4
+agony-story 1
+agpl-story 1
+agrarian-story 1
+agree-story 3
+agreement-story 2
+agrees-story 1
+agriculture-story 1
+agritech investments-story 2
+agtech-story 1
+ahd-show_hn 1
+ahead-story 5
+ai-ask_hn 1
+ai-show_hn 1
+ai-story 77
+aiaas-story 1
+aid-story 5
+aim-story 6
+air force-story 2
+air hand-story 2
+air travel-story 2
+air-story 8
+airbnb airbnb-story 2
+airbnb-story 6
+airbus-story 2
+aircraft carrier-story 2
+airline baggage-story 2
+airline-story 6
+airliner study-story 2
+airplane-story 1
+airport-story 4
+airpower-story 2
+airways customers-story 2
+ak-story 1
+aka-story 1
+akaunting-story 1
+akin-story 1
+al-story 1
+alacritty-story 1
+alan kay-story 2
+alarm-story 1
+alaska airlines-story 2
+alaska-story 1
+alchian-story 1
+alcohol-story 2
+aleph-story 1
+alert-show_hn 1
+alert-story 1
+alex-story 3
+alexa-show_hn 1
+alexa-story 8
+alfa bank-story 2
+algebra-story 2
+algebraic-story 1
+algolia-story 1
+algorithm-story 13
+algorithmic-story 1
+algorithmically-story 1
+algorithms data-story 2
+algorithms-story 3
+alias-story 1
+alibaba-story 2
+alien-story 4
+alienation-story 1
+alienware-story 1
+align-story 2
+alive-story 3
+all-ask_hn 3
+all-show_hn 1
+all-story 50
+allegation-story 1
+allege-story 2
+allegedly-story 2
+allen-story 1
+alleviate-story 1
+alliance-story 2
+allocate-ask_hn 1
+allocator-ask_hn 1
+allow-ask_hn 1
+allow-story 7
+allowance-story 1
+allure-story 1
+almost-story 8
+alone-story 1
+along-story 1
+alpha-ask_hn 1
+alpha-story 5
+alphabet-story 3
+alphazero-story 1
+already-ask_hn 1
+already-story 6
+also-ask_hn 1
+also-story 3
+alter-story 1
+alternative-ask_hn 3
+alternative-story 6
+alternator-story 1
+aluminium-story 1
+always-story 3
+alzheimer-story 2
+ama-story 1
+amazing-story 1
+amazon briefly-story 2
+amazon business-story 2
+amazon employees-story 2
+amazon fire-story 2
+amazon ion-story 2
+amazon music-story 2
+amazon quantum-story 2
+amazon sellers-story 2
+amazon-story 52
+amber-story 1
+ambient-story 1
+ambition-story 1
+amd-story 5
+amendment right-story 2
+america foundation-story 2
+america-story 16
+american-story 14
+americans-story 1
+ameritrade-story 1
+amicus brief-story 2
+amiga-story 2
+amit-story 1
+among-ask_hn 2
+among-story 4
+amount-story 1
+amp-story 2
+amplify-story 1
+amzn-story 1
+an-ask_hn 2
+an-show_hn 4
+an-story 149
+anal-story 1
+analyse-story 1
+analysis tool-story 2
+analysis-show_hn 1
+analysis-story 15
+analyst questions-story 2
+analyst ratings-story 2
+analyst-story 2
+analytics-show_hn 1
+analytics-story 8
+analyze-story 2
+anatomy project-show_hn 2
+anatomy-story 5
+ancestor-story 1
+ancestry-story 1
+anchorhead-story 1
+ancient-story 8
+and-ask_hn 15
+and-show_hn 38
+and-story 606
+andaman-story 1
+andreessen-story 1
+andrew-story 1
+android homescreen-story 2
+android sucks-story 2
+android users-story 2
+android-ask_hn 2
+android-show_hn 2
+android-story 28
+andy-story 2
+anecdote-story 1
+anesthetize-story 1
+angel-story 2
+angeles-story 1
+angle-story 2
+anguish-story 1
+angular-story 9
+animal-story 2
+animate-story 1
+animated-story 2
+animation disney-story 2
+animation-story 5
+anime-show_hn 1
+anime-story 1
+ankane-story 1
+anki-story 1
+ann-story 2
+anniversary-story 3
+annobin-story 1
+annotation-show_hn 1
+announce-story 12
+announcement-story 1
+announces collaboration-story 2
+announces court-story 2
+announces-story 8
+annoy-story 2
+annual-story 2
+anomaly-show_hn 2
+anomaly-story 2
+anonymised-story 1
+anonymity-story 1
+anonymous-ask_hn 1
+anonymous-story 1
+anonymously-story 1
+anoraks adventure-story 2
+another-show_hn 1
+another-story 6
+answer-story 7
+ant-story 2
+antarctica-story 1
+antenna-story 1
+anthropocene-story 1
+anti virus-story 2
+anti-story 5
+antibiotic-story 1
+antidepressant-story 1
+antidote-story 1
+antiferromagnetics-story 1
+anxiety-story 1
+any-ask_hn 9
+any-show_hn 3
+any-story 19
+anychart-story 2
+anymore-ask_hn 1
+anymore-story 1
+anyone-ask_hn 3
+anyone-story 9
+anything-story 7
+apache kafka-story 2
+apache phoenix-story 2
+apache spark-show_hn 2
+apache spark-story 2
+apache struts2-story 2
+apache-story 4
+apartment-story 2
+apathy-story 1
+apfs-story 1
+api-ask_hn 2
+api-show_hn 3
+api-story 21
+apis-story 2
+apocalypse-story 1
+apollo-show_hn 1
+apollo-story 2
+app maintenance-story 2
+app specification-story 2
+app-ask_hn 2
+app-show_hn 2
+app-story 45
+apparently-story 2
+appeal-story 4
+appear-story 1
+appease-story 1
+append-story 1
+appendage-story 1
+applanga-story 1
+applaud-story 1
+apple avoids-story 2
+apple facebook-story 2
+apple logo-story 2
+apple music-story 2
+apple sets-story 2
+apple tells-story 2
+apple watch-story 4
+apple-story 45
+appletv-story 1
+applicability-story 1
+applicant-story 1
+application performance-story 2
+application-show_hn 2
+application-story 12
+applicative-story 1
+applied-story 1
+apply-story 8
+appnexus-story 1
+appoint-story 1
+appointment-story 1
+appoints-story 1
+apprentice-story 1
+approach-show_hn 1
+approach-story 8
+approval economy-story 2
+approval times-story 2
+approval-story 3
+approve-story 6
+approved-story 1
+approves use-story 2
+apps-ask_hn 2
+apps-show_hn 3
+apps-story 11
+appservice-story 1
+appsync-story 1
+apr-story 2
+april-story 2
+apron-story 1
+apt-story 1
+aptiv-story 1
+aq-story 1
+aquaponics-ask_hn 1
+aquila-story 1
+ar-story 6
+arabic-story 1
+arbitrage-show_hn 1
+arcade-story 1
+arcadia-story 1
+arch linux-story 2
+archimedes games-story 2
+architect-story 4
+architected-story 1
+architecting-story 1
+architecture assembly-story 2
+architecture part-story 2
+architecture traits-story 2
+architecture-ask_hn 2
+architecture-show_hn 1
+architecture-story 7
+archive-story 6
+arcologies-story 1
+arctic-story 1
+arduino-story 2
+area hardware-story 2
+area-ask_hn 4
+area-story 4
+aren-story 5
+argentina-story 1
+argument-story 1
+aria-story 1
+ariane-story 1
+arista-story 1
+arizona-story 1
+arkit-story 1
+arm-story 4
+arm64-story 1
+armadillo-story 1
+army knife-story 2
+army-story 3
+around-show_hn 1
+around-story 10
+arrest-story 1
+arrival-story 1
+arrive-story 3
+arrow-story 1
+art auction-story 2
+art temple-story 2
+art-ask_hn 1
+art-story 17
+article-story 4
+artificial-story 19
+artist-show_hn 1
+artwork-story 1
+aruba-story 1
+as-story 6
+asana-story 1
+ascii-story 1
+asdf-story 1
+aseprite-story 1
+asexual-story 1
+ashton-story 1
+ashurbanipal-story 1
+asia-story 4
+asiatic-story 1
+asics-story 1
+ask-ask_hn 219
+ask-show_hn 1
+ask-story 12
+askhn-story 1
+asks-story 2
+asm-story 1
+asmbb-story 1
+asmodee-story 2
+asp-story 1
+aspect-story 1
+aspects-ask_hn 1
+aspire-story 1
+assange-story 2
+assault-story 1
+assembler constraint-story 2
+assembly language-story 2
+assembly-story 1
+assertion-story 1
+asset returns-story 2
+asset-story 2
+assignment-story 1
+assist-story 3
+assistant patents-story 2
+assistant-story 3
+associate-story 1
+association-story 1
+assumption-story 2
+asteroid-story 4
+astronaut-story 3
+astronomer-story 3
+astronomy-story 1
+asus-story 1
+aswan-story 1
+asylum-story 1
+asymptotic-story 1
+async-story 5
+asynchronous-story 1
+at-ask_hn 2
+at-story 118
+atari-story 3
+athena-story 1
+athenahealth-story 1
+athlete-story 1
+athletics-story 1
+atlanta-story 1
+atlantic-story 4
+atlantis-story 1
+atlassian-story 1
+atmosphere-story 2
+atom-ask_hn 1
+atom-story 2
+atomic-story 2
+atoms-story 1
+atomwise-story 1
+attack-ask_hn 1
+attack-story 17
+attacker-story 3
+attempt-story 6
+attention-ask_hn 1
+attention-show_hn 1
+attitude-story 4
+attract-story 3
+attribute-story 1
+auction-story 1
+audacious-story 1
+audi e-story 2
+audience-story 1
+audio fabric-story 2
+audio making-story 2
+audio-show_hn 1
+audio-story 7
+audit-story 1
+auger-show_hn 1
+augment-story 2
+augmentation-story 2
+augmented-story 2
+auguste-story 1
+auschwitz-story 1
+aussie-story 1
+australia-story 8
+australian-story 3
+austria-story 1
+authelia-story 1
+authentic-story 1
+authentication systems-story 2
+authentication-story 5
+author-ask_hn 1
+author-story 3
+autism symptoms-story 2
+autism-story 1
+autistic-story 1
+auto companies-story 2
+auto insurance-story 2
+auto invitation-story 2
+auto-story 4
+autobahn-story 1
+autocad-story 1
+autoencoders-story 1
+autogen-show_hn 1
+autoimmune diseases-story 2
+automate tool-story 2
+automate-show_hn 3
+automate-story 11
+automated-show_hn 1
+automated-story 2
+automatic-story 5
+automatically-story 5
+automation systems-story 2
+automation-story 7
+automl-show_hn 1
+automobile-story 1
+autonomous-story 6
+autonomously-story 1
+autonomy review-story 2
+autopilot triggers-story 2
+autopilot-story 3
+autosuggest-ask_hn 1
+av1-story 1
+available-ask_hn 2
+available-show_hn 1
+available-story 11
+avalanche kronos-story 2
+ave-show_hn 1
+avenue-ask_hn 1
+average-story 1
+aversion-story 1
+aviation-story 1
+avl-story 1
+avocado-story 1
+avoid-story 6
+avoids-story 1
+avue-story 1
+avx-story 1
+await essentials-story 2
+await-story 4
+awake-story 1
+award-story 6
+aware-ask_hn 1
+aware-story 2
+awareness-story 1
+away-story 6
+awesome-show_hn 1
+awesome-story 7
+aws-ask_hn 3
+aws-show_hn 1
+aws-story 30
+axiom-story 1
+axios-story 1
+axon-story 1
+ayahuasca-story 1
+azul-story 1
+azure database-story 2
+azure-ask_hn 1
+azure-story 6
+b2b list-story 2
+babel-story 1
+baboon-story 1
+baby gopher-story 2
+baby-story 3
+babylon livestream-story 2
+babylon-story 1
+babysit-story 1
+bachelor-story 1
+back-story 32
+backchannel-ask_hn 1
+backdate-story 1
+backdoor-story 3
+background sync-story 2
+background taxonomy-story 2
+background-ask_hn 1
+background-story 4
+backlash-story 1
+backlog-story 1
+backoff algorithms-story 2
+backoff-story 1
+backpropagation-story 1
+backslide-story 1
+backup-show_hn 1
+backup-story 2
+backyard-story 2
+bacteria-story 5
+bacterial-story 1
+bad-ask_hn 2
+bad-story 27
+badasses-story 1
+badge-story 1
+badly-ask_hn 1
+bag-story 3
+bagger-story 1
+bagit-story 2
+baidu-story 1
+bain-story 1
+bait-ask_hn 1
+bake-story 1
+baked-story 1
+balaji-story 1
+balance center-story 2
+balance-story 3
+balancer-story 1
+balancing-story 2
+balk-story 1
+ball-story 4
+ballerina-story 1
+ballot box-story 2
+ballot-story 1
+bamboozle-story 1
+ban-story 16
+bandit-story 1
+bangladesh-story 1
+banila-story 1
+bank-show_hn 1
+bank-story 9
+banker-story 1
+banking system-story 2
+banking-story 2
+bankrupt-story 1
+banksy-story 1
+bansal-story 1
+baptiste-story 1
+bar-story 2
+bare-show_hn 1
+bare-story 3
+barf-story 1
+bargain-story 2
+barlow-story 1
+barr-story 1
+barrier reef-story 2
+barrier-story 1
+bars trading-story 2
+base-ask_hn 3
+base-show_hn 6
+base-story 30
+base58-ask_hn 1
+basecamp-story 1
+basel papyrus-story 2
+bash-story 2
+basic-ask_hn 2
+basic-story 5
+basically-ask_hn 1
+basketball-story 2
+batch-story 1
+bathroom-story 1
+battbump-story 1
+batter-story 2
+battery teardown-story 2
+battery-story 7
+battle-show_hn 1
+battle-story 6
+battleship-show_hn 1
+bay area-story 2
+bay-ask_hn 1
+bay-story 2
+bbc-story 3
+bcachefs-story 1
+bds-story 1
+be-ask_hn 65
+be-show_hn 6
+be-story 638
+beach-story 1
+beam-story 1
+bear-story 3
+beast-story 1
+beat-story 7
+beautiful-show_hn 2
+beautiful-story 8
+beauty contest-story 2
+beauty-story 1
+because-ask_hn 1
+because-story 5
+beckons-story 1
+become-ask_hn 2
+become-story 28
+bed-story 2
+bee-story 3
+beef-story 2
+beehive-story 1
+beep command-story 2
+beer shortages-story 2
+beer tap-story 2
+beer-story 3
+beet-story 1
+before-story 18
+beg-story 1
+begin-story 5
+beginner-story 5
+beginning-story 2
+behalf-story 1
+behave-story 1
+behavior-story 1
+behavioral-story 1
+behavioural-story 1
+behind-ask_hn 1
+behind-story 14
+beholder-story 1
+beijing-story 2
+bela mini-story 2
+belgian-story 1
+belgium-story 1
+believe-story 2
+belong-story 2
+belongings online-story 2
+beloved-story 1
+below-story 3
+belt-story 1
+ben lang-story 2
+bench-story 1
+benchmark-story 2
+benchmarking-story 1
+bendy-story 1
+beneficiary-story 1
+benefit corporation-story 2
+benefit-story 6
+benioff-story 1
+benjamin franklin-story 2
+benjamin munson-story 2
+bepicolombo-story 1
+berkeley ten-story 2
+berlin-ask_hn 1
+bernie sanders-story 2
+bert-story 1
+besides-ask_hn 1
+best-ask_hn 9
+best-show_hn 1
+best-story 35
+bestbuy-story 1
+bestiary-story 1
+bet-story 7
+beta deprecates-story 2
+beta news-story 2
+beta-ask_hn 1
+beta-story 10
+betray-story 1
+better-show_hn 1
+bettor-story 1
+between-story 12
+beware-story 1
+bewildered-story 1
+beyond-story 4
+bezos-story 1
+bhyve hypervisor-story 2
+bi-story 2
+bias-story 4
+bible-story 1
+bicycle-story 2
+bid-story 2
+bidding-story 1
+big-ask_hn 1
+big-story 50
+bignum-show_hn 1
+bike-story 2
+bikeshed-story 1
+bill-story 5
+billing-story 1
+billion-story 2
+billionaire yusaku-story 2
+billionaire-story 2
+billy-story 1
+binary-show_hn 1
+binary-story 5
+binding-story 2
+binge-story 1
+binutils-story 2
+bio-story 1
+biocellection-story 1
+biography-story 2
+biointensive-story 1
+biologically-story 1
+biologist-story 1
+biology-story 1
+biomarker-story 1
+biometric-story 3
+bioscience-story 1
+bioses-story 1
+biotech-story 1
+biotechnology-story 1
+bipartisan-story 1
+bipolar-story 1
+bird-story 6
+birthday nintendo-story 2
+birthday-story 1
+biruino-story 1
+bit-show_hn 1
+bit-story 7
+bitbucket-story 3
+bitch-story 1
+bitcoin fund-story 2
+bitcoin risks-story 2
+bitcoin-ask_hn 3
+bitcoin-show_hn 3
+bitcoin-story 34
+bitcoins-story 1
+bitfi-story 1
+bitmex-story 1
+bitrise-story 1
+bitsplitting-story 1
+bitwarden-story 1
+bizspark-story 1
+black-ask_hn 1
+black-show_hn 1
+black-story 6
+blackberry-story 3
+blackfire-story 1
+blackfly-story 1
+blacklist-ask_hn 1
+blacklist-story 2
+blade-story 1
+blame-story 4
+blanket-story 1
+blast-story 1
+blaze-story 2
+blazor-story 3
+bleachbit-story 1
+bleichenbacher-story 1
+blender-story 1
+blind guy-story 2
+blind-story 1
+blinged-story 1
+blister-story 1
+bloat-story 1
+block ciphers-story 2
+block-show_hn 1
+block-story 12
+blockchain assets-story 2
+blockchain consensus-story 2
+blockchain startups-story 2
+blockchain world-story 2
+blockchain-show_hn 4
+blockchain-story 31
+blockchains-story 5
+blockstream bids-story 2
+blog-ask_hn 1
+blog-story 6
+blogger-ask_hn 1
+blood test-story 2
+blood-story 5
+bloom-story 1
+bloomberg reporters-story 2
+bloomberg-story 3
+blow-ask_hn 1
+blow-story 2
+blu dot-story 2
+blue-story 4
+blueberry-story 1
+bluegene-story 1
+blueoil bring-story 2
+blueprint-story 1
+bluetooth-story 1
+blunder-story 1
+blunt measures-story 2
+bmw-story 1
+bmws-story 1
+board games-story 2
+board-show_hn 2
+board-story 10
+boast-show_hn 1
+boast-story 1
+boat-story 1
+bob-story 1
+body-story 7
+boeing-story 2
+boilerplate-show_hn 1
+boing boing-story 2
+bold-story 2
+boldly-story 1
+bomb investigation-story 2
+bomb test-story 2
+bomb-story 2
+bombard-story 1
+bone-story 1
+bonehead-story 1
+boogaloo-story 1
+book bundle-story 2
+book review-story 4
+book series-story 2
+book-ask_hn 3
+book-show_hn 3
+book-story 18
+booking-story 1
+bookmark-show_hn 2
+bookmark-story 1
+boost-story 6
+booster-story 1
+boosting-story 1
+boostio-story 1
+boostnote-story 1
+boot attack-story 2
+boot-story 2
+bootcamp prep-story 2
+bootcamp-story 2
+booth-story 1
+bootstrap-story 4
+bootstrappable-story 1
+border radius-story 2
+border-ask_hn 1
+bore-ask_hn 1
+bore-story 1
+boredom-story 1
+boring-show_hn 1
+boring-story 1
+borrowing-story 1
+bos-story 3
+bosnia-story 1
+boss team-story 2
+boston-story 1
+bot roundup-story 2
+bot-show_hn 1
+bot-story 5
+both-ask_hn 1
+both-story 3
+bother-story 1
+botnet-story 1
+bots-show_hn 1
+bottle-story 2
+bottleneck-story 1
+bottom-story 1
+boundary-story 1
+bounty twitter-story 2
+bounty-ask_hn 1
+bounty-story 1
+box support-story 2
+box-story 2
+boxy-show_hn 1
+boy-story 3
+boys-story 1
+bpf-story 1
+brace-story 1
+brad pitt-story 2
+bradford smith-story 2
+brag-story 1
+brain implant-story 2
+brain math-show_hn 2
+brain mimicking-story 2
+brain surgery-story 2
+brain-show_hn 1
+brain-story 14
+braindance-story 1
+brainfuck-show_hn 1
+brainfucky-show_hn 1
+branch-story 2
+brand personality-story 2
+brand-ask_hn 1
+brand-show_hn 1
+brand-story 4
+branson-story 1
+brave-story 3
+brazen fraud-story 2
+brazil-story 1
+brazilian-story 1
+breach-story 12
+break-ask_hn 1
+break-story 18
+breakdown-story 1
+breaker-story 1
+breakfast bars-story 2
+breakfast-story 2
+breaking-story 1
+breakthrough-story 2
+breed-story 1
+brexit referendum-story 2
+brexit-ask_hn 1
+brexit-story 1
+brick-story 6
+bridge jumping-story 2
+bridge-story 4
+brief-story 6
+briggs-story 1
+brightest-story 1
+brilliant-story 1
+bring-story 19
+bringup-story 1
+briskbard-story 1
+brisket-story 1
+bristlecone-story 1
+britain-story 3
+british-story 5
+bro-story 1
+broadband-story 1
+broadcast fusion-story 2
+broadcast kernels-story 2
+broadcast-story 1
+broaden-story 1
+broader-story 1
+broken-ask_hn 1
+broker-story 1
+brokerage-story 1
+brother-story 2
+brown-story 2
+browse-show_hn 1
+browse-story 2
+browser extensions-story 2
+browser interoperability-story 2
+browser-show_hn 5
+browser-story 32
+browserquest-story 1
+browsing history-story 2
+browsing-story 1
+brush-story 1
+brutal-story 2
+btc-story 3
+bu-story 1
+bubble-story 4
+bud-story 1
+budapest-story 1
+budget-story 2
+bug tracking-story 2
+bug-ask_hn 1
+bug-story 16
+bugatti chiron-story 2
+bugbounty-story 1
+build-ask_hn 6
+build-show_hn 6
+build-story 92
+builder-story 1
+building-story 10
+bulgaria-story 1
+bull shit-story 2
+bullet-story 1
+bullish-story 1
+bullshit-story 2
+bully-story 1
+bundle-story 2
+bunnycdn-story 1
+bureau-story 1
+burger-story 1
+burlesco-story 1
+burn-story 5
+burnout-ask_hn 1
+bury-story 1
+bus test-story 2
+bus-show_hn 1
+bus-story 2
+business model-story 2
+business-ask_hn 4
+business-story 24
+bust-story 3
+but-ask_hn 2
+but-story 30
+button-show_hn 1
+button-story 1
+buy-ask_hn 1
+buy-story 19
+buyer-story 1
+buying-story 1
+buzzfeed-story 2
+buzzword-ask_hn 1
+bw-story 1
+by-ask_hn 2
+by-show_hn 3
+by-story 109
+bying-story 1
+bypass-story 5
+byte-story 1
+bytedance-story 1
+byuu author-story 2
+byzantine fault-story 2
+bzip-story 1
+c compilation-story 2
+c e-story 2
+c equality-story 2
+c s-story 2
+c semantics-story 2
+c-show_hn 1
+c-story 2
+c2rust demonstration-story 2
+c2x-story 1
+ca-story 2
+cable-story 3
+cache-story 6
+cacheable-story 1
+caffe-story 1
+caffeine-story 1
+cafés-story 1
+cage-story 1
+cake-story 1
+calc-story 1
+calculate-show_hn 1
+calculates-story 1
+calculation-story 1
+calculator-show_hn 1
+calculator-story 2
+calculus-story 3
+calendar-ask_hn 1
+calendrically-story 1
+caliburger-story 1
+california housing-story 2
+california judge-story 2
+california-story 15
+californian-story 1
+caliper-story 1
+call-show_hn 2
+call-story 16
+callback-show_hn 1
+callback-story 1
+callbacks promises-story 2
+callbag-story 1
+caller-story 1
+calm-story 1
+cambodian-story 1
+cambridge analytica-story 16
+camera-show_hn 2
+camera-story 3
+camp fire-story 2
+camp-story 1
+campaign-show_hn 1
+campaign-story 5
+campus-story 1
+can-ask_hn 17
+can-show_hn 2
+can-story 92
+canada-story 8
+canadian-story 6
+cancel-story 5
+cancellation-story 2
+cancer-story 8
+candidate-ask_hn 1
+candidate-story 1
+candy-story 1
+cannabinoid-story 1
+cannabis-story 1
+cannon-story 1
+cannot-story 1
+canonical-story 1
+canvasrenderer-story 1
+cap-story 1
+capacitor-story 1
+capacity-story 2
+capital-story 5
+capitalism socialism-story 2
+capitalism-story 6
+capitalist-story 2
+caprine-story 1
+capsule model-story 2
+capsule-story 2
+captcha-ask_hn 1
+captive-story 1
+capture-show_hn 1
+capture-story 2
+car accident-story 2
+car efficiency-story 2
+car program-story 2
+car-show_hn 1
+car-story 29
+cara-story 1
+carb-story 1
+carbon-story 2
+card-story 8
+cardash-story 1
+care-story 5
+careem-story 1
+career adventure-story 2
+career ladder-story 2
+career-story 6
+cargo-story 3
+carlsen caruana-story 2
+carmageddon-story 1
+carmaker-story 1
+carnegie-ask_hn 1
+carolina-story 1
+carousell-story 1
+carrier-story 1
+carroll-story 1
+carry-story 3
+cartel-story 2
+carve-story 1
+cascade-story 1
+case design-story 2
+case-show_hn 1
+case-story 14
+cash blockchain-story 2
+cash-story 8
+cashless society-story 2
+casino-story 1
+casio-story 2
+cassandra-story 1
+cast-show_hn 1
+cast-story 2
+castoreum-story 1
+casualty-story 1
+cat-story 3
+catalog-story 1
+catastrophic-story 1
+catch-story 6
+categorize-story 2
+category-story 1
+catnip response-story 2
+causal-story 2
+causation-story 1
+cause-story 10
+cave-story 2
+cavern-show_hn 1
+cavium-story 1
+cc-story 1
+cd-story 2
+cdc-story 1
+cdnsun-story 1
+ce-story 4
+cecpq2-story 1
+celebrate-story 3
+celebrity wealth-story 2
+celebrity-story 2
+cell phones-story 2
+cell-story 7
+cellphone-story 1
+cellular-ask_hn 1
+cellular-story 3
+celtic-story 1
+censor-story 1
+censorship-story 4
+cent-story 1
+centauri-story 1
+centenary-story 1
+center-story 4
+centos distros-story 2
+central-story 2
+centric-story 1
+century fox-story 4
+century-story 5
+centurylink-story 1
+ceo-show_hn 1
+ceo-story 23
+ceph cluster-story 2
+ceremonial-story 1
+cerf-story 1
+certainly-story 1
+certificate revocation-story 2
+certificate-story 1
+certification-ask_hn 1
+certification-story 1
+certs golang-show_hn 2
+cervical-story 1
+cfls-story 1
+cfn-story 1
+cfo-story 1
+cfosat-story 1
+cg-story 1
+cg50-story 1
+chain reaction-story 2
+chain-story 4
+chaining-story 1
+chainspace-story 1
+chair-story 1
+challenge-story 6
+challenged-story 1
+chamber-story 1
+champion-story 1
+chance-ask_hn 1
+chancellor-story 1
+chang-story 1
+change sets-story 2
+change-ask_hn 4
+change-story 34
+changelog-story 1
+changer-story 2
+channel-ask_hn 1
+channel-story 2
+chaos-story 2
+chapter-story 1
+character-story 4
+characteristic-story 1
+characterize-story 1
+charge-story 7
+chariot burial-story 2
+charismatic-story 1
+charlatan-story 1
+charlie brooker-story 2
+charlottesville-story 1
+chart-story 4
+chase-story 1
+chat room-story 4
+chat-show_hn 4
+chat-story 6
+chatbot-ask_hn 1
+chatbot-story 1
+chatbots development-story 2
+chatbots-story 3
+chatops-story 1
+chauffeur-story 1
+cheap-story 3
+cheat-story 2
+cheater-story 1
+cheating-story 1
+check-show_hn 1
+check-story 5
+checker taxi-story 2
+checker-story 1
+checklist-story 2
+checkout-story 3
+cheese-story 2
+chef dies-story 2
+chemist-story 2
+chemistry-story 1
+chemotherapy-story 1
+chessboard-story 1
+chglog-story 1
+chicago-story 3
+chicken-story 4
+chief-story 1
+chik-story 1
+child abuse-story 2
+child-story 9
+childhood memories-story 2
+chile-story 1
+china censorship-story 2
+china data-story 2
+china trade-story 2
+china-story 46
+chinese-story 19
+chip claims-story 2
+chip startups-story 2
+chip-story 14
+chiplet standard-story 2
+chiplets-story 1
+chlorine-story 2
+chocolate-story 1
+choice-story 1
+choke-story 2
+choose-ask_hn 3
+choose-story 2
+chp-story 1
+chris urmson-story 2
+christmas display-story 2
+christmas-story 1
+christopher-story 1
+chroma-story 1
+chrome cortana-story 2
+chrome web-story 2
+chrome-ask_hn 2
+chrome-show_hn 1
+chrome-story 22
+chromebook-story 1
+chromium-story 1
+chromosome-story 1
+chronological-story 1
+chrysotile-story 1
+chug-story 1
+chung-story 1
+chuxing-story 1
+ci-story 4
+cia-story 1
+cicada project-story 2
+cicada-story 1
+cigna-story 1
+cinder-story 1
+cio-story 2
+circadian-story 2
+circle-show_hn 1
+circle-story 2
+circleci-ask_hn 1
+circleci-story 2
+circuit breakers-story 2
+circuit simulator-show_hn 2
+circuit-story 2
+circuitverse-show_hn 1
+circulation-story 1
+circulator-story 1
+circulatory-story 1
+cisco v-story 2
+cisco-story 2
+cite-story 4
+citizen-story 2
+citizenship-story 3
+citrix-story 1
+citron research-story 2
+citron-story 1
+city birds-story 2
+city freelancers-story 2
+city workers-story 2
+city-story 12
+civic-story 2
+civil-story 3
+civilization-story 3
+claim-story 9
+clang-story 1
+clapper-story 1
+clarice lispector-story 2
+clarifies-story 1
+clarinet-story 1
+clarity-story 2
+clark-story 1
+clash-story 1
+class action-story 2
+class syntax-story 2
+class-ask_hn 1
+class-show_hn 1
+class-story 10
+classic-story 2
+classical-story 1
+classification-story 1
+classify-story 2
+classrom-ask_hn 1
+classroom-story 1
+clause-story 1
+clean-ask_hn 1
+clean-show_hn 2
+clean-story 9
+cleaner-story 1
+cleanmymac-story 1
+cleansing-story 1
+clear-story 2
+clearly-story 1
+clearslide-story 1
+clever-story 1
+cli-ask_hn 1
+cli-show_hn 3
+cli-story 7
+click-ask_hn 1
+click-show_hn 1
+click-story 2
+clickhouse-story 1
+clickjacking-story 1
+client-ask_hn 2
+client-show_hn 3
+client-story 5
+climate change-story 10
+climate science-story 2
+climate-ask_hn 1
+climate-show_hn 1
+climate-story 7
+clinic-story 1
+clinical-story 2
+clinician-story 1
+clip-story 1
+clipboard-story 2
+clock-story 7
+clojure integration-story 2
+clojure-story 6
+clojurescript-show_hn 1
+clojurescript-story 3
+clone-show_hn 1
+clone-story 8
+close-story 13
+closer-story 4
+clothes-show_hn 1
+clothes-story 3
+cloud blockchain-show_hn 2
+cloud firestore-story 4
+cloud haskell-story 2
+cloud images-story 2
+cloud ops-story 2
+cloud-ask_hn 1
+cloud-show_hn 1
+cloud-story 27
+cloudflare-ask_hn 1
+cloudflare-story 5
+cloudformation-story 2
+cloudfront-story 1
+cloudkit-ask_hn 1
+clue-story 3
+cluj-story 1
+cluster-story 2
+clustercontrol-story 1
+cm-show_hn 1
+cnes-story 1
+cnn-story 3
+co-story 7
+co2-story 3
+coach-story 2
+coal-story 2
+coastal-story 1
+coastline-story 1
+cobra effect-story 2
+coca cola-story 2
+cockpit administer-story 2
+cockroachdb-story 1
+coco pixar-story 2
+cod-show_hn 1
+cod-story 10
+code beautiful-story 2
+code chunks-story 2
+code control-story 2
+code health-story 2
+code impressions-story 2
+code inflation-story 2
+code ownership-story 2
+code quality-story 2
+code search-story 4
+code-ask_hn 5
+code-show_hn 3
+code-story 45
+codebase-story 1
+codec-story 1
+codeclimate-story 1
+codefield-story 1
+codeless-story 1
+codeplex-story 1
+coder-story 3
+codeschool-story 1
+coding-story 2
+codingradio-show_hn 1
+coffee lake-story 2
+coffee-story 2
+cofounder-story 1
+cognito-story 1
+cohen-story 1
+coherence-story 1
+cohort-story 1
+coin offerings-story 4
+coinbase commerce-story 2
+coinbase-story 3
+coincheck-story 1
+coinhive-story 1
+coinminers-story 1
+cointop coin-story 2
+cold-story 2
+coldemailtemplate-story 1
+collabora-story 1
+collaboration-story 1
+collaborative-story 4
+collapse-story 3
+collar-ask_hn 1
+collect-story 7
+collection-show_hn 1
+collection-story 5
+collective-story 1
+collector-story 1
+college application-story 2
+college tour-story 2
+college-story 5
+collide-story 1
+collision-story 2
+colombia-story 1
+colony-story 1
+color game-story 2
+color-story 4
+colorado-story 1
+colt python-story 2
+columbo-story 1
+column-story 1
+com mania-story 2
+com-ask_hn 3
+com-story 10
+combat-story 1
+combinator-story 2
+combinatorics-story 1
+comcast charter-story 2
+comcast triumphs-story 2
+come-ask_hn 1
+come-story 32
+comeback-story 1
+comedy-story 1
+comfortable-story 1
+comic-story 4
+comma-story 1
+command line-story 2
+command-show_hn 1
+command-story 6
+comment-story 2
+commentary-story 1
+commerce-story 2
+commercial-show_hn 1
+commercial-story 3
+commission-story 2
+commit emails-story 2
+commit-story 4
+commits-story 1
+committee-story 1
+commodore-story 1
+common-story 8
+commons clause-story 2
+commuity-story 1
+communicable-story 1
+communicate-show_hn 1
+communicate-story 2
+communication-ask_hn 1
+communication-story 4
+communications surveillance-story 2
+community edition-story 2
+community goal-story 2
+community-ask_hn 1
+community-story 11
+commute-story 3
+comp-story 1
+compact-story 2
+companion-show_hn 1
+company culture-story 2
+company-ask_hn 8
+company-story 38
+compare-show_hn 1
+compare-story 3
+comparison-show_hn 1
+comparison-story 2
+compartment-story 1
+compatible-story 2
+compete-story 1
+competence-story 1
+competent-story 1
+competition matters-story 2
+competition-story 2
+competitive-story 2
+competitiveness report-story 2
+competitor-show_hn 1
+competitor-story 2
+compilation-story 1
+compile-ask_hn 1
+compile-story 3
+compiled-story 1
+compiler-story 7
+compiles-story 1
+compiling-story 1
+complaint defense-story 2
+complaint-story 1
+complementary-story 1
+complete-ask_hn 1
+complete-story 5
+completely-story 1
+completion-story 1
+complex-show_hn 1
+complex-story 1
+complexity labs-story 2
+complexity-story 3
+compliance-ask_hn 1
+compliance-show_hn 1
+compliance-story 3
+compliant-ask_hn 1
+compliant-story 2
+complicate-story 1
+comply-story 1
+component-show_hn 1
+component-story 11
+compose-story 1
+composer-story 1
+composite-story 1
+composition-story 1
+compound-story 1
+comprehension-story 2
+comprehensive-show_hn 1
+comprehensive-story 2
+compression-story 3
+compromise-story 3
+computation-story 1
+computational-story 3
+compute module-story 2
+compute-story 14
+computer apple-story 2
+computer kit-story 2
+computer literacy-story 2
+computer science-ask_hn 2
+computer virus-story 2
+computer-ask_hn 3
+computer-story 20
+computes-story 2
+computing-story 2
+con-story 5
+conan-story 1
+concentrate-story 1
+concept-story 2
+conception evolution-story 2
+concern-story 6
+concert-story 1
+concise-story 1
+conclude-story 1
+concord-story 1
+concorde b-story 2
+concurrency-story 2
+concurrent servers-story 4
+concurrent-story 1
+concussion-story 1
+condition-show_hn 1
+conditional-story 2
+conditions lawsuit-story 2
+condo-story 1
+conduct-story 5
+conduit-story 1
+conference-story 3
+conferencing-story 1
+confide-story 1
+confidence-story 2
+confidential-story 1
+config-show_hn 2
+config-story 1
+configuration management-ask_hn 2
+configuration-story 2
+confirm-story 6
+conflict index-story 2
+conflict resolution-story 2
+confusing parts-story 2
+confusion tensions-story 2
+confusion-story 1
+congo-story 1
+congress-story 6
+connect-show_hn 1
+connect-story 4
+connection machine-story 2
+connection-ask_hn 1
+connection-show_hn 1
+connection-story 2
+connector-story 1
+connor-story 1
+conor-story 1
+conquer-story 1
+consciousness-story 1
+consensus protocol-story 2
+consensus-story 2
+consensys-story 1
+consent-story 3
+consequence-story 1
+conservancy-story 1
+conservative-story 2
+consider-ask_hn 1
+consider-story 6
+considerate-story 2
+considers-story 1
+consistency-story 2
+consistent-story 1
+console-show_hn 1
+console-story 2
+consolidation-story 1
+conspiracy-story 2
+conspire-story 1
+constant-story 2
+constitutes-story 1
+constitution-story 2
+construct-story 1
+construction-story 2
+constructor-story 1
+consultation-story 1
+consume-story 1
+consumer practices-story 2
+consumer privacy-story 2
+consumer-story 6
+contact center-story 2
+contact-ask_hn 1
+contact-story 1
+contain-story 5
+container initiative-story 2
+container linux-story 2
+container-story 10
+contaminate-story 1
+contamination-story 1
+contemplate-story 1
+contempt-story 1
+content monetization-story 2
+content website-story 2
+content-story 11
+context inputs-story 2
+context-story 4
+contextual-story 1
+continue-story 6
+continued-story 1
+continuous-story 5
+contract events-story 2
+contract-story 8
+contractor settles-story 2
+contradiction-story 1
+contrarian-story 1
+contribute-story 2
+contribution-story 1
+contributor-story 2
+control git-story 2
+control keys-story 2
+control system-story 4
+control systems-story 2
+control-story 9
+controller-story 3
+controversial-story 7
+controversy-story 1
+convenes-story 1
+convention-show_hn 1
+conversation-ask_hn 1
+conversation-story 5
+conversational-show_hn 1
+conversational-story 1
+convert nmap-story 2
+convert-story 1
+convince-story 1
+convnet-story 1
+convoluted-story 2
+convolutional-story 1
+convox-story 1
+conway-story 1
+coo-story 1
+cook-story 4
+cooky-story 1
+cool-story 3
+cooperation commitment-story 2
+cop-story 4
+copy-story 2
+copyright-story 3
+copywriting-story 1
+cora air-story 2
+coral-show_hn 1
+coral-story 2
+corbyn-story 1
+core frequency-story 2
+core scaling-story 2
+core-story 11
+corel-story 1
+corner-story 1
+coroutine-show_hn 1
+coroutine-story 1
+coroutines-story 1
+corporate-story 6
+corporation-story 1
+correct-story 2
+correlation-story 2
+cosmic-story 1
+cost savings-story 2
+cost-ask_hn 2
+cost-story 12
+costa rica-story 2
+costly-story 1
+cotrolled-story 1
+coughing-story 1
+could-show_hn 1
+could-story 40
+count rules-story 2
+count zero-story 2
+count-story 6
+counter-story 1
+country caps-story 2
+country-show_hn 1
+country-story 9
+countryoutfitter-story 1
+county-story 1
+couple-story 4
+courier-story 2
+course-ask_hn 2
+course-story 6
+court-story 15
+cover-ask_hn 1
+cover-story 2
+coverage-story 4
+covertly-story 1
+covet-story 1
+coveted-story 1
+cowpaths-story 1
+cozy kingdoms-story 2
+co₂-story 1
+cpe1704tks-story 1
+cppcon-story 1
+cpu-story 14
+cqrs-story 2
+crab-story 1
+crack-story 4
+crackdown-story 2
+cracked-story 1
+craft-story 3
+craftsmanship-story 1
+cragne manor-story 2
+crash-ask_hn 1
+crash-story 11
+crate-story 1
+cratedb-story 1
+craving-story 1
+crawl-story 1
+crawler-story 1
+crayfish-story 1
+craze-story 1
+crazy-story 1
+cream-story 1
+create-ask_hn 1
+create-show_hn 2
+create-story 38
+creates-story 1
+creation-story 4
+creative-story 1
+creator larry-story 2
+creator-story 6
+credit-story 3
+creditworthy-story 1
+credsniper-story 1
+cremation-story 1
+crew-story 1
+crime-story 4
+criminal-story 4
+cripple-story 2
+crisis billionaire-story 2
+crisis-story 8
+crisper-story 1
+crispr-story 1
+critic-story 2
+critical-story 4
+criticises-story 1
+criticize-story 1
+critique-story 1
+crm-story 2
+crook-story 1
+cross border-story 2
+cross platform-story 4
+cross-story 4
+crossing-story 1
+crossword-story 1
+crowd-story 2
+crowdfund-story 1
+crowdfunding-story 1
+crowdfunds-story 1
+crowdsourced-show_hn 1
+crowdsourcing-story 2
+crtp-story 1
+crud-show_hn 1
+crud-story 2
+crude-story 1
+crush-story 2
+crutch-story 1
+cry-story 3
+cryptanalysis-story 2
+crypto falls-story 2
+crypto keys-story 2
+crypto mining-story 2
+crypto news-story 2
+crypto scammers-story 2
+crypto town-story 2
+crypto wallets-story 2
+crypto-ask_hn 2
+crypto-show_hn 6
+crypto-story 25
+cryptoassets-story 1
+cryptocoins-story 1
+cryptocontrol-story 1
+cryptocurrencies holders-story 2
+cryptocurrencies-story 6
+cryptocurrency exchange-story 2
+cryptocurrency gender-story 2
+cryptocurrency hedge-story 2
+cryptocurrency investors-story 2
+cryptocurrency market-story 2
+cryptocurrency product-story 2
+cryptocurrency-show_hn 1
+cryptocurrency-story 10
+cryptoeconomics-story 1
+cryptographic-story 1
+cryptography-story 2
+cryptojacking-story 1
+cryptokitties-story 1
+cryptomining-story 1
+cryptonetworks-story 1
+cryptopia-story 1
+cryptopop-story 1
+cryptos-story 1
+cryptotrading-story 1
+crystal pepsi-story 2
+crystal-story 3
+crystalize-story 1
+cs-ask_hn 2
+cs-show_hn 1
+cs-story 13
+cs2393-story 1
+csci-story 1
+cso-story 1
+csr-story 1
+csrf-story 2
+css-show_hn 1
+css-story 2
+csv-show_hn 1
+ctf-story 1
+cto-story 2
+cuba-story 2
+cube abstract-show_hn 2
+cube hands-story 2
+cubesats-story 1
+cubicle-story 1
+cuda-story 2
+cult-story 1
+culture cycle-story 2
+culture-story 5
+cup-story 1
+curated-show_hn 2
+curated-story 3
+curator-story 1
+cure-story 1
+curiosity rover-story 2
+curiosity-story 1
+curious-story 1
+curl-story 1
+curly-story 1
+currency-ask_hn 1
+currency-show_hn 1
+currency-story 6
+current-ask_hn 1
+current-story 5
+currently-story 1
+curriculum-ask_hn 1
+curriculum-story 1
+curta calculator-story 2
+curtail-story 1
+curve-show_hn 1
+curve-story 2
+custodian-story 1
+custom audiences-story 2
+custom raspberry-story 2
+custom services-story 2
+custom-ask_hn 1
+custom-show_hn 1
+custom-story 5
+customer experience-story 2
+customer support-story 2
+customer tests-story 2
+customer-ask_hn 2
+customer-story 5
+customerly-story 1
+customizable-story 1
+cut-story 4
+cv-show_hn 1
+cv-story 1
+cve-story 2
+cw29-story 1
+cyber-story 8
+cyberattack-story 1
+cybercrime bill-story 2
+cybergibbons-story 1
+cybersecurity master-story 2
+cybersecurity-story 2
+cycle-story 3
+cyclops-story 1
+cynbe-story 1
+czochralski-story 1
+d3 discovery-story 2
+d3-story 4
+dabble-story 1
+daca-story 1
+dad-story 2
+dag factory-story 2
+dag-story 2
+dahl-story 1
+daily-show_hn 1
+daily-story 8
+daimler-story 1
+daisy architecture-story 2
+daisy-show_hn 1
+dakota-story 1
+dalio-story 1
+dalston-story 1
+dam-story 1
+damage-story 1
+damn-story 3
+dan-story 2
+dancer-story 1
+danger-story 3
+dangerous-story 7
+danish-story 1
+dapp-story 2
+dapps-story 2
+darico-story 1
+dark-story 8
+darpa-story 2
+dashboard-ask_hn 2
+dashboard-story 1
+dask-story 1
+dastar-story 1
+dat-story 2
+data analysis-story 2
+data analytics-story 2
+data breaches-story 6
+data capture-story 2
+data catalogue-story 2
+data consumer-story 2
+data dark-story 2
+data grids-story 2
+data licensing-story 2
+data livestream-story 2
+data platform-story 2
+data pollution-story 2
+data protection-story 2
+data science-story 14
+data scientists-story 4
+data sets-story 2
+data storage-story 2
+data structures-story 4
+data techniques-story 2
+data traffic-story 2
+data version-story 2
+data-ask_hn 5
+data-show_hn 5
+data-story 73
+database access-story 2
+database write-story 2
+database-ask_hn 2
+database-story 12
+databricks-story 1
+datacenter-story 2
+dataengconf-story 1
+datalore-story 1
+dataops-story 1
+dataset-story 1
+datasets-story 2
+datastore-story 1
+date-show_hn 2
+date-story 5
+dating websites-story 2
+dating-story 1
+datomic-story 1
+dav1d-story 1
+david hahn-story 2
+davidson-story 1
+dawn-story 2
+day movie-story 2
+day-ask_hn 2
+day-story 31
+daylight-story 2
+dbxfs-story 1
+dc-story 3
+dcentralized-story 1
+de-story 3
+dead-show_hn 1
+dead-story 13
+deadliest-story 1
+deadly-story 1
+deaf-story 1
+deal-ask_hn 2
+deal-story 9
+deamon-show_hn 1
+dean-story 1
+dear-story 2
+death star-story 2
+death-story 11
+deathblow-story 1
+debate video-story 2
+debate-story 4
+debt-ask_hn 1
+debt-story 7
+debug-story 9
+debugger-story 1
+debunk-story 1
+decade-story 5
+decay-story 1
+december-story 2
+decensoring-story 1
+decentralised-story 1
+decentralize-show_hn 3
+decentralize-story 6
+decentralized-show_hn 1
+decentralized-story 1
+deception-story 1
+decide-ask_hn 1
+decide-story 4
+decision-story 8
+deckset-story 1
+declarative-story 1
+declare-story 2
+decline-story 2
+decode-story 5
+decoder-story 1
+decolonise-story 1
+decompiler-story 1
+decompose-story 1
+deconstruct-story 1
+decorator-story 1
+decriminalize-story 1
+deelay-story 1
+deep-show_hn 1
+deep-story 28
+deeply-story 1
+deepmind-story 4
+deeprl-story 1
+def-story 2
+defamation-story 1
+defangs-story 1
+default charset-story 2
+default-show_hn 1
+default-story 3
+defence-story 2
+defend-story 2
+defense department-story 2
+defense task-story 2
+defense-story 6
+defensive-story 1
+define-ask_hn 1
+define-story 4
+defined-story 1
+definition runtime-story 2
+definitive-story 2
+defused-story 1
+defy-story 1
+degas-story 1
+degradation-story 1
+degree-ask_hn 1
+degree-story 4
+delay-story 7
+delete-ask_hn 1
+delete-story 7
+deletes-story 1
+deliberately-story 1
+delicious-story 1
+delight-ask_hn 1
+deliver-story 3
+delivery pie-story 2
+delivery service-story 2
+delivery-story 7
+dell-story 1
+delphi-story 1
+deluxe-story 1
+delve-story 1
+demand freelance-story 2
+demand-story 8
+demanding-story 1
+dementia-story 3
+demo-story 3
+democracy-story 4
+democrat-story 1
+democratic-story 2
+demystify-story 1
+dengan-story 1
+denial-story 1
+denmark-story 2
+deno-story 2
+denon marantz-story 2
+dense human-story 2
+densepose-story 2
+density-story 1
+denuclearize-story 1
+deny-story 3
+denysdovhan-story 1
+depart-story 1
+department-story 1
+depend-story 1
+dependable-story 1
+dependency injection-story 2
+dependency-story 5
+deploy-ask_hn 1
+deploy-story 11
+deploybot-story 1
+deployment pipeline-story 2
+deployment-ask_hn 2
+deployment-show_hn 1
+deployment-story 4
+deploys-story 1
+deport-story 1
+deposition-story 1
+deprecate-story 2
+depressed-story 1
+depression-story 6
+depth knowledge-story 2
+depth-story 2
+derek muller-story 2
+derek parfit-story 2
+derives-story 1
+desalination-story 1
+descend-story 1
+description-story 1
+deserialization attacks-story 2
+design courses-story 2
+design paradigms-story 2
+design research-story 2
+design system-show_hn 2
+design-ask_hn 1
+design-story 22
+designer-ask_hn 2
+designer-show_hn 2
+designer-story 4
+designops-story 1
+desk-story 2
+desktop-ask_hn 2
+desktop-show_hn 1
+desktop-story 14
+despite-story 2
+destination-story 2
+destiny-story 1
+destroy-story 3
+detachable-story 1
+detail-story 5
+detailed-story 1
+detain-story 2
+detect-story 6
+detecting-story 1
+detection-ask_hn 1
+detection-show_hn 2
+detection-story 2
+detector-story 1
+detects-story 1
+detention camps-story 2
+determinant-story 1
+determine-ask_hn 1
+determine-story 3
+deterministic-story 1
+dethrone-story 1
+deutsche börse-story 2
+dev-ask_hn 2
+dev-story 7
+develop-story 20
+developer documentation-story 2
+developer experience-story 2
+developer-ask_hn 4
+developer-show_hn 3
+developer-story 30
+developerhub-story 1
+developing world-story 2
+development edition-story 2
+development kit-story 2
+development part-story 2
+development posts-story 2
+development programming-story 2
+development teams-story 2
+development-ask_hn 3
+development-show_hn 1
+development-story 8
+developmental-story 1
+devhints-story 1
+device owners-story 2
+device-story 18
+devicons-story 1
+devops-story 10
+devs-ask_hn 1
+devs-show_hn 1
+devs-story 1
+devtools-show_hn 1
+dgk-story 1
+dhh-story 1
+dhs-story 3
+diabetes-story 1
+diagnosis-story 1
+diagram-story 1
+diagrams-story 1
+dial-story 1
+dialogflow-story 1
+diamond trade-story 2
+diamond-story 2
+diary-story 1
+dick-story 2
+dickinson sinclair-story 2
+dictionary-story 3
+didi-story 1
+didn-story 5
+dids-story 1
+die-story 10
+diego city-story 2
+diet-story 4
+differ-story 1
+difference learning-story 2
+difference-story 6
+different-show_hn 1
+different-story 7
+differential-story 2
+differentiation-story 1
+differs-story 1
+diffgram-show_hn 1
+difficult-story 2
+diffie hellman-show_hn 2
+diffractive-story 3
+dig-story 2
+digicert-story 1
+digital-show_hn 3
+digital-story 26
+digitalocean-ask_hn 1
+dilemma-story 1
+dilemna-story 1
+diligence-story 1
+diller-story 1
+dimension-story 1
+dimensional-story 1
+diminish-story 1
+dinner-story 1
+dino-show_hn 1
+dinosaur-story 2
+diplomat-story 4
+dire-story 1
+direct-show_hn 1
+direct-story 4
+direction-story 1
+directly-story 2
+director-story 2
+dirty medicine-story 2
+dirty-story 1
+disable-story 4
+disagree-story 1
+disagreement-story 1
+disambiguation-story 1
+disappear-ask_hn 1
+disappear-story 1
+disbelief-story 1
+disc-story 1
+discern-story 1
+discerning-story 1
+disclaim-story 1
+disclosure guidelines-story 2
+discontinue-story 1
+discord-story 4
+discourage-story 1
+discover-show_hn 2
+discover-story 9
+discovery-story 4
+discreetly-story 1
+discrete-story 1
+discriminates-story 1
+discrimination sort-story 2
+discrimination-story 2
+discuss-ask_hn 1
+discussion solutions-story 2
+discussion-ask_hn 1
+discussion-show_hn 1
+discussion-story 4
+disease-story 7
+diseased-story 1
+disgust-story 1
+dish-story 1
+dishwasher-story 1
+disk-story 3
+disney animation-story 2
+disney world-story 2
+disney-story 1
+disorder-story 3
+display-ask_hn 1
+display-show_hn 1
+display-story 1
+disposable-story 1
+dispute-story 3
+disputed-story 1
+disrupt-story 2
+disruption-story 1
+dissection-story 1
+dissects-story 1
+distance-story 1
+distant-story 1
+distil-story 1
+distilled-story 1
+distillery-story 1
+distort-story 1
+distraction-story 1
+distribute-story 11
+distributed-ask_hn 1
+distributed-story 2
+distribution-story 5
+distros-story 1
+disturb-story 1
+ditch-story 1
+dive-story 3
+divergent outcomes-story 2
+diverse-story 1
+diversify-story 1
+diversity-story 3
+divest-story 1
+divide-story 3
+divine intervention-story 2
+divisive-story 1
+diy-story 4
+django-story 5
+dkim-story 1
+dll-story 2
+dlr-story 1
+dmlab-story 1
+dmv-story 2
+dna-story 16
+dnc-story 1
+dns-ask_hn 1
+dns-show_hn 2
+dns-story 5
+dnssec-story 1
+do gooder-story 2
+do-ask_hn 62
+do-show_hn 2
+do-story 113
+doc-show_hn 1
+doc-story 1
+docker compose-story 2
+docker-ask_hn 1
+docker-show_hn 1
+docker-story 8
+dockerfiles containerization-story 2
+dockerizing-story 1
+docking-story 1
+docs-story 3
+docstrings-show_hn 1
+docstrings-story 1
+doctify-story 1
+doctor fortran-story 2
+doctor-story 5
+doctrine-story 1
+document-show_hn 1
+document-story 6
+documentation-story 2
+doe-story 1
+doesn-story 6
+dog-story 5
+doge-story 2
+doh-story 1
+doj-story 2
+dojo-story 1
+dollar idea-ask_hn 2
+dollar linux-story 2
+dollar reserves-story 2
+dollar-story 3
+dolphin-story 1
+dom-story 1
+domain-story 4
+domestic-story 2
+dominant-story 1
+dominate-story 3
+don-ask_hn 2
+don-story 30
+donate-story 2
+donation-story 1
+donotpay-story 1
+doodle-story 1
+doogee-story 1
+doom-story 2
+door-story 1
+dorothy-story 1
+dos-story 1
+dot-story 4
+dota2-story 1
+dotgo-story 1
+dotnet-story 1
+double-story 10
+doublethink-story 1
+doubt-story 2
+doughnut-story 1
+douglas hofstadter-story 2
+douglas-story 1
+dow-story 1
+down-story 34
+downfall-story 1
+download-story 3
+downloader-show_hn 1
+downside-story 1
+dozen-ask_hn 1
+dozen-show_hn 1
+dozen-story 1
+dpd-story 1
+dr lisa-story 2
+dr-story 2
+draconian-story 1
+draft concise-story 2
+draft data-story 2
+draft use-story 2
+draft-story 2
+dragon tyrant-story 2
+drama-story 2
+dramatic-story 1
+draw-story 2
+drawer-story 1
+drawing-story 1
+dream-story 4
+dreaming-story 1
+dressmaking-story 1
+drink-story 3
+drinking worsens-story 2
+drinking-story 1
+drive companies-story 2
+drive-story 24
+driven-story 3
+driver-story 5
+driverless car-story 2
+driverless cars-story 2
+driverless-story 5
+driving-story 5
+drm-story 1
+droid app-story 2
+drone buddy-story 2
+drone-story 10
+drop-story 9
+dropbox business-story 2
+dropbox-story 3
+drovak-story 1
+drowning child-story 2
+drowning doesn-story 2
+drowning spot-story 2
+drug calculations-story 2
+drug cartel-story 2
+drug-ask_hn 1
+drug-story 12
+drunk-story 2
+dry-story 2
+dryer-story 2
+dsa-story 1
+dslr-story 1
+dsp-story 1
+dual-story 1
+dub-story 1
+dubai flight-story 2
+dubious-story 1
+dublin-story 1
+duck-story 2
+duckrails-show_hn 1
+dude-story 1
+due-story 2
+duefocus-show_hn 1
+duff-story 1
+duit pure-story 2
+dulwich-story 1
+dumb-story 2
+dumber-story 1
+dump-story 2
+duo departs-story 2
+durable-ask_hn 1
+durant-story 1
+during-story 5
+dust storm-story 4
+dust-story 2
+dwarf-story 2
+dweb-story 1
+dy-story 4
+dying language-story 2
+dynamic-show_hn 2
+dynamic-story 7
+dynamically-story 2
+dynamodb-story 1
+dynatrace-story 1
+dysfunction-story 1
+dyslexia-story 1
+dyson-story 1
+dysphoria-story 1
+dystopia-story 1
+dystopian-story 2
+déraciné-story 1
+e c-story 2
+e coli-story 4
+e m-story 2
+e readers-story 2
+each-ask_hn 1
+each-story 6
+eager-story 1
+ear trainer-story 2
+ear-story 1
+early-ask_hn 1
+early-story 7
+earn-show_hn 1
+earn-story 1
+earnings call-story 2
+earnings q2-story 2
+earnings-story 2
+earth-story 8
+easily-ask_hn 1
+easily-show_hn 1
+easily-story 2
+east coast-story 2
+east-story 2
+eastern-story 2
+easy-ask_hn 1
+easy-show_hn 2
+easy-story 15
+eat-story 4
+eating-story 1
+eaton-story 1
+eb-show_hn 1
+ebola crisis-story 2
+ebooks-story 2
+ec-story 2
+ec2-story 4
+ecb-story 1
+ecc-story 1
+ecj-story 1
+eclipse-story 1
+eco-story 1
+economic-story 1
+economist-story 2
+economy basics-story 2
+economy people-story 2
+economy-ask_hn 1
+economy-story 7
+econtalk-story 1
+ecosystem-story 2
+eden project-story 2
+edge-story 6
+edible-ask_hn 1
+edinburgh-story 1
+edit transactions-story 2
+edit-story 1
+editable-ask_hn 1
+edited-story 1
+editing-story 2
+edition-story 5
+editor-ask_hn 1
+editor-show_hn 1
+editor-story 7
+editorial-story 1
+edtech-story 1
+edtf-story 1
+educate-story 1
+education overnight-story 2
+education revolution-story 2
+education-show_hn 1
+education-story 7
+educational-story 2
+ee-story 3
+effect-story 10
+effective-ask_hn 2
+effective-story 2
+effectively-story 2
+effectiveness-story 1
+efficient-show_hn 1
+efficient-story 8
+efficiently-story 2
+effort-story 2
+egg problem-story 2
+ego-story 1
+egypt-story 4
+einstein-story 1
+either-story 2
+eject-story 1
+ekaterinburg-story 1
+eks-story 1
+el-story 2
+elastic-story 4
+elasticsearch-ask_hn 1
+elasticsearch-story 2
+elb-story 1
+election outcomes-story 2
+election strategy-story 2
+election-story 7
+electric-story 12
+electricity-story 4
+electrified-story 1
+electrify-story 1
+electromagnetic-story 4
+electron-show_hn 1
+electron-story 4
+electronic-story 1
+electronics-story 4
+electrum bitcoin-story 2
+electrum-story 1
+elegant-story 1
+element-story 2
+elementary-story 2
+elephant-story 1
+elevator-story 2
+elf-story 1
+eliminate-story 3
+eliot-story 1
+elite-story 1
+elites-story 1
+elixir deploys-story 2
+elixir-story 1
+elizabeth holmes-story 2
+elizabeth-story 1
+ellen-story 1
+elliptic-show_hn 1
+ellison-story 1
+elm town-story 2
+elm-story 3
+elon musk-story 22
+elon-story 2
+else-ask_hn 2
+else-story 2
+elumelu foundation-story 2
+emacs-story 3
+email templates-show_hn 2
+email-ask_hn 5
+email-show_hn 4
+email-story 10
+embarassing-show_hn 1
+embarrass-story 1
+embed-show_hn 1
+embed-story 7
+embedded-story 2
+embeddings-show_hn 1
+embody-story 1
+embrace-story 1
+emerge-story 3
+emergency-story 3
+emission-story 3
+emmanuel macron-story 2
+emoji domain-story 2
+emoji-story 1
+emotion-story 1
+emotional-story 1
+empathy-story 1
+empire-story 3
+empirical-story 1
+employee onboarding-story 2
+employee time-story 2
+employee-story 12
+employer-story 3
+employment visas-story 2
+employment-show_hn 1
+empower-story 1
+empowers-story 1
+empty-story 3
+emrs-story 1
+emscripten-story 1
+emt-story 1
+emulate-story 2
+emulator-story 5
+emutos-story 1
+enable-story 4
+enchant-story 1
+encode-ask_hn 1
+encrypt-story 3
+encryption modes-show_hn 2
+encryption-story 4
+encrypts-story 1
+encyclopedia-story 1
+end developer-story 2
+end mover-story 2
+end separation-story 2
+end tests-story 2
+end users-story 2
+end-story 27
+endanger-story 1
+endangers-story 1
+endorses-story 1
+endpoint-show_hn 1
+endtest-story 1
+enemy-story 3
+energy department-story 2
+energy laser-story 2
+energy-ask_hn 1
+energy-story 4
+enforce-show_hn 1
+eng-ask_hn 1
+eng-story 1
+engagement-story 2
+engaging-story 1
+engine flaws-story 2
+engine-ask_hn 1
+engine-story 8
+engineer-ask_hn 5
+engineer-story 15
+engineering brain-story 2
+engineering chief-story 2
+engineering issues-story 2
+engineering manager-story 4
+engineering spotlight-story 2
+engineering-ask_hn 2
+engineering-story 12
+england-story 2
+english-story 3
+enhance-story 1
+enjoy-story 2
+enkidu-story 1
+enlarge-show_hn 1
+enough-show_hn 1
+enough-story 12
+enslave-story 1
+ensure-ask_hn 1
+ensure-story 1
+entangled-story 1
+enter-story 1
+enterprise-story 9
+enters-story 1
+entertainment-story 1
+enthusiast-story 1
+enthusiastically-story 1
+entire-show_hn 1
+entire-story 2
+entity-show_hn 1
+entity-story 1
+entrepreneur-story 8
+entropy-story 3
+entry-story 1
+enum operators-story 2
+enumeration-story 1
+enviroment-story 1
+environment manager-story 2
+environment-ask_hn 1
+environment-story 5
+environmental-story 3
+envisage-story 1
+envision-story 1
+envoy-story 1
+epic games-story 2
+epic project-story 2
+epic-show_hn 1
+epidemiology-story 1
+episode-story 2
+epithelium-story 1
+epo-story 1
+eps-story 1
+equal-show_hn 1
+equal-story 2
+equality-story 2
+equifax-story 4
+equilibrium-story 1
+equity firms-story 2
+equity-story 1
+equivalent-story 1
+era-story 3
+eradicate-story 2
+erase-story 1
+eraser-story 1
+erc-story 1
+erc20-story 1
+erectile-story 1
+eric-story 1
+erlang-story 1
+errol morris-story 4
+error-story 8
+ersatz-story 1
+eruption-story 1
+es6-show_hn 1
+es6-story 3
+esa-story 1
+escape-story 3
+esigning-story 1
+eskinder nega-story 2
+esoteric-story 1
+especially-story 1
+espn-story 1
+espresso tech-story 2
+essay-story 1
+essen-story 1
+essure-story 1
+establishes-story 1
+estate brokers-story 2
+estate collapse-story 2
+estate-story 1
+estimate-story 3
+estimation-story 1
+etc-story 2
+etendue-story 1
+eth-story 3
+etherbots-show_hn 1
+ethereum blockchain-show_hn 2
+ethereum blockchain-story 2
+ethereum co-story 2
+ethereum development-story 2
+ethereum donation-story 2
+ethereum experiment-story 2
+ethereum foundation-story 2
+ethereum gas-story 2
+ethereum network-story 2
+ethereum smart-story 2
+ethereum-show_hn 2
+ethereum-story 8
+ethernet-story 1
+ethic-ask_hn 1
+ethic-story 3
+ethical-story 4
+ethics committee-story 2
+ethiopia-story 2
+ethnic-story 1
+ethon-story 1
+etiquette-story 1
+etops-story 1
+eu-story 8
+eula-story 1
+euler-story 2
+europe blame-story 2
+europe-story 8
+european-story 8
+eurovision-story 1
+euv-story 2
+ev3-story 1
+evacuation-story 2
+evaluate-story 2
+evaluation execution-story 2
+evaluation framework-story 2
+evaluation-show_hn 1
+even-story 10
+event hubs-story 2
+event-show_hn 1
+event-story 9
+eventual-story 2
+eventually-story 1
+ever-ask_hn 1
+ever-story 12
+every-story 18
+everyday-ask_hn 1
+everyday-story 3
+everydollar-story 1
+everyone-story 7
+everything part-story 2
+everything-ask_hn 1
+everything-story 13
+everywhere-story 4
+evict-story 1
+evidence-story 6
+evil-story 1
+evite-story 1
+evolution-story 5
+evolutionary-story 3
+evolve-show_hn 1
+evolve-story 5
+ex-story 2
+exact-story 1
+examine-story 1
+example project-story 2
+example-ask_hn 2
+example-story 6
+exams-story 1
+exceed-story 1
+excel preview-story 2
+excel shortcuts-story 2
+excel-story 1
+excellent-story 1
+except-story 1
+exception handling-story 2
+exception-story 1
+exceptional-story 2
+exceptionally-story 1
+excerpt-story 1
+exchange bitstamp-story 2
+exchange proposal-story 2
+exchange-show_hn 1
+exchange-story 3
+excite-ask_hn 1
+excite-story 1
+excitement-story 1
+exclude-story 1
+exclusion-story 1
+exclusionary-story 1
+excuse-story 1
+exec-story 2
+execution feature-story 2
+execution-story 7
+executive order-story 2
+executive summary-story 2
+executive-story 1
+exemplary-story 1
+exempt-story 1
+exercise-story 2
+exfiltration-story 1
+exhibit-story 1
+exist-story 6
+existential-story 1
+exit-story 2
+exodus-story 1
+exomoon-story 1
+exoplanets-story 3
+expand-story 7
+expander app-show_hn 2
+expands-story 1
+expanse-story 2
+expansion-story 4
+expect-story 4
+expectation-ask_hn 2
+expectation-story 1
+expedia-story 1
+expense-story 2
+expensive-story 2
+experience anyways-story 2
+experience-ask_hn 4
+experience-story 9
+experiment-story 10
+experimental-story 2
+expert-ask_hn 2
+expert-story 5
+expertise-ask_hn 2
+expertmaker accelerator-story 2
+expire-story 1
+explain-story 13
+explainer-story 1
+explanation game-story 2
+explanation-story 3
+explicit-story 1
+explode-story 2
+exploit-story 4
+exploitable-story 1
+exploitation-story 3
+explorable-story 2
+exploration-story 2
+exploratory-story 1
+explore-show_hn 1
+explore-story 11
+explosion-story 1
+explosive-story 1
+expo-story 1
+exponential-story 1
+exponentially-story 1
+export-story 2
+expose-story 11
+express-story 6
+expression-story 1
+expressjs-story 1
+extend-story 4
+extensible-show_hn 1
+extensible-story 1
+extension negotiation-story 2
+extension stole-story 2
+extension-ask_hn 2
+extension-show_hn 2
+extension-story 5
+extensions part-story 2
+extent-story 1
+external-story 1
+extra-story 2
+extract-show_hn 1
+extract-story 2
+extraction-story 1
+extraordinary-story 1
+extreme-story 3
+extremely-story 3
+extremetech-story 1
+extremist-story 1
+extricate-story 1
+extrovert-story 2
+eye view-story 2
+eye-story 4
+f d-story 2
+f1-story 1
+faa-story 1
+fable-story 1
+fabric-story 3
+face recognition-story 4
+face-story 8
+facebook algorithm-story 2
+facebook bans-story 2
+facebook bot-story 2
+facebook business-story 2
+facebook crypto-story 2
+facebook doesn-story 2
+facebook fallout-story 2
+facebook hack-story 2
+facebook halts-story 2
+facebook image-story 2
+facebook instagram-story 2
+facebook login-story 2
+facebook messenger-story 4
+facebook pages-ask_hn 2
+facebook partners-story 2
+facebook privacy-story 2
+facebook security-story 2
+facebook users-story 4
+facebook-ask_hn 2
+facebook-story 66
+facebooks-story 1
+facial-story 5
+facilitate-story 1
+fact-show_hn 1
+fact-story 3
+factor authentication-story 2
+factor-story 3
+factory-story 4
+facts analysis-story 2
+faeces-story 1
+fail-ask_hn 2
+fail-story 9
+failed-story 3
+fails-story 2
+failure-story 6
+fair-story 2
+fairness-story 2
+faith arguments-story 2
+fake-story 18
+fakeiteasy-story 1
+fakesapp-story 1
+falco-story 1
+falcon-story 4
+fall hackathon-story 2
+fall-story 10
+fallacy-story 2
+fallback-story 2
+falsehood-story 1
+famer bruno-story 2
+family income-story 2
+family-ask_hn 1
+family-show_hn 1
+family-story 8
+famous-ask_hn 1
+famous-story 1
+fan outcry-story 2
+fan-story 5
+fancy-story 4
+fanduel-story 1
+fantasy-story 2
+faq-story 1
+faqbot-story 1
+far-story 4
+fare war-story 2
+farewell medium-story 2
+farewell-story 2
+fargate-story 1
+farm-ask_hn 1
+farm-story 1
+farmer-story 7
+farmers food-story 2
+farming-story 1
+fashion accessory-story 2
+fashion tastes-story 2
+fashion-story 2
+fast messaging-story 2
+fast-show_hn 1
+fast-story 31
+faster-ask_hn 1
+faster-story 6
+fasters-story 1
+fastlane-story 1
+fastly-story 1
+fastmail-story 1
+fat-story 2
+fatality-story 1
+fatally-story 1
+fate-story 1
+father-story 4
+fatty-story 1
+fault-show_hn 1
+fault-story 2
+faulty-story 2
+faunadb-story 1
+faving-story 1
+favor-story 1
+favorite-ask_hn 2
+favorite-story 2
+favourite-ask_hn 1
+favourite-story 2
+fax-story 1
+faxing-story 1
+fb-ask_hn 1
+fb-story 4
+fbi-story 3
+fcc-story 4
+fda-story 1
+fear-story 7
+feature branch-story 2
+feature-ask_hn 1
+feature-story 12
+feb-story 2
+fed-story 2
+federal-story 10
+fedora-story 1
+feds-story 1
+fee-story 4
+feed-story 4
+feedback time-story 2
+feedback-ask_hn 1
+feedback-show_hn 1
+feedback-story 7
+feedier-story 1
+feel-ask_hn 2
+feel-story 9
+fell-story 3
+felt-story 1
+female journalist-story 2
+female-story 2
+feminist-story 1
+fentanyl-story 1
+fertility-story 1
+fetal-story 1
+fetch-story 1
+feuer-story 1
+fever-story 1
+few-story 12
+feynman-story 1
+fibonacci-story 1
+fibrodysplasia-story 1
+fibrosis-story 1
+fiction-ask_hn 1
+fiction-story 7
+fidelity simulations-story 2
+fides-story 1
+field guide-story 2
+field sobriety-story 2
+field-ask_hn 2
+field-story 1
+fieldbook-story 1
+fields medals-story 2
+fiends-story 1
+fifa-story 2
+fifteen-story 1
+fifth-story 2
+fight peak-story 2
+fight-story 12
+fighter-story 1
+figma-story 1
+figure-story 4
+fil-story 1
+filament-story 1
+file packaging-story 2
+file system-story 6
+file-show_hn 1
+file-story 17
+filebot-story 1
+filecoin-story 1
+filemaker-story 1
+filer-ask_hn 1
+filesystem-story 1
+filing taxes-story 2
+filing-story 3
+fill-story 1
+film-story 5
+filter-ask_hn 1
+filter-story 3
+filtering works-story 2
+fimmia-show_hn 1
+fin-story 5
+finalizers-story 1
+finally-story 10
+finance interview-story 2
+finance minister-story 2
+finance-ask_hn 2
+finance-story 3
+financial-story 7
+find-ask_hn 9
+find-show_hn 4
+find-story 44
+finder-story 1
+findevops-story 1
+finding-story 1
+fine-story 3
+finer-story 1
+finest-story 1
+finfisher-story 1
+finger-story 2
+fingerprint-story 4
+finhub-story 1
+finish-story 2
+finland-story 3
+fintech-story 4
+fire-story 10
+firebee-story 1
+firefox-story 4
+firehydrant-show_hn 1
+firestore export-story 2
+firetruck-story 1
+firm-story 14
+first-ask_hn 2
+first-show_hn 2
+first-story 59
+fish casino-story 2
+fish-story 3
+fishing-story 1
+fission serverless-story 2
+fit-story 2
+fitbit command-story 2
+fitbit-story 1
+fix congestion-story 2
+fix-ask_hn 1
+fix-story 13
+fixing-story 1
+fixit-story 1
+fjord-story 1
+flag-story 2
+flagship killer-story 2
+flaky-story 1
+flash-ask_hn 1
+flash-story 2
+flat-story 2
+flatpak release-story 2
+flatpak-story 1
+flavor-story 1
+flaw-story 9
+flawed-story 1
+flawlessly-story 1
+fleet-story 1
+flesch readability-ask_hn 2
+flex-story 1
+flexbooks-story 1
+flexbox-story 2
+flexe-story 1
+flexispot-story 1
+flexpai-story 1
+flickr-ask_hn 1
+flickr-story 1
+flight time-story 2
+flight-story 3
+flipkart-story 1
+flippening-story 1
+flippy-story 1
+float-story 2
+flock-story 1
+flood-story 2
+floor-story 2
+floorplans-story 1
+florida bridge-story 2
+florida shooting-story 2
+florida-story 1
+flow-story 2
+flowtype-story 1
+flu-story 2
+fluent builders-story 2
+fluentd-story 1
+fluid-story 1
+flushall-story 1
+flutter-story 2
+fly-story 8
+fo-story 1
+focus-story 4
+fold-show_hn 1
+fold-story 2
+folder-story 1
+follow-ask_hn 1
+follow-story 9
+follower-show_hn 1
+fond-story 1
+fondle-story 1
+font-story 1
+food-story 4
+foodora-story 1
+footage-story 1
+football field-story 2
+football stadium-story 2
+football-story 3
+footprint-story 1
+for-ask_hn 36
+for-show_hn 44
+for-story 544
+forbes-story 2
+forbidden bookshelf-story 2
+forbidden-story 1
+force-ask_hn 1
+force-story 12
+ford-story 4
+forecasting fire-story 2
+foreign-story 3
+foreigner-story 1
+forest reveals-story 2
+forest-story 2
+forestry-story 1
+foretell-story 1
+forever-story 4
+foreveraloneprogramming-story 1
+forgery-show_hn 1
+forget-story 7
+forgive-story 2
+forgotten-story 1
+fork-story 3
+forked-story 1
+form-ask_hn 1
+form-story 6
+formal-story 1
+formality-story 1
+format-story 5
+formatters-story 1
+formatting-ask_hn 1
+former-story 6
+formula-story 1
+formulas-story 1
+forster-story 1
+forth-show_hn 1
+forth-story 1
+fortnite-story 2
+fortran-story 1
+fortune-story 1
+forward-story 2
+fosdem-story 1
+fossa-story 1
+fossil fuels-story 2
+fosta-story 1
+foster-story 1
+foul-story 1
+found-story 1
+foundation stone-story 2
+foundation-story 3
+founder advice-story 2
+founder anatoly-story 2
+founder investor-story 2
+founder wall-story 2
+founder-story 19
+fountainhead-story 1
+fox-story 1
+fp-story 2
+fpga-story 1
+fpgas-story 2
+fpu-story 1
+fr-show_hn 1
+fractal-story 1
+fractional-story 1
+frame-story 1
+framework components-show_hn 2
+framework-ask_hn 3
+framework-show_hn 3
+framework-story 11
+france-story 6
+francisco-story 5
+franklin-story 1
+fraud-story 4
+fraudulent-story 1
+fraudulently-story 1
+free-ask_hn 2
+free-show_hn 3
+free-story 40
+freebie-story 1
+freebsd-story 1
+freedom implementation-story 2
+freedom-story 1
+freelance-story 1
+freelancer-show_hn 1
+freelancer-story 1
+freeman-show_hn 1
+freeman-story 1
+freenode-story 1
+freertos-story 1
+freeze-story 1
+french-story 1
+frenzy-story 1
+frequency-story 2
+frequent-ask_hn 1
+frequently-story 3
+fresh-ask_hn 1
+fresh-story 1
+freshworks-story 1
+friction-story 1
+fridge-story 2
+fried-story 1
+friend-ask_hn 1
+friend-show_hn 2
+friend-story 5
+friendly-show_hn 1
+friendly-story 1
+friller-story 1
+frog-story 1
+from-ask_hn 10
+from-show_hn 7
+from-story 151
+front-story 10
+frontier-story 1
+frugal-story 1
+frustrate-story 2
+frustratingly-story 1
+fsnotes-story 1
+fsx-story 1
+fsync-story 2
+ft-story 1
+ftc-story 1
+ftp-story 2
+fuchsia dot-story 2
+fuchsia-story 1
+fuck-story 1
+fud-story 1
+fudge-story 1
+fuel-story 5
+fulay-story 1
+fulfil-story 1
+fulfilling-story 1
+fulfillment-story 1
+full-ask_hn 1
+full-story 15
+fullstack-story 1
+fully-show_hn 1
+fully-story 4
+fun-story 6
+funcs-story 1
+function-show_hn 3
+function-story 10
+functional-story 9
+functionality-story 1
+functions functions-story 2
+functor-story 1
+fund-story 10
+fundamental-story 4
+funding round-story 2
+funding-ask_hn 2
+fundraiser-story 1
+fundrise opportunity-story 2
+furman robert-story 2
+further-story 1
+fury-story 1
+fuse-story 1
+fusion-story 3
+futhark-story 1
+future-ask_hn 1
+future-story 39
+fuzz-story 1
+fuzzing-story 2
+fuzzy match-story 2
+fuzzy-story 1
+fx-story 2
+gadget-story 1
+gaijin-story 1
+gain-show_hn 1
+gain-story 1
+galaxy note-story 4
+galaxy s9-story 2
+galaxy-story 3
+galilee-story 1
+galileo-story 2
+gallon-story 1
+gamasutra-show_hn 1
+gamble-story 1
+gambling-story 1
+game boy-story 2
+game celeste-story 2
+game code-story 2
+game developer-story 2
+game development-story 6
+game engine-story 2
+game loop-story 2
+game revenue-story 2
+game-ask_hn 2
+game-show_hn 5
+game-story 39
+gamecube-story 1
+games production-story 2
+gamification-story 1
+gans-story 3
+gap-story 5
+gaping-story 1
+garage-story 1
+garbage collection-story 2
+garbage patch-story 2
+garbage-story 1
+garfield-story 1
+garie-show_hn 1
+gary-story 1
+gas-story 1
+gasoline-story 1
+gate-story 1
+gateway-story 1
+gather-story 1
+gathering-story 3
+gattaca-story 1
+gaza protesters-story 2
+gbps-story 1
+gc-show_hn 1
+gc-story 1
+gcc-story 2
+gcp-story 1
+gdax-show_hn 1
+gdh-show_hn 1
+gdpr-ask_hn 1
+gdpr-show_hn 1
+gdpr-story 14
+gear-story 3
+geek-story 1
+geforce-story 1
+gen-story 2
+genaille lucas-show_hn 2
+gender-story 3
+gene-story 5
+general-story 5
+generalization-story 1
+generalize-show_hn 1
+generally-story 1
+generate airflow-story 2
+generate-show_hn 2
+generate-story 9
+generated-story 1
+generation z-story 2
+generation-ask_hn 1
+generation-show_hn 1
+generation-story 8
+generative models-story 2
+generative-story 1
+generator-show_hn 4
+generator-story 5
+generic-story 2
+genesis evangelion-story 2
+genetic-story 1
+genetics-story 1
+genitals-story 1
+genius grant-story 2
+genome-story 6
+genomic-story 1
+genre-story 1
+gentle-story 1
+gentrification-story 1
+genuine-ask_hn 1
+genuine-story 1
+geoarena-story 1
+geodns-story 1
+geography-story 1
+geometrical-story 2
+geometry course-story 2
+geometry influence-story 2
+george-story 1
+georgia tech-story 2
+german-story 5
+germany freelancing-story 2
+germany-story 2
+get-ask_hn 4
+get-show_hn 5
+get-story 78
+getters setters-story 2
+ggplot2-story 1
+ghastly-story 1
+ghetto-story 1
+ghost-story 4
+ghostery-story 1
+ghz-story 1
+giant-story 7
+giants-story 1
+gibberish-story 1
+gif-story 2
+gift-story 5
+gig economy-story 2
+gigatron-story 1
+gil-story 1
+gimp-story 1
+gin-show_hn 1
+girl-story 3
+gist-show_hn 1
+git repo-show_hn 2
+git tower-story 2
+git-story 13
+gitaly-story 1
+gitbook-ask_hn 1
+gitbook-story 1
+github-ask_hn 3
+github-show_hn 6
+github-story 16
+githunt-show_hn 1
+gitlab-story 4
+gitleaks-story 1
+gitmails-story 1
+gitops-story 1
+gitpub-story 1
+give-show_hn 1
+give-story 17
+giveback-story 1
+givedirectly-story 1
+gke-story 1
+gladiator-story 1
+glass-story 4
+glen-story 1
+glib-story 1
+glide-story 2
+glimmer-story 1
+glimpse-story 2
+glitch-story 1
+global-story 19
+globally-story 2
+globe-story 1
+glove-story 1
+glovo-story 1
+glow-story 1
+glucose monitoring-story 2
+glue-story 1
+gluon-story 1
+gluttonous-story 1
+gm-story 3
+gmail loading-show_hn 2
+gmail-ask_hn 3
+gmail-show_hn 1
+gmail-story 4
+gnome-story 1
+gnu-story 2
+go golang-story 2
+go-ask_hn 4
+go-show_hn 6
+go-story 71
+goal-story 1
+gobpf-story 1
+golang devs-story 2
+golang-ask_hn 1
+golang-show_hn 1
+golang-story 5
+gold-story 1
+golden-story 4
+goldman-story 1
+golf-story 1
+gonna-story 2
+gonorrhea-story 1
+good-ask_hn 10
+good-story 40
+goodbye-story 1
+gooders-story 2
+goodhart-story 1
+google allo-story 2
+google amazon-story 2
+google analytics-story 8
+google app-story 2
+google apps-story 2
+google authenticator-story 2
+google chrome-story 2
+google cloud-story 8
+google duplex-story 2
+google engineers-story 2
+google executives-story 2
+google fi-story 2
+google i-story 4
+google images-story 2
+google introduces-story 2
+google kubernetes-story 2
+google launches-story 4
+google maps-story 2
+google memo-story 2
+google pixel-story 2
+google plan-story 2
+google plans-story 2
+google play-story 2
+google retpoline-story 2
+google scholar-show_hn 2
+google search-story 2
+google settings-ask_hn 2
+google sheets-story 2
+google shopping-story 2
+google translate-story 2
+google-ask_hn 3
+google-story 61
+gopher-story 3
+gorilla-story 1
+gospel-story 1
+gov-story 1
+governance-story 3
+government needs-story 2
+government spending-story 2
+government-story 6
+governor-story 1
+govt-story 1
+gp-story 1
+gpios-story 1
+gpl-story 1
+gps-story 5
+gpu-story 11
+gpus-story 3
+graal-story 1
+graalvm-story 1
+grab-story 3
+grade-story 2
+gradient-story 3
+graduate-story 2
+grain price-story 2
+grammar-story 2
+grand-story 4
+grandparent-ask_hn 1
+grandparent-story 1
+grant-story 2
+graph algebra-story 2
+graph data-story 2
+graph processing-story 2
+graph query-story 2
+graph-ask_hn 1
+graph-story 5
+graphene-story 1
+graphic-story 4
+graphical-ask_hn 1
+graphical-story 1
+graphics programmer-story 2
+graphics today-story 2
+graphql-show_hn 1
+graphql-story 9
+grasp-story 1
+grateful-story 1
+gratification-story 1
+graveyard-story 1
+graviton processors-story 2
+gravity-story 3
+gray-story 1
+grayscale-story 1
+great-ask_hn 1
+great-story 20
+green-story 2
+greene-story 1
+greenhouse gas-story 2
+gregory maxwell-story 2
+grewal-story 1
+grey-story 1
+grid-show_hn 1
+grid-story 2
+grievance-story 1
+grim-story 2
+grin-story 1
+grip-story 1
+grit-story 1
+grocery-story 2
+grok-story 1
+ground-story 3
+groundbreaking-story 2
+group-show_hn 1
+group-story 10
+grow-ask_hn 4
+grow-story 16
+growth playbook-story 2
+growth team-story 2
+growth-story 8
+grpc-story 1
+gtk-story 1
+gtt-story 1
+guacamole-story 1
+guarantee-story 1
+guard-story 1
+guardian-story 1
+guatemala-story 1
+guess-ask_hn 1
+guest-show_hn 1
+guest-story 3
+gui-show_hn 2
+gui-story 2
+guice-story 1
+guidance computer-story 2
+guidance-story 2
+guide learn-story 2
+guide-story 36
+guideline-story 1
+guido-story 1
+guilty-story 4
+guinea-story 2
+guitar-story 1
+guixsd-story 2
+gun policy-story 2
+gun-story 2
+gunpoint-story 1
+guru-story 1
+guwahati airport-story 2
+guy steele-story 2
+guy-story 4
+h1 b-story 2
+h1b-story 1
+h2 tokio-story 2
+h7-story 1
+ha-story 1
+habit-story 1
+habitable-story 1
+hack-story 22
+hacked-story 1
+hacker news-story 2
+hacker-story 13
+hackernews-ask_hn 1
+hackerone-story 1
+hacking-story 1
+hackintosh-story 1
+hackmit-story 1
+hacknight-story 1
+hadfield-story 1
+hadronjs-story 1
+hail-story 4
+hair-story 1
+hakito-story 1
+half-show_hn 1
+half-story 11
+hall-story 2
+halo-story 1
+halt-story 4
+halve-story 1
+ham-story 1
+hand-story 11
+handbook-story 2
+handle-story 9
+handling-story 1
+handoff-story 1
+handover-story 1
+handy-story 2
+hang-story 1
+hangout-story 1
+hannah arendt-story 2
+hao-story 1
+happen-story 24
+happiness-story 2
+happy-show_hn 1
+happy-story 6
+happygrumpy-show_hn 1
+haproxy-story 1
+harari-story 1
+harassment-story 5
+harbor-story 2
+hard-ask_hn 3
+hard-story 16
+hardass rules-story 2
+hardcode-ask_hn 1
+hardcoding-story 1
+harden-story 1
+harder-story 2
+hardware backdoors-story 2
+hardware design-story 2
+hardware-ask_hn 1
+hardware-story 11
+harley-story 1
+harm-story 4
+harmful-story 4
+harmonize-story 1
+harpoon-story 1
+harriet-story 1
+harsh environments-story 2
+harsh-story 1
+harvard-story 2
+harvest-story 1
+harvey weinstein-story 2
+hash functions-story 4
+hash-story 4
+hashcat-story 1
+hashicorp-story 1
+haskell development-story 2
+haskell-story 3
+hasn-story 3
+hassle-story 1
+hatch-story 1
+hate amazon-story 2
+hate-ask_hn 1
+hate-story 4
+have-ask_hn 16
+have-story 115
+haven-story 3
+havoc-story 1
+hawk-story 3
+haxe-story 1
+haze-story 1
+hbo-story 2
+hcl-story 1
+hd-story 1
+hdcp-ask_hn 1
+he-story 14
+head-story 10
+headbox-story 1
+header-story 1
+headlight-story 1
+headquarters-story 1
+headset wireless-story 2
+headset-story 2
+headtracking-story 1
+health care-story 4
+health checks-story 2
+health insurer-story 2
+health insurers-story 2
+health report-story 2
+health-ask_hn 2
+health-story 9
+healthcare-story 1
+healthchecks-story 1
+healthy-show_hn 1
+healthy-story 1
+hear-story 4
+heard-story 1
+hearing-story 2
+heart device-story 2
+heart-story 1
+heartland-story 1
+heat dissipation-story 2
+heat event-story 2
+heat-story 3
+heater-story 1
+heathrow-story 1
+heatmap-story 1
+heatwaves-story 1
+heaven-story 1
+heavily-story 2
+heavy-story 2
+heck-story 2
+hedge-story 3
+heist-story 1
+helicopter-story 1
+helix-story 1
+hell-story 1
+hello-story 2
+helm-story 1
+helmet-story 1
+helmut-story 1
+help-ask_hn 4
+help-show_hn 3
+help-story 45
+helpful-story 1
+helsinki-story 1
+hemp-story 1
+hennessy-story 1
+hentai-story 1
+her-story 5
+herbal-story 1
+herbivore-story 1
+here-ask_hn 1
+here-story 33
+heritability-story 1
+hero text-show_hn 2
+heroku-show_hn 1
+heroku-story 1
+herpes-story 1
+hers-story 1
+hess triangle-story 2
+heterogeneous-story 1
+heyday-story 1
+hickey spec-story 2
+hidato-story 1
+hidden-story 4
+hide-story 4
+hierarchical-story 1
+higan-story 1
+high-story 39
+highlight-story 1
+highly-story 2
+hijack-story 3
+hijacked-story 1
+hike-story 2
+hilarious-story 1
+himself-story 2
+hint-story 4
+hip-story 1
+hipaa-ask_hn 1
+hipchat-story 1
+hipstafridge blockchain-show_hn 2
+hire-ask_hn 3
+hire-story 13
+hiring experience-ask_hn 2
+hiring-ask_hn 1
+hiring-story 1
+his-ask_hn 1
+his-story 16
+historic-story 1
+historical-ask_hn 1
+historical-show_hn 1
+historical-story 1
+history isn-story 2
+history-story 20
+hit-story 10
+hitler-story 1
+hitlist-story 1
+hiv-story 2
+hjson-story 1
+hn-ask_hn 220
+hn-show_hn 208
+hn-story 5
+hoax-story 2
+hoffman-story 1
+hoist-story 1
+hold-story 4
+hole-story 4
+holloway-story 1
+hollywood-story 1
+holmes-story 1
+holographic-story 1
+holography-story 1
+home addresses-story 2
+home assistant-story 2
+home buying-story 2
+home ownership-story 2
+home robotics-story 2
+home values-story 2
+home-ask_hn 2
+home-story 17
+homebrew-story 2
+homeless-story 4
+homelessness-story 1
+homeownership-story 1
+homepage-story 1
+homeplug-story 1
+homepod-story 2
+hometown-story 1
+homicide rate-story 2
+homomorphic-story 1
+hone-story 1
+honey-story 2
+honeymoon-story 1
+honeypot-ask_hn 1
+hong-story 1
+hood-story 1
+hook-show_hn 2
+hook-story 2
+hoover-story 1
+hop-story 5
+hope-story 4
+hopper-story 1
+horizon-story 1
+horizontally-story 1
+hormone-story 1
+horowitz-story 1
+horror-story 1
+horse-show_hn 1
+horse-story 2
+hospital-story 7
+host-ask_hn 1
+host-show_hn 2
+host-story 4
+hostile-story 2
+hostname-story 1
+hosts replicants-story 2
+hot-story 3
+hotel emoji-story 2
+hotel room-story 2
+hotel security-story 2
+hotel-show_hn 1
+hotter-story 1
+houdini experiments-story 2
+hour-story 11
+hourly-story 1
+house price-story 2
+house principles-story 2
+house-story 6
+housing market-story 2
+housing-story 3
+how-ask_hn 60
+how-show_hn 2
+how-story 312
+hp-story 3
+hpc-story 1
+hq-story 4
+hq2-story 3
+hsbc-story 1
+hsts-story 1
+htc-story 1
+html-show_hn 1
+html-story 8
+html5-story 2
+http-show_hn 2
+http-story 13
+httpp-show_hn 1
+https-show_hn 1
+huang-story 1
+huawei-story 6
+hub-story 5
+hubble-story 2
+hubl-story 1
+hubspot-story 2
+huge-story 3
+human-show_hn 2
+human-story 26
+humanistic-story 1
+humanity-ask_hn 1
+humanity-story 5
+humble-story 2
+humor-story 1
+humph-story 1
+hundred-story 1
+hundredfold-story 1
+hunger-story 1
+hunt-story 5
+hunter gatherer-story 2
+hunter-story 1
+hurt-story 2
+hustle-story 1
+hwy-story 1
+hybrid-story 4
+hydrogen-story 2
+hygiene-story 1
+hype vanishes-story 2
+hype-story 3
+hyper log-story 2
+hyper-story 1
+hyperapp-show_hn 1
+hypercore-story 1
+hyperdense-story 1
+hyperparameter-story 1
+hyperscale-story 1
+hypersonic-story 1
+hyperthreading-story 1
+hypothesis-story 2
+i-ask_hn 21
+i-show_hn 8
+i-story 74
+i3-story 1
+i7-story 1
+iam-story 1
+ian-story 1
+iap-story 1
+ibm-story 8
+iboot-story 1
+ice caps-story 2
+ice-story 1
+icescrum-story 1
+icml-story 1
+ico-story 7
+icon-story 1
+icos-story 4
+id-story 4
+ide-show_hn 1
+ide-story 2
+idea feedback-show_hn 2
+idea-ask_hn 2
+idea-show_hn 1
+idea-story 17
+ideal-story 1
+ideazap-show_hn 1
+identical-story 2
+identicons-story 1
+identifiable-story 1
+identifier-story 2
+identify-story 7
+identifying-story 1
+identity diversification-story 2
+identity politics-story 2
+identity-story 7
+ideological-story 1
+idiot-story 1
+idq-story 1
+idris-story 1
+ietf-story 1
+if-ask_hn 4
+if-story 26
+ifixits-story 1
+iframes-story 1
+iger-story 1
+ignore-story 1
+ii-story 4
+iii-story 3
+ikea-story 1
+illegal-story 5
+illegitimate-story 1
+illinois-story 1
+illness-story 1
+illumina-story 1
+illusion-story 1
+illustrate-story 1
+illustrated-story 1
+illustration-story 3
+ilya-story 1
+imac-story 1
+image pipeline-story 2
+image-show_hn 4
+image-story 18
+image2image-story 1
+image2text-story 1
+imagemagick-story 1
+imagination-story 1
+imagine-story 2
+imdb-story 1
+img-show_hn 1
+imgui-story 1
+imgur-story 1
+imitate-story 1
+immediate-story 1
+immediately-ask_hn 1
+immer-story 2
+immigrant-story 2
+immigration-story 1
+immortal-story 1
+immortality-story 1
+immune system-story 2
+immutable-story 4
+impact-ask_hn 1
+impact-story 10
+impaired-ask_hn 1
+impala-story 1
+impede-story 1
+imperial-story 2
+impersonate-story 1
+implant-story 1
+implement-show_hn 1
+implement-story 9
+implementation-show_hn 2
+implementation-story 4
+import-story 6
+importance-story 3
+important-ask_hn 3
+important-show_hn 1
+important-story 6
+importfrom-story 1
+impossible-story 3
+impostor-story 3
+impressionism-story 1
+improperly-story 1
+improve-ask_hn 1
+improve-show_hn 1
+improve-story 10
+improvement-story 2
+impuesto correcto-story 2
+in-ask_hn 22
+in-show_hn 26
+in-story 663
+inability-story 1
+inaccurate-story 1
+inbound-story 1
+inbox-story 2
+inboxes-story 1
+incent-show_hn 1
+incentive programming-story 2
+incident-show_hn 1
+incident-story 3
+include-ask_hn 1
+include-story 6
+inclusive-story 1
+income-story 1
+incorporate-ask_hn 1
+incorporate-story 1
+incorrect-story 1
+incorrectly-story 1
+increase security-story 2
+increase-ask_hn 1
+increase-story 8
+increasingly-story 1
+incredible-story 1
+incredibly-story 1
+indecipherable-story 1
+indent-story 1
+indentation-story 1
+independence-story 1
+independent-story 4
+index funds-story 2
+index-story 7
+india-story 9
+indian-story 4
+indiana jones-story 2
+indicator flashes-story 2
+indicator-story 2
+indie-story 1
+individual-ask_hn 1
+individual-story 1
+indonesia-story 1
+indoor-story 2
+indoors-ask_hn 1
+induce-story 1
+induction motor-story 2
+industrial-story 2
+industry predictions-story 2
+industry-ask_hn 1
+industry-story 10
+inequality innovation-story 2
+inequality-story 2
+inexperienced-ask_hn 1
+infect-story 2
+infection-story 2
+infectious-story 1
+infects-story 1
+inference acceleration-story 2
+inference-story 1
+infibeam-story 1
+infinite-story 3
+infinity-story 1
+inflation-story 1
+influence operation-story 2
+influence-story 5
+influential-story 2
+info-story 2
+information system-story 2
+information-ask_hn 1
+information-story 12
+infosecurity magazine-story 2
+infrastructure companies-story 2
+infrastructure projects-story 2
+infrastructure-story 5
+infringe-story 1
+infringement-story 2
+ing-story 1
+ingredient-story 1
+ingress-story 1
+inheritance-show_hn 1
+inheritance-story 1
+initial-story 3
+initiative-story 2
+inject-story 1
+injection-story 5
+injure-story 2
+injury-story 3
+injustice-story 1
+ink-story 1
+inner-story 1
+innocent-story 1
+innovation-story 8
+innovative-story 2
+inoovi-story 1
+inprivate-story 1
+input-story 3
+insane-story 2
+insatiability-story 1
+insecure cameras-story 2
+insecure-ask_hn 1
+inside-story 18
+insider-story 3
+insight-story 7
+insitro-story 1
+inspektor-story 1
+inspire-show_hn 1
+inspire-story 1
+instability fault-story 2
+instagram-story 7
+instal-story 2
+install-story 1
+installation-story 2
+installer-story 1
+installers-story 1
+installment-story 1
+instance-story 3
+instant-show_hn 1
+instant-story 2
+instantly-show_hn 1
+instantly-story 1
+instead-story 2
+institute-story 1
+institution-story 1
+institutional-story 1
+institutionalization-story 1
+instruction set-story 2
+instruction-story 1
+instrument-story 1
+instrumentals-show_hn 1
+insurance fund-story 2
+insurance-ask_hn 1
+insurer-story 2
+intact-story 1
+integrate-story 4
+integrated-story 2
+integration-story 8
+integrity-story 1
+intel aims-story 2
+intel core-story 2
+intel m3-story 2
+intel microchips-story 2
+intel skylake-story 2
+intel-story 13
+intellectual-story 1
+intelligence augmentation-story 2
+intelligence bona-story 2
+intelligence november-story 2
+intelligence perimeter-story 2
+intelligence surveillance-story 2
+intelligence techniques-story 2
+intelligence upgrade-story 2
+intelligence-show_hn 1
+intelligence-story 18
+intelligent-story 4
+intellij-show_hn 1
+intellij-story 1
+intense-story 1
+intensive-story 1
+intent-story 2
+intention-story 1
+interact-story 2
+interactive-show_hn 2
+interactive-story 15
+intercom-story 1
+interest-story 3
+interested-story 1
+interesting-ask_hn 1
+interesting-story 1
+interface manager-story 2
+interface-ask_hn 1
+interface-show_hn 1
+interface-story 5
+interfere-story 1
+interference-story 1
+interim-story 1
+interleave-story 1
+intermediate-story 2
+intermittent-story 1
+internal-story 1
+internals-story 2
+international-story 2
+internationalization support-story 2
+internationalization-story 1
+internationally-story 1
+internet companies-story 2
+internet drone-story 2
+internet isn-story 2
+internet society-story 2
+internet users-story 2
+internet-ask_hn 1
+internet-story 32
+internship-story 1
+interoute-story 1
+interplanetary-story 2
+interpret-story 1
+interpreter-show_hn 1
+interrogate-story 1
+intersection observer-story 2
+intersectionobserver-story 1
+interstellar-story 2
+interview questions-story 2
+interview shotgun-story 2
+interview-ask_hn 4
+interview-story 12
+into-ask_hn 2
+into-show_hn 3
+into-story 52
+intracellular-story 1
+intro-story 3
+introduce-show_hn 2
+introduce-story 18
+introduces-story 2
+introduction-story 8
+introvert-story 1
+invalidate-story 1
+invasive-story 3
+invent-ask_hn 1
+invent-story 3
+invented-story 1
+invention-ask_hn 1
+inventor-story 2
+inverse-story 1
+invest-story 7
+investigate-story 2
+investigation-story 2
+investigative-story 1
+investing-story 1
+investment ecosystem-story 2
+investment opportunity-story 2
+investment-story 10
+investor-story 5
+invests-story 2
+invidious-story 1
+invisible-story 1
+invitation-story 1
+invite-show_hn 1
+invite-story 2
+invoice-story 2
+involve-ask_hn 1
+involve-story 2
+inxeba-story 1
+io games-story 2
+io-show_hn 6
+io-story 22
+iocp-story 1
+ion-story 1
+ionic-story 1
+ios-story 1
+iostack-story 1
+iot-story 6
+ip-ask_hn 1
+ip-story 3
+ipad-story 2
+ipfs-show_hn 1
+ipfs-story 3
+iphone-story 20
+ipo-story 3
+iptables-story 1
+ipv6-story 5
+iq-story 1
+iran-story 2
+iranian-story 1
+irata-story 1
+irc-show_hn 1
+irc-story 1
+ireland-story 3
+irish-story 1
+iron-story 1
+irondb-story 1
+irrational-story 2
+irrelevant-story 1
+isa-story 1
+ish-story 1
+isi-story 1
+islamic-story 1
+island city-story 2
+island-story 2
+islands-story 1
+isn-story 13
+iso-story 2
+isp-story 1
+ispc-story 1
+israel-story 6
+israeli-story 1
+iss-story 1
+issue-story 13
+issues diversity-story 2
+isuseragoat-story 1
+it-ask_hn 13
+it-story 198
+iter-story 1
+iteration-story 1
+itopography-story 1
+itself-story 6
+iv-story 1
+ivy-story 1
+j d-story 2
+j-ask_hn 1
+j-show_hn 5
+j-story 35
+jab-story 1
+jabberwocky-story 1
+jack bauer-story 2
+jack dorsey-story 2
+jack ma-story 4
+jackal-story 1
+jacking-story 1
+jai language-story 2
+jail-story 2
+jailbreaks post-story 2
+jailbreaks-story 1
+jakarta-story 1
+jam-story 2
+james allison-story 2
+jamming-story 1
+japan-story 9
+japanese-story 6
+jar-story 1
+jason-story 2
+java stack-story 2
+java-ask_hn 1
+java-show_hn 2
+java-story 8
+javascript-show_hn 8
+javascript-story 41
+jazz aikido-story 2
+jca-story 1
+jd-story 1
+jdeps-story 1
+jdk-story 1
+jean-story 1
+jeff-story 1
+jekyll websites-show_hn 2
+jekyll-show_hn 1
+jeopardy-story 1
+jep-story 2
+jeremy corbyn-story 2
+jersey-story 1
+jessica-story 1
+jest-show_hn 1
+jet-story 2
+jetblack-story 1
+jetbrians-story 1
+jetlore-story 1
+jewish-story 2
+jfk-story 2
+jigsaw-story 1
+jimmy song-story 2
+jinping-story 1
+jit-story 4
+job interviews-story 2
+job seekers-story 2
+job-ask_hn 6
+job-show_hn 2
+job-story 23
+joe fitz-story 2
+joe lubin-story 2
+joe shelton-story 2
+joel kaplan-story 2
+john carmack-story 2
+john oliver-story 4
+john perry-story 2
+john-show_hn 1
+john-story 1
+join-story 8
+joke-story 1
+jones-story 1
+jordan peterson-story 2
+jose sharks-story 2
+joseph blitzstein-story 2
+journal-story 3
+journalism-story 2
+journalist-story 1
+journey-story 3
+journies-show_hn 1
+joy reid-story 2
+joy-story 5
+joystick-story 1
+jpmorgan-story 1
+jquery-story 1
+js-story 2
+jslinux-story 1
+jslt-story 1
+json-show_hn 2
+json-story 12
+jsse-story 1
+jsx-show_hn 1
+judge rules-story 2
+judge-story 2
+julia-story 3
+julian-story 1
+july-story 4
+jump chains-story 2
+jump-story 3
+june issue-story 2
+june-story 2
+junhu-story 1
+junior-ask_hn 1
+junior-story 1
+junk food-story 2
+junk-story 1
+jupiter-story 2
+jupyter-show_hn 1
+juqueen-story 1
+jury-story 2
+just-ask_hn 1
+just-show_hn 1
+just-story 28
+justice-story 1
+juwels-story 1
+k8s-ask_hn 1
+kafe-story 1
+kafka-story 1
+kaggle-story 1
+kahen-story 1
+kaiser-story 1
+kakapo-story 1
+kaku-story 1
+kalundborg-story 1
+kaminsky-story 1
+kanban-story 1
+karen-story 1
+kasotsuka-story 1
+katamari damacy-story 2
+kattana-story 1
+katzenpost traffic-story 2
+kavanaugh hearing-story 2
+kavanaugh-story 1
+kde-story 1
+keep-ask_hn 1
+keep-story 15
+kelly-story 1
+kelsey hightower-story 2
+kempf-story 1
+kenya-story 2
+kenyan-story 1
+kepler mission-story 2
+keplerian-show_hn 1
+kerbal-story 1
+kernel generation-story 2
+kernel-story 7
+kerrisdale-story 1
+keshav-story 1
+key-ask_hn 1
+key-show_hn 3
+key-story 9
+key2lyf-show_hn 1
+keyboard-ask_hn 1
+keyboard-story 4
+keycdn-story 1
+keylogger-show_hn 1
+keylogger-story 1
+keynote-story 1
+keystone problem-story 2
+keystroke-story 1
+kgb-story 1
+khwasan-story 1
+kialo-story 1
+kibana fluentd-story 2
+kickstarter-story 2
+kid-ask_hn 1
+kid-story 3
+kidnap-story 1
+kidney stones-story 2
+kill-story 17
+killer app-story 2
+killer-story 2
+kilogram-story 1
+kilopower-story 1
+kind-story 3
+kinded-story 1
+kindleberry pi-story 2
+kinetica-story 1
+king-story 2
+kirin-story 1
+kista-story 1
+kit developer-story 2
+kit-story 1
+kitchen asst-story 2
+kitchen-story 1
+kitematic-show_hn 2
+kitermatic-show_hn 2
+kiwi-story 2
+klutz-story 1
+knife-story 1
+knitter-story 1
+knot-story 1
+knotel-story 1
+know-ask_hn 4
+know-story 34
+knowing-story 1
+knowledge-story 7
+known_hosts-story 1
+knuth plass-story 2
+ko-story 1
+kobo360-story 1
+kobolds-show_hn 1
+kodak-story 1
+kohl-story 1
+kolibrios-story 1
+kolmogorov-story 1
+kong-story 1
+kookoo-story 1
+korea pledges-story 2
+korea-story 5
+kosovo-story 1
+kotaku-story 1
+kotlin android-story 2
+kotlin-story 7
+kottayam-story 1
+kpis-story 1
+kraken-show_hn 1
+kravatte-show_hn 1
+kremlin-story 1
+kristen-story 1
+krita-story 1
+ktask-story 1
+kube-story 1
+kubeadm-story 1
+kubeflow-story 1
+kubernetes cluster-story 2
+kubernetes-ask_hn 1
+kubernetes-show_hn 1
+kubernetes-story 18
+kubespy-show_hn 1
+kugelblitz-story 1
+kuhn-story 1
+kvm-story 1
+kyi-story 1
+l train-story 2
+la-story 2
+lab-story 4
+label-story 1
+labeling-show_hn 1
+labelling-story 1
+labor lawsuit-story 2
+labor union-story 2
+labor-story 2
+labyrinth-story 1
+lack-story 5
+laconic-show_hn 1
+ladder-story 1
+lady-story 1
+lagos-story 1
+laid-story 1
+lake volume-story 2
+lake-story 3
+lale-story 1
+lambda app-story 2
+lambda-ask_hn 1
+lambda-show_hn 1
+lambda-story 7
+lambdaedge-story 1
+lambdaphp-show_hn 1
+lamp-story 1
+land use-story 2
+land-story 5
+lander-story 1
+landing page-story 2
+landing pages-show_hn 2
+landingpage-story 1
+landlord-story 1
+landmark-story 1
+lane-story 1
+language architecture-story 2
+language processing-story 2
+language proposal-story 2
+language-ask_hn 3
+language-story 27
+languages-story 1
+lapd-story 1
+laptop-ask_hn 3
+laptop-story 9
+laravel-story 1
+large-ask_hn 1
+large-story 16
+largely-story 1
+largesse-story 1
+larrabee-story 1
+larry-ask_hn 1
+larry-story 2
+laser-story 6
+lasik-story 1
+lasso-story 2
+last-story 14
+lasting learning-story 2
+late-story 9
+latency-story 3
+latex-story 1
+lattepanda-story 1
+lattice cryptography-story 2
+latvian-story 1
+launch-story 42
+launchaco-story 1
+launchbasket-story 1
+launder-story 1
+laurel-story 1
+law enforcement-story 4
+law-show_hn 1
+law-story 26
+lawmaker-story 4
+lawsplainer michael-story 2
+lawsuit isn-story 2
+lawsuit-story 1
+lawyer bots-story 2
+lawyer-story 5
+lay-story 1
+layer security-story 2
+layer-story 2
+layoff-story 2
+layout-ask_hn 1
+layout-show_hn 1
+layout-story 2
+laziness-story 2
+lazy-story 3
+lda-story 1
+ldbc-story 1
+lead-show_hn 1
+lead-story 17
+leader-story 5
+leaderboard-story 1
+leaderless-story 1
+leadership-ask_hn 1
+leadership-story 3
+leafiness-story 1
+league-show_hn 1
+leak cost-story 2
+leak-story 8
+leakage-story 1
+leaked-story 1
+leap-story 7
+learn git-story 2
+learn-ask_hn 7
+learn-show_hn 3
+learn-story 66
+learning approach-story 2
+learning architectures-story 2
+learning hunts-story 2
+learning inference-story 2
+learning martin-story 2
+learning tips-story 2
+learning-ask_hn 1
+learning-show_hn 2
+learning-story 15
+learns-story 1
+learnt-story 1
+least-ask_hn 1
+least-story 3
+leave-ask_hn 1
+leave-story 11
+lecture-story 3
+lede-story 1
+ledger consensus-story 2
+ledger database-story 2
+lee-story 1
+lefdal-story 1
+legacy-story 2
+legal-story 5
+legend-story 1
+legere-show_hn 1
+legislation-story 1
+legislator-story 1
+lego ideas-story 2
+lego mindstorms-story 2
+lego-story 4
+legoos-story 1
+leica s3-story 2
+leisure-story 1
+lending circles-story 2
+lending guidance-story 2
+lending library-show_hn 2
+lengkap-story 1
+length-story 1
+lenient-show_hn 1
+lenovo-story 1
+lens-story 1
+leonard-story 1
+leonardo da-story 4
+leonhard-story 1
+lesbian-story 1
+less-show_hn 1
+less-story 11
+lesson-show_hn 1
+lesson-story 11
+let-show_hn 1
+let-story 24
+letter-story 1
+lettuce borne-story 2
+lettuce-story 1
+leuthold-story 1
+level synthesis-story 2
+level-story 8
+leveldesign-story 1
+leverage-ask_hn 1
+leverage-story 2
+leveraged-story 1
+levi strauss-story 2
+levis-story 1
+lewin-story 1
+lewis-story 2
+lexicographically-story 1
+lfence-story 1
+lib-story 1
+libel-story 1
+liberal-story 1
+liberalism-story 1
+liberapay-story 1
+liberty-story 2
+library-ask_hn 1
+library-show_hn 9
+library-story 22
+libre-story 1
+librem13-story 1
+libresprite-story 1
+libyans-story 1
+license-story 2
+licensing-story 1
+lidar-story 2
+lie-story 5
+life online-story 2
+life sciences-story 2
+life span-story 2
+life-story 31
+lifehacks-story 1
+lifelike-story 1
+lifestyle-story 1
+lift-story 2
+liftbridge-show_hn 1
+light-story 8
+lightbeam-story 1
+lightbulbs-story 1
+lightning-story 4
+lightweight-show_hn 2
+lightweight-story 4
+like-ask_hn 5
+like-show_hn 3
+like-story 41
+likely-story 8
+lile-ask_hn 1
+limbo-story 1
+lime-story 1
+limepod-story 1
+limit-story 3
+limitation-story 1
+limited-story 1
+limiting-story 1
+limitrr-story 1
+lindy-story 1
+line-show_hn 2
+line-story 9
+linear-story 5
+lineup-story 1
+linger-story 1
+lingerie-story 1
+link-ask_hn 1
+link-story 11
+linkedin-ask_hn 1
+linkedin-story 2
+linode beta-story 2
+linux file-story 2
+linux foundation-story 2
+linux kubernetes-story 2
+linux-ask_hn 2
+linux-show_hn 1
+linux-story 24
+lion-story 2
+liqui-story 1
+liquid battery-story 2
+liquid-story 2
+lisp-ask_hn 1
+lisp-show_hn 1
+lisp-story 5
+list-ask_hn 2
+list-show_hn 3
+list-story 19
+listen-story 2
+listing-story 2
+lit-show_hn 1
+lite-story 1
+literacy-story 1
+literally-story 2
+literary-story 1
+literate c-story 2
+literature-story 3
+litigation-story 1
+litter-story 1
+little-story 8
+littlewood-story 1
+livable-story 1
+live-show_hn 1
+live-story 15
+liver disease-story 2
+liver-story 1
+liverwort-story 1
+livestream-story 1
+living-ask_hn 1
+living-show_hn 1
+living-story 3
+livingston-story 1
+liz-story 1
+lkml-story 1
+ll-story 4
+llvm-show_hn 1
+llvm-story 2
+lm-story 1
+load balancer-story 2
+load-story 6
+loan-show_hn 1
+loan-story 3
+lobby-story 1
+local-show_hn 4
+local-story 8
+localization-story 2
+localize-story 1
+locally-story 2
+location-show_hn 1
+location-story 3
+lock-story 4
+lockbox codes-story 2
+lockheed-story 3
+lodash-story 1
+log processing-story 2
+log-ask_hn 1
+log-show_hn 1
+log-story 8
+logagent-story 1
+logic-story 4
+logical-story 1
+logistic-story 1
+logistics boom-story 2
+logistics-story 1
+logo-show_hn 1
+logo-story 1
+london england-show_hn 2
+london-story 1
+londoner-story 1
+loneliness-story 3
+long-ask_hn 1
+long-story 24
+longer-story 2
+longtime-story 1
+look-ask_hn 2
+look-show_hn 2
+look-story 38
+lookout-story 1
+loop-ask_hn 1
+loop-story 2
+loops-story 1
+lord-story 1
+lore-story 1
+lorenzo lochbaum-story 2
+los-story 1
+lose-show_hn 1
+lose-story 11
+loser-story 1
+loses share-story 2
+loss-story 2
+lost-story 1
+lot-story 3
+lottery ticket-story 2
+lottery-story 1
+lovable-story 1
+love story-story 2
+love-show_hn 1
+love-story 14
+lovelace-story 1
+low-ask_hn 2
+low-show_hn 1
+low-story 13
+lower-story 2
+lowrisc-story 1
+loyal-story 1
+loyalist-story 1
+lpcnet-story 1
+lrb-story 1
+lsd-story 1
+lsof-story 1
+lstms-story 1
+ltfn-story 1
+lu-story 1
+luajit-story 1
+lubuntu-story 1
+lucene indexes-story 2
+luck-story 2
+lucky-story 2
+luggage-story 1
+luminaria-story 1
+lunar-story 3
+lundgren-story 1
+lupercalia-story 1
+lure-story 1
+luxury marketplace-story 2
+luxury-story 1
+lxc-story 1
+lxqt-story 1
+lyft-story 5
+lynch-story 1
+lzw-story 1
+m hashimoto-story 2
+m pesa-story 2
+m-ask_hn 1
+m-story 3
+m4-story 1
+maas-story 1
+mac app-story 2
+mac office-story 2
+mac windows-story 2
+mac-ask_hn 1
+mac-show_hn 1
+mac-story 3
+macarthur-story 1
+macbook-story 4
+mace-story 1
+mach o-story 2
+machine box-story 2
+machine compiler-story 2
+machine learning-ask_hn 2
+machine learning-story 16
+machine-ask_hn 2
+machine-show_hn 2
+machine-story 40
+mack-story 1
+macos-show_hn 3
+macos-story 10
+macpaw-story 1
+macro-story 1
+macroeconomic-story 1
+macroeconomics-story 1
+macros-story 1
+madlaina kalunder-story 2
+madness-story 2
+maersk-story 1
+maezawa-story 1
+magazine covers-story 2
+magazine-story 1
+magento image-story 2
+magic-show_hn 1
+magic-story 13
+magical-story 1
+maiden-story 1
+mail-ask_hn 1
+mail-story 4
+main-story 1
+mainframe-story 1
+mains frequency-story 2
+maintain funding-story 2
+maintain-ask_hn 1
+maintain-story 1
+maintainable-story 2
+maintainer-story 1
+maintenance release-story 2
+maintenance-story 1
+major-story 8
+make-ask_hn 6
+make-show_hn 8
+make-story 80
+maker-show_hn 1
+maker-story 2
+makerlog-show_hn 1
+making-story 2
+malawi-story 1
+male-story 5
+malfunction-story 1
+malicious-story 1
+mall-story 1
+malware-story 6
+man-story 19
+manage records-story 2
+manage-ask_hn 2
+manage-show_hn 3
+manage-story 9
+manageability-story 1
+managed kubernetes-story 2
+management library-story 2
+management solutions-story 2
+management-ask_hn 1
+management-show_hn 2
+management-story 11
+manager-ask_hn 2
+manager-show_hn 1
+manager-story 9
+managing-story 1
+mandarin-story 1
+mandelbrot-story 1
+manga-story 1
+manifest-story 1
+manipulability-story 1
+manipulate-story 2
+manipulation-story 2
+manna-story 1
+manual-story 2
+manufacture-story 1
+manufacturer-story 1
+manufacturing world-story 2
+manuscript-story 1
+many-ask_hn 1
+many-story 16
+map-show_hn 1
+map-story 13
+mapd-story 3
+mapme-story 1
+mappable-story 1
+mapping-story 1
+mapreduce-story 1
+mar-story 20
+marc-story 1
+march-story 1
+marching-story 1
+mariadb-story 1
+marijuana-story 4
+marine-story 1
+mario maker-story 2
+mark zuckerberg-story 6
+mark zuckerbergs-story 2
+mark-story 4
+markdown-story 1
+markee-story 1
+market cap-story 2
+market street-story 2
+market trends-story 2
+market value-story 2
+market-ask_hn 1
+market-show_hn 1
+market-story 14
+marketer-show_hn 1
+marketer-story 1
+marketing benefits-story 2
+marketing experiment-story 2
+marketing tips-story 2
+marketing-show_hn 1
+marketing-story 8
+marketplace-ask_hn 1
+marketplace-show_hn 1
+marketplace-story 3
+markup-story 1
+marriage proposal-story 2
+married-story 1
+mars reconnaissance-story 2
+marshmallow-story 1
+martian-story 3
+martin rees-story 2
+martin-story 2
+marvel-story 1
+maryland-story 1
+masayoshi-story 1
+mash-story 1
+masquerade-story 1
+mass audience-story 2
+mass exoneration-story 2
+mass snooping-story 2
+mass-story 2
+massive-ask_hn 1
+massive-story 6
+master-ask_hn 1
+master-story 6
+mastercard-story 3
+mastodon-story 1
+match-story 4
+material-story 5
+materialism-ask_hn 1
+math exercises-show_hn 2
+math-ask_hn 1
+math-story 8
+mathematical-ask_hn 1
+mathematical-story 2
+mathematician-story 3
+mathematics-show_hn 1
+mathematics-story 7
+matic-show_hn 1
+matplotlib-story 1
+matrix-show_hn 1
+matrix-story 3
+matter-story 12
+mauritian-story 1
+maven-show_hn 1
+maven-story 1
+max-story 2
+maximum-story 1
+may-show_hn 1
+may-story 31
+maya structures-story 2
+maya-story 1
+maybe-story 4
+mayor-story 2
+maze-story 1
+mazemap-story 1
+mb-ask_hn 1
+mc-story 1
+mca-story 1
+mcafee-story 1
+mccartney-story 1
+mcconaghy-story 1
+mcgregor-story 1
+mcgurk-story 1
+mckernel-story 1
+mckinney-story 1
+mckinsey-story 1
+mclaren-story 1
+me-ask_hn 3
+me-story 11
+meal-story 1
+mean-story 10
+meaning-story 1
+meanpanda-show_hn 1
+measure-ask_hn 1
+measure-story 5
+measurement-story 2
+meat-story 2
+mechanic-story 4
+mechanical-story 2
+mechanism design-story 2
+mechanism-story 1
+medalist-story 1
+meddling-story 2
+media experiment-story 2
+media group-story 2
+median-story 2
+medical-story 3
+medicina antiqua-story 2
+medicinal-story 1
+medicine-story 3
+medieval britain-story 2
+medieval-story 1
+medium-ask_hn 1
+medium-show_hn 2
+medium-story 21
+meet-story 14
+meeting vannevar-story 2
+meeting-ask_hn 1
+meeting-story 6
+meetup-story 1
+mega-story 2
+megatrends-story 1
+meltdown-story 9
+meltdownprime-story 1
+mem-story 1
+member-story 3
+membership-story 1
+memcached-story 2
+meme-story 1
+memelords-story 1
+memo-story 1
+memory cache-story 2
+memory caches-story 2
+memory gain-story 2
+memory management-story 2
+memory-story 9
+memristor-story 1
+men-story 7
+mendeley dec-story 2
+mendeley-story 1
+menlo park-story 2
+mental-story 3
+mentality-story 1
+mention-story 2
+mentor-story 1
+merah putih-story 2
+mercedes-story 1
+mercenary-story 1
+merchant-story 1
+mercury-story 1
+merge-story 3
+merger-story 2
+merges-story 1
+merrill-story 1
+merton-story 1
+mertonian-story 1
+mes-story 1
+mesh-story 2
+mesi-story 1
+mess-story 5
+message-show_hn 1
+message-story 8
+messageheader-story 1
+messaging-story 2
+messenger-story 2
+messy-story 1
+meta machine-story 2
+meta-story 2
+metaclasses-story 1
+metadata functions-story 2
+metadata-story 1
+metal-show_hn 1
+metal-story 5
+metamask-story 1
+metaphor-story 2
+metathinking-story 1
+meteorite-story 1
+meter-story 1
+method bodies-story 2
+method-story 7
+methodical-story 1
+methodology-story 1
+methuselah molecule-story 2
+metoo-story 1
+metric-story 1
+metrics day-story 2
+metronome-story 1
+mewe-story 1
+mexican-story 1
+mexico-story 2
+mfa-story 1
+mfg-story 1
+miami-story 2
+michael burry-story 2
+michael j-story 1
+michael mandel-story 2
+michael phelps-story 2
+michelangelo-story 1
+michigan-story 1
+micro-ask_hn 1
+micro-story 2
+microchip-story 1
+microdosing-story 1
+microgravity-story 1
+microphilosophy-story 1
+microprocessor-story 2
+microservice madness-story 2
+microservice-story 4
+microservices-story 4
+microsoft-story 34
+microwave-story 3
+middle-story 5
+middleware-show_hn 1
+middleware-story 2
+midgies-story 1
+midi-story 1
+midterm-story 2
+midwest-story 1
+might-story 9
+migrate-story 5
+migration-story 3
+mile-show_hn 1
+mile-story 1
+milestone-story 2
+military-story 5
+milky-story 1
+mill-story 1
+millennial-show_hn 1
+millennial-story 1
+millennials-story 3
+million-story 3
+millionaire-story 2
+millisecond-story 1
+mimicry-story 1
+mind body-story 2
+mind game-show_hn 2
+mind-ask_hn 1
+mind-story 11
+mindcuber-story 1
+mindless-show_hn 1
+mindless-story 1
+mine data-story 2
+mine-story 4
+minecraft java-story 2
+minecraft story-story 2
+miner-story 1
+mineral-story 1
+minerva-story 1
+mines ethereum-story 2
+mini internet-story 2
+mini-story 4
+miniatur wunderland-story 2
+minimal-show_hn 1
+minimal-story 1
+minimalism-story 1
+minimalist dark-show_hn 2
+minimalist-story 2
+minimum-story 2
+mining-story 3
+minister-story 1
+ministry-ask_hn 1
+mintbox-story 1
+minute-story 10
+miracle-story 1
+mirror part-story 2
+mirror-show_hn 1
+mirror-story 3
+mirrorless-story 1
+miserable-story 1
+misery-story 1
+misfortune-story 1
+misguide-story 2
+misinfodemics-story 1
+misinformation-story 1
+mislead-story 1
+misled-story 1
+misp-story 1
+misra-story 1
+miss-story 8
+missile defense-story 2
+mission control-story 4
+mission scenarios-story 2
+mission-story 7
+mississippi-story 1
+mistake-story 6
+mistery-story 1
+mistry-show_hn 1
+misunderstand-story 1
+misuse-story 1
+mit-story 6
+mitigate-story 1
+miute-show_hn 1
+mixed-story 1
+ml-ask_hn 3
+ml-story 6
+mlp-story 1
+mmap-ask_hn 1
+mmc-story 1
+mmx-story 1
+mn-story 1
+mnemonic-story 1
+mo-story 1
+mob-story 1
+mobe-story 1
+mobile app-story 2
+mobile boards-story 2
+mobile phone-story 2
+mobile-ask_hn 1
+mobile-story 22
+mobility-story 4
+mock multiple-story 2
+mock-show_hn 1
+mockmr-story 1
+mockttp-show_hn 1
+mode netflix-story 2
+mode-show_hn 1
+mode-story 3
+model b-story 2
+model s-story 2
+model x-story 2
+model-ask_hn 1
+model-show_hn 1
+model-story 21
+moderate-story 1
+moderation matters-story 2
+moderation-story 1
+moderator-story 2
+modern-ask_hn 1
+modern-show_hn 2
+modern-story 11
+moderniser-story 1
+modernish-story 1
+modest-story 1
+modify-story 2
+modplug-story 1
+modular-show_hn 1
+modular-story 3
+module-story 2
+mogul barry-story 2
+moiré-story 1
+molecular-story 1
+moly-story 1
+mom-story 1
+moment luxon-story 2
+moment nursing-story 2
+moment-show_hn 1
+moment-story 5
+monday someone-story 2
+monday-story 2
+monetization-story 1
+money data-story 2
+money transmitter-story 2
+money-ask_hn 1
+money-show_hn 2
+money-story 11
+monit-story 1
+monitor-show_hn 1
+monitor-story 6
+monitoring-show_hn 1
+monitoring-story 5
+monkey lives-story 2
+monkey-story 1
+monoculture-story 1
+monolith-story 3
+monome norns-story 2
+monopolistic-story 1
+monopoly-story 2
+monorepos-story 1
+monte carlo-story 4
+monte python-story 2
+month-ask_hn 1
+month-show_hn 1
+month-story 15
+monthly-story 1
+monty python-story 2
+mooc-ask_hn 1
+mooching-story 1
+moocs-show_hn 1
+mood-story 3
+moon base-story 2
+moon-story 6
+mooning-story 1
+moore-story 1
+moq-story 1
+moral-story 1
+more-ask_hn 2
+more-story 61
+morning-story 1
+mortar-story 2
+mortem-story 1
+mortgage-story 2
+moscow midterms-story 2
+moscow-story 3
+mosque-story 1
+most-ask_hn 4
+most-story 33
+mostly-story 1
+motherboard-story 1
+motion-show_hn 1
+motion-story 2
+motivate-story 1
+motor module-story 2
+motor-story 4
+motorcyclist-story 1
+mountain-story 1
+mouse game-story 2
+mouse-story 2
+moustique-show_hn 1
+move-ask_hn 2
+move-story 9
+movement-story 2
+movie ads-story 2
+movie-story 5
+moviepass-story 3
+mozilla internet-story 2
+mozilla-story 1
+mp-story 1
+mr-story 2
+mri-story 1
+ms-story 1
+msc-story 1
+msnbc-story 1
+msurvey-story 1
+much-ask_hn 3
+much-story 21
+mudpie-story 1
+mueller-story 1
+muir-story 1
+multi actuator-story 2
+multi cloud-story 2
+multi core-story 2
+multi task-story 2
+multi-ask_hn 1
+multi-show_hn 1
+multi-story 6
+multiboundary-story 1
+multicellularity-story 1
+multiplayer-story 4
+multiple-ask_hn 1
+multiple-show_hn 1
+multiple-story 2
+multiplication-story 2
+multiply-show_hn 1
+multistate outbreak-story 2
+multitenant-story 1
+mumbai-story 1
+murder-story 1
+murdered-story 1
+murdoch-story 1
+mushroom-ask_hn 1
+music consumers-story 2
+music diary-story 2
+music-ask_hn 1
+music-show_hn 1
+music-story 5
+musical-story 4
+musician-story 1
+musickit-story 1
+musk jobs-ask_hn 2
+musk-story 2
+musketeers tool-story 2
+muslim-story 1
+must-story 7
+mutagen-story 1
+mutant-story 1
+mute-story 1
+mvc-story 1
+mvp-story 1
+my-ask_hn 10
+my-show_hn 5
+my-story 39
+myanmar aung-story 2
+myanmar-story 3
+myers-story 1
+myself-ask_hn 1
+myself-story 1
+myspace-story 1
+mysql-story 3
+mysqli_fetch_object-story 1
+mysterious-story 4
+mystery-story 7
+myth debugging-story 2
+myth-story 4
+mythic-story 1
+na-story 1
+nab-story 1
+nag-story 2
+nail-story 1
+naive-show_hn 1
+nakamoto-story 1
+name-ask_hn 1
+name-story 13
+namespaces-story 1
+nanny-story 1
+nanocore-story 1
+nasa-story 20
+nascent-story 1
+nashville-story 1
+nassar-story 1
+nat-story 1
+nation-story 6
+national-story 5
+nationwide-story 1
+native-ask_hn 1
+native-story 6
+natural-story 4
+naturalism-ask_hn 1
+nature-story 3
+nav-story 1
+naval-story 1
+navcoin-story 1
+navic-story 1
+navigation satellite-story 2
+navigation-story 3
+navy-story 1
+nazi-story 2
+nba-story 1
+nbc-story 1
+ncaa-story 1
+nchain-story 1
+nea-story 1
+neanderthal-story 3
+near-story 4
+nearby-show_hn 1
+nearly-story 3
+nebraskajs-story 1
+necessary-story 2
+need-ask_hn 4
+need-show_hn 2
+need-story 34
+needle-story 1
+negotiate-story 1
+negotiation-story 1
+neighbor-story 3
+neighborhood-story 1
+neither-story 1
+neo-story 2
+neon-story 2
+neonic-story 1
+nerd-story 1
+nest-story 2
+net-story 17
+netflix-story 7
+netherlands-story 1
+netlify-story 1
+netv2-story 1
+network counterparts-story 2
+network daemon-story 2
+network effects-story 2
+network exchange-story 2
+network math-story 2
+network memorization-story 2
+network models-story 2
+network performance-story 2
+network theory-story 2
+network-ask_hn 1
+network-show_hn 2
+network-story 40
+networking-story 2
+neural-story 17
+neurodivergent-story 1
+neuroevolution-show_hn 1
+neuroevolution-story 1
+neuron-story 2
+neuroscience-story 1
+neutrality repeal-story 2
+neutrality-story 5
+neutrino-story 2
+neutron-story 1
+nevada-story 1
+never-ask_hn 2
+never-story 12
+new-ask_hn 4
+new-show_hn 5
+new-story 185
+newly-story 2
+news blog-story 2
+news feeds-story 2
+news service-story 2
+news-ask_hn 1
+news-story 17
+newsletter-ask_hn 2
+newsletter-show_hn 1
+newsletter-story 2
+newspaper-story 1
+newsql-story 1
+newsweek-story 1
+next-ask_hn 1
+next-story 22
+nextjs-story 1
+nfs-story 1
+ng-story 1
+nginx-story 1
+ngo-story 1
+nhs-story 3
+nicaragua-story 1
+nice-story 1
+nicehash-story 1
+niche-story 1
+nick bostrom-story 2
+nicolette-story 1
+nielson-story 1
+nigeria-story 4
+nigerian-story 3
+nigh-story 1
+night-story 2
+nightmare-story 2
+nikon-story 2
+nil-story 2
+nim-story 1
+nimby-story 1
+ninja-story 1
+nintaco-story 1
+nintendo-story 2
+nio-story 1
+nirvana-story 1
+nist-story 4
+nitrogen-story 1
+nix-story 1
+nixos-story 1
+nixpkgs-story 1
+nlu-story 1
+nnef-story 1
+no-ask_hn 1
+no-show_hn 1
+no-story 40
+nobody trusts-story 2
+nobody-story 1
+nod-story 1
+node django-story 2
+node react-ask_hn 2
+node-show_hn 2
+node-story 18
+nodejs-story 1
+nodelets-story 1
+noise-story 2
+nokia-story 1
+nolan-story 1
+nominee-story 1
+non-ask_hn 3
+non-show_hn 1
+non-story 9
+nonalcoholic-story 1
+noncommutative-story 1
+nonsense-story 1
+nonstop-story 2
+nontech-ask_hn 1
+nonviolent-story 1
+nonviral-story 1
+nor-story 1
+norm-story 2
+normal-story 5
+normalize-story 1
+normalizr-story 1
+north-story 5
+northern-story 3
+norway-ask_hn 1
+norway-story 2
+nosql-story 2
+nostalgia-story 1
+not-ask_hn 6
+not-story 76
+note-show_hn 1
+note-story 7
+notebook-show_hn 1
+notecard-story 1
+notes manager-story 2
+noteworthy-story 1
+nothing-story 1
+notice-story 5
+notification-story 4
+notify-story 1
+notion-show_hn 1
+notpetya-story 2
+nova-story 2
+novel-story 3
+novelty search-show_hn 2
+novice-story 1
+now-ask_hn 1
+now-story 42
+npm-story 4
+nsa-story 3
+nshipster-story 1
+nsubstitute-story 1
+ntlm-story 1
+ntp-story 1
+nuclear-story 9
+nude-story 1
+nudge-story 1
+nuget-story 1
+nuitka-story 1
+null-story 1
+nuls-story 1
+number-show_hn 1
+number-story 12
+numerical-ask_hn 1
+numerical-story 1
+numerics-story 1
+numfocus-story 1
+numpywren-story 1
+nurture-story 1
+nuts-story 1
+nutty-story 1
+nvidia-story 5
+nxmh-story 1
+nyc-story 8
+o-show_hn 2
+o-story 11
+o157-story 1
+o_o-story 1
+oath-story 1
+oauth-story 1
+obamacare calorie-story 2
+obfuscate-story 1
+obfuscation-story 2
+obituary-story 1
+object-show_hn 1
+object-story 8
+objective-story 1
+oblivious-story 1
+obscure-story 2
+observables-story 1
+observatory-story 2
+observe-show_hn 1
+observe-story 1
+observer-story 1
+obstacle-story 1
+obtain-story 1
+ocaml-story 1
+occ-story 1
+occupational-story 1
+ocean cleanup-story 2
+ocean-story 7
+oceanic-story 1
+ocr-story 2
+octal-story 1
+octave-story 1
+october-story 1
+oculus-story 2
+od-story 1
+odd-ask_hn 1
+ode-story 1
+oecd-story 1
+of-ask_hn 21
+of-show_hn 18
+of-story 716
+off-ask_hn 1
+off-story 19
+offer-ask_hn 1
+offer-story 4
+offers defense-story 2
+offgrid-story 1
+offic-story 1
+office equation-story 2
+office message-story 2
+office patents-story 2
+office-story 8
+official-story 6
+offline-story 1
+offshore-ask_hn 1
+often-story 2
+ogrep-story 1
+ohio-story 1
+oil exporter-story 2
+oil-story 1
+ojo-story 1
+ok-story 2
+okay-story 2
+old-ask_hn 3
+old-show_hn 2
+old-story 22
+olga-story 1
+oligarchy-story 1
+olin-story 1
+oltp-story 1
+olympian-story 1
+olympic-story 1
+olympics-story 1
+omid-story 1
+on-ask_hn 20
+on-show_hn 14
+on-story 314
+onboarding-story 1
+once-story 4
+one-story 6
+onechronos-story 1
+ongoing-story 1
+onion-story 1
+online accounting-story 2
+online piracy-story 2
+online stack-story 2
+online-ask_hn 1
+online-show_hn 3
+online-story 35
+only-ask_hn 1
+only-story 20
+onstage-story 1
+ontario-story 1
+onto-story 1
+oobah-story 1
+oop-story 1
+opaque-story 1
+open-ask_hn 2
+open-show_hn 4
+open-story 61
+openbook-story 1
+openbsd-story 3
+openchemistry-story 1
+opencl-story 3
+opencv-ask_hn 1
+opencv-story 1
+openerlang-story 1
+openfaas-show_hn 1
+openfaas-story 2
+opengl-story 1
+opening-story 2
+openjdk-story 1
+openlaw-story 1
+openness-story 1
+opensource-story 3
+openssh-story 1
+openssl-story 1
+openstack-story 1
+openstruct-story 1
+opensuse-story 1
+openttd-story 1
+openvpn-show_hn 1
+openwrt-story 1
+operate-story 2
+operating system-story 4
+operating-story 2
+operation sharpshooter-story 2
+operation-story 3
+operationalizing-story 1
+opinion-story 2
+opioid-story 2
+opioids-story 1
+oppau-story 1
+opportunity-ask_hn 1
+opportunity-story 1
+oppose-story 1
+oprah-story 2
+opt-story 9
+optic-story 1
+optical-story 2
+optimality-story 1
+optimise-story 1
+optimistic-story 1
+optimization-story 6
+optimize-show_hn 1
+optimize-story 3
+optimizer-story 1
+option-ask_hn 1
+option-story 4
+optional-story 1
+opus magnum-story 2
+or-ask_hn 10
+or-show_hn 3
+or-story 30
+oracle tech-story 2
+oracle-story 4
+oram-story 1
+orange-story 1
+oratyria-show_hn 1
+orbit-show_hn 1
+orbit-story 4
+orbitdb-story 1
+orbiter-story 2
+orbitz-story 2
+order watermelon-story 2
+order-story 11
+oregon-story 1
+org-story 8
+organic-story 2
+organism-story 1
+organization-story 5
+organize-story 2
+organizer-story 2
+orient-story 1
+orientation-story 1
+origami-story 1
+origin-story 4
+original-story 4
+orthoprint-story 1
+os-ask_hn 1
+os-story 6
+oscar-story 1
+oshwah blocks-story 2
+osint-story 1
+osls-story 1
+ossificans-story 1
+otc-story 1
+other-ask_hn 1
+other-story 17
+others-ask_hn 1
+others-story 5
+oumuamua-story 3
+our-story 31
+ours-story 1
+ourselves-story 1
+out-ask_hn 2
+out-story 54
+outage-story 4
+outbreak-story 2
+outcome-story 1
+outdoors-ask_hn 1
+outer-story 1
+outfit-story 1
+output-story 1
+outrage-story 1
+outside-story 2
+outsourced-story 1
+ovale-show_hn 1
+oven-story 1
+over-show_hn 3
+over-story 45
+overblown-story 1
+overclocked-story 1
+overcome-story 1
+overdose shuts-story 2
+overdose-story 2
+overestimate-story 1
+overflow-story 2
+overhaul-story 1
+overhead-story 1
+overheat-story 1
+overly-story 1
+overstock-story 1
+overstory-story 1
+overtakes-story 1
+overwhelm-story 1
+ow-show_hn 1
+owe-story 1
+owls-story 1
+own-ask_hn 1
+own-story 24
+owner-story 4
+ownership system-story 2
+ownership-story 1
+oyster-show_hn 1
+p r-story 2
+p2p filesystem-story 2
+p2p-show_hn 1
+p2p-story 2
+p85-story 1
+paas-story 2
+pac-story 1
+pace calculator-story 2
+pace-story 2
+pacemaker-story 1
+pacific ocean-story 2
+pacific-story 3
+pack experience-story 2
+pack-story 1
+package-ask_hn 1
+package-show_hn 1
+package-story 11
+packagecloud-story 1
+packer-show_hn 1
+packet-story 1
+packing-story 1
+pacoin-ask_hn 1
+pad-story 1
+paddle-ask_hn 1
+paddy-story 1
+page profile-show_hn 2
+page-ask_hn 3
+page-show_hn 3
+page-story 14
+pain-story 7
+paine-story 1
+painless-story 1
+paint-story 3
+painter-story 1
+painting-story 1
+pair-show_hn 1
+pair-story 1
+pakistan-story 1
+palantir-story 1
+paleo diet-story 2
+palestian-story 1
+palindrome-story 1
+pandas-story 1
+pandora-show_hn 1
+pandora-story 1
+panel-story 1
+panic-story 1
+panoptispy-story 1
+panorama view-story 2
+paper airplane-story 2
+paper-ask_hn 3
+paper-story 6
+paquete-story 1
+parachute-story 1
+paradigm-story 1
+paradox-story 1
+parallel-story 4
+parallelisation-story 1
+parallelism-story 2
+paralysis-story 1
+paralyze-story 1
+parameter-story 2
+parasite-story 2
+parent alphabet-story 2
+parent-story 4
+parents kids-story 2
+paris agreement-story 2
+paris-story 2
+park-story 5
+parker-story 1
+parkinson-story 2
+parkland-story 1
+parliament-story 1
+parrish-story 1
+parrot-story 2
+parse-story 2
+parser-story 1
+parsing-story 1
+part-story 24
+particle-story 4
+particular-ask_hn 1
+particular-story 1
+partisan-story 1
+partner-story 2
+partners years-story 2
+partnership-story 2
+party-ask_hn 1
+party-story 4
+pas-story 1
+pass-story 3
+passenger-story 3
+passive-story 2
+passportjs-story 1
+password management-story 2
+password requirements-story 2
+password-story 11
+passé-story 1
+past-story 8
+paste-story 1
+patagonia-story 1
+patch-story 3
+patent concept-story 2
+patent litigation-story 2
+patent-story 7
+path-ask_hn 1
+path-story 4
+pathetic-story 1
+pathogen-story 1
+pathway-story 1
+patient-story 6
+patreon-story 1
+patriarchy-story 1
+patrick collison-story 2
+patrick-story 1
+patrilineal-story 1
+pattern-ask_hn 1
+pattern-show_hn 1
+pattern-story 5
+paul bocuse-story 2
+paul-story 1
+paulsen-story 1
+pave-story 1
+pawn-story 1
+pay-ask_hn 1
+pay-story 22
+payment ecosystem-story 2
+payment processors-show_hn 2
+payment-ask_hn 2
+payment-show_hn 1
+payment-story 8
+paypal-story 4
+payroll services-story 2
+pc-story 7
+pdf-show_hn 1
+pdf-story 66
+pdfs-show_hn 1
+pdfs-story 1
+peak-story 3
+pearson-story 1
+pedal-story 1
+pedantic-story 1
+pedestrian-story 2
+peek-story 1
+peer-ask_hn 1
+peer-story 10
+peg system-story 2
+penalty-story 1
+pending-ask_hn 1
+penetration testers-story 2
+penguin-story 2
+peninsula-story 1
+pension funds-story 2
+pentagon-story 2
+people-ask_hn 4
+people-show_hn 1
+people-story 39
+pepe scenes-story 2
+pepper-story 1
+peptide-story 1
+per-story 8
+perceive-story 1
+percent-story 4
+perception-story 1
+perf-story 1
+perfect-story 4
+perfectly-story 3
+perform-story 1
+performance auto-story 2
+performance breakthrough-story 2
+performance hit-story 2
+performance improvements-story 2
+performance mistakes-story 2
+performance monitoring-show_hn 2
+performance-ask_hn 1
+performance-story 12
+perhaps-story 1
+peril-story 1
+period-story 2
+perl-story 4
+perl6-story 1
+permafrost-story 2
+permission confusion-story 2
+permission-story 2
+permutator-story 1
+persistent-story 1
+person health-story 2
+person-story 6
+personal-ask_hn 2
+personal-story 10
+personality-story 3
+personalize-show_hn 1
+personalize-story 3
+personnel-story 1
+perspective-story 7
+pervasive-story 1
+pessimism-story 1
+pesticide-story 1
+pet-ask_hn 1
+pet-story 1
+peter strzok-story 2
+peter thiel-story 4
+petition-story 1
+petrified-story 1
+petty-story 1
+pewdiepie-story 1
+pfizer-story 1
+pg_badplan-story 1
+pgbouncer-story 1
+phantom islands-story 2
+pharma-story 1
+phase commit-story 2
+phase-story 4
+phd-ask_hn 2
+phenomenon-story 1
+phi-story 1
+philadelphia-story 2
+philip k-story 2
+philip-story 1
+philosopher-story 1
+philosophy-story 4
+phishing-story 1
+phoenix screencasts-story 2
+phoenix-show_hn 1
+phoenix-story 2
+phone addiction-story 2
+phone-story 14
+photo-story 10
+photocopier-story 1
+photogrammetry-story 1
+photograph-story 1
+photographer-story 2
+photography-story 1
+photon-story 1
+photovoltaic-story 1
+php-show_hn 2
+php-story 11
+phpmyadmin-story 1
+physic-ask_hn 1
+physic-story 11
+physical-story 2
+physicalism-ask_hn 1
+physician-story 1
+physicist-story 3
+physics discoveries-story 2
+physx-story 1
+pi-show_hn 1
+pi-story 1
+piaggio-story 1
+piano design-story 2
+pick-story 4
+picker-story 1
+pico-story 1
+picture-story 2
+piece-story 4
+pig-story 1
+pii-story 2
+pill-story 1
+pillar-story 1
+pilot-story 7
+pin-story 1
+pinball-story 1
+pinboard-story 1
+pine64-story 1
+pinker-story 1
+pinterest-story 1
+pioneer-story 1
+pipe-story 1
+pipeline binder-story 2
+pipeline operator-story 2
+pipeline-story 1
+pipenv-story 2
+pipistrel-story 1
+piracy trial-story 2
+pirate-story 1
+pit-story 1
+pitch-story 1
+pittsburgh-story 1
+pivot-show_hn 1
+pivotal-story 1
+pixel-story 1
+pixelated-story 2
+pizza hut-story 2
+pizza-story 1
+place-show_hn 2
+place-story 3
+placebo-story 1
+placeholder-story 1
+plague-story 1
+plaidml-story 1
+plain-story 1
+plainbudget-story 1
+plaintext-story 1
+plan-ask_hn 1
+plan-show_hn 1
+plan-story 27
+planebae-story 1
+planet x-story 2
+planet-show_hn 1
+planet-story 3
+planner-story 1
+planning-ask_hn 1
+plant-ask_hn 2
+plant-story 6
+planter-story 1
+plastic pollution-story 2
+plastic recycling-story 2
+plastic-story 7
+platform-ask_hn 1
+platform-show_hn 3
+platform-story 20
+platformer-story 1
+platinum-story 1
+play emacs-story 2
+play-show_hn 1
+play-story 5
+playboy drops-story 2
+playcryptogame-show_hn 1
+player entity-story 2
+player-show_hn 1
+player-story 5
+playerctl-show_hn 1
+playing-story 2
+playstation-story 1
+plead-story 1
+pleasant-story 1
+please-ask_hn 2
+please-story 3
+pledge-story 1
+pleistocene-story 1
+plenty-story 2
+plot-story 3
+plug-story 2
+pluggable-show_hn 1
+plugin-show_hn 3
+plugin-story 1
+plugins-story 1
+plunge-story 1
+plurality-story 1
+plus-story 3
+pluto-story 1
+ply-story 1
+poach-story 1
+poaching-story 1
+poc-story 2
+pocket-story 2
+pocketbeagle-story 1
+pocophone-story 1
+podcast-show_hn 1
+podcast-story 4
+podfio-show_hn 1
+poet-story 1
+poetry dependency-story 2
+poetry-story 1
+point confusion-story 2
+point drop-story 2
+point trap-story 2
+point-story 11
+pointer provenance-story 2
+pointer-show_hn 1
+pointer-story 1
+pointless-story 1
+poise-story 1
+poison-story 3
+poisoner-story 1
+polarization-story 1
+pole-story 2
+police-story 13
+policies towards-story 2
+policy-story 3
+polis-story 1
+political-story 8
+politics-story 4
+poll-story 2
+polltime polls-show_hn 2
+pollution-story 1
+polyester-story 1
+polygenic-story 1
+polyglot challenge-story 2
+polyglot-story 1
+pom-show_hn 1
+pompeii-story 1
+pong-story 1
+pony-story 1
+ponzicoin shuts-story 2
+pool-story 1
+poop-story 3
+poor-story 7
+poorhouse-story 1
+popcorn-story 1
+popular-story 5
+population-story 5
+porch-story 1
+porn-story 1
+port-story 7
+portability-story 2
+portable-story 3
+portal-story 1
+portfolio-show_hn 1
+portfolio-story 2
+portrait mode-story 2
+pose-story 2
+position-ask_hn 1
+position-story 4
+posix-story 1
+posse-story 1
+possible-story 8
+possibly-story 1
+post janus-story 2
+post lehman-story 2
+post millennials-story 2
+post mortem-story 2
+post-ask_hn 1
+post-show_hn 1
+post-story 8
+postal-story 2
+postcard-story 1
+postcss-story 1
+postgres-story 3
+postgresql-show_hn 1
+postgresql-story 4
+postman-ask_hn 1
+postmortem-story 1
+posture-story 1
+pot-story 2
+potential-story 2
+potentiometer handbook-story 2
+pouchdb-story 1
+poverty policies-story 2
+poverty-story 2
+power betfair-story 2
+power functions-story 2
+power plants-story 2
+power-show_hn 2
+power-story 24
+powered-show_hn 1
+powerfour-show_hn 1
+powerful-show_hn 1
+powerful-story 2
+powerruby-story 1
+ppc-show_hn 1
+ppc-story 1
+pr-story 1
+practica-story 1
+practical-story 5
+practice isn-story 2
+practice statement-story 2
+practice-ask_hn 3
+practice-story 8
+practitioner-ask_hn 1
+pray-story 1
+pre-story 3
+preact-story 1
+precedent-story 1
+precious-story 1
+precise-story 1
+precision-story 3
+predation-story 1
+predator-story 1
+predatory dartmouth-story 2
+predefined-story 1
+predicated-story 1
+predict-story 8
+prediction game-story 2
+prediction model-story 2
+prediction-story 2
+predictions union-story 2
+predictive-story 1
+preductable-story 1
+preempt-story 1
+preexist-story 1
+prefab-story 1
+prefer-ask_hn 1
+prefer-story 1
+preference-show_hn 1
+preference-story 2
+preferences password-story 2
+prefix-story 1
+preloading-story 2
+prelude-story 1
+premier league-story 2
+premier-story 1
+premise-ask_hn 1
+premium-story 1
+prep-story 1
+preparation part-story 2
+prepare-ask_hn 1
+prepare-story 3
+preprints-ask_hn 1
+preprocessor-story 2
+preschool-story 2
+prescription-story 2
+presence-story 3
+present-story 3
+presentation videos-story 2
+presentation-story 1
+president discusses-story 2
+president trump-story 2
+president-story 3
+press release-story 2
+pressure-story 1
+pretend-story 1
+pretraining-story 1
+pretty-story 5
+prevent-show_hn 1
+prevent-story 5
+prevention-story 1
+preview-story 3
+preview3-story 1
+previous-ask_hn 1
+previous-story 2
+prewarm-story 1
+prey-story 2
+prf-show_hn 1
+price hikes-story 2
+price list-story 2
+price trick-story 2
+price-show_hn 1
+price-story 10
+pricing-story 1
+pride-story 1
+primarily-ask_hn 1
+primate-story 1
+prime-show_hn 1
+prime-story 1
+primer-story 4
+primitive-story 1
+prince weigh-story 2
+princess bride-story 2
+principle-story 8
+print-story 1
+printed-story 3
+printer-story 2
+printing-story 2
+prior-story 1
+prioritization-story 1
+prioritize-story 1
+prison-story 3
+prisoner-story 1
+pristine sample-story 2
+privacy framework-story 2
+privacy nightmare-story 2
+privacy policies-story 2
+privacy regulation-story 2
+privacy-show_hn 1
+privacy-story 17
+private-show_hn 2
+private-story 18
+privilege escalation-story 2
+privilege-story 1
+prizm-story 1
+pro-story 6
+probability-story 1
+probably-story 4
+probe-story 3
+probed-story 1
+problem-ask_hn 3
+problem-story 22
+procedural-story 1
+procedure calls-story 2
+procedure-story 1
+process algebras-story 2
+process smells-story 2
+process-ask_hn 1
+process-story 3
+processing-story 3
+processor-story 3
+prodeum-story 1
+prodibi-story 1
+prodigy-story 1
+produce-story 3
+producer-story 1
+product design-story 2
+product development-story 2
+product ethics-story 2
+product hunt-story 4
+product launch-story 2
+product management-story 2
+product use-story 2
+product-ask_hn 3
+product-show_hn 1
+product-story 15
+production-ask_hn 2
+production-story 10
+productive-story 1
+productivity-show_hn 1
+productivity-story 4
+prof brailsford-story 2
+professional-story 1
+professionally-story 1
+professor-story 5
+profile-story 8
+profiling-story 1
+profit motive-story 2
+profit-story 4
+profitable-story 1
+program engages-story 2
+program-ask_hn 2
+program-show_hn 1
+program-story 26
+programing-ask_hn 1
+programmer-story 5
+programming assignments-story 2
+programming bootcamp-show_hn 2
+programming language-story 2
+programming languages-story 4
+programming talks-story 2
+programming-ask_hn 2
+programming-story 15
+progress report-story 2
+progress-ask_hn 1
+progress-story 1
+progression-story 1
+progressiva-story 1
+progressive-story 2
+prohibit-story 1
+project athen-story 2
+project bunny-story 2
+project maestro-story 2
+project management-story 2
+project-ask_hn 6
+project-show_hn 3
+project-story 41
+projection-story 2
+projector-story 1
+projects dependencies-story 2
+proliferates-story 1
+prolific git-story 2
+prometheus adapter-story 2
+prometheus-story 2
+promise-story 9
+promising-story 1
+promote-story 2
+prompt-story 2
+pronounce-story 1
+pronunciation-story 1
+proof-story 3
+propeddle software-story 2
+properly-story 2
+property-story 5
+prophecy-story 1
+proposal-story 3
+propose-story 6
+proposed-story 1
+proposition-story 1
+pros-story 1
+prosecution-story 1
+prosecutor-story 1
+proskauer-story 1
+prospect-story 2
+protect-ask_hn 1
+protect-story 4
+protection bill-story 2
+protection-story 5
+protectionism-story 1
+protects-story 1
+protein-story 2
+protest community-story 2
+protest-story 4
+protester-story 1
+protobuf3-story 1
+protocol obfuscation-story 2
+protocol-story 8
+protocols-story 1
+proton native-story 2
+proton-ask_hn 1
+proton-story 1
+protonmail-story 1
+prototype-story 6
+prototyping-show_hn 1
+prototyping-story 3
+protowire-story 1
+prove-story 3
+proven-story 1
+provide-story 8
+provider-ask_hn 2
+provider-story 3
+provision-ask_hn 1
+proxy-show_hn 3
+proxy-story 2
+proxying-story 1
+prs-story 1
+psalm-story 1
+pseudoscientific fantasyland-story 2
+psvr-story 1
+psychlab-story 2
+psycho-story 1
+psychoactivity-story 1
+psychologist-story 1
+psychology studies-story 2
+psychology-story 4
+psychosis-story 1
+pt-story 2
+pterodo-story 1
+public-story 14
+publicly-story 1
+publish-ask_hn 1
+publish-story 6
+publisher-story 3
+publishing-story 1
+pubnub-story 1
+puerto-story 1
+pug-story 1
+pull request-story 2
+pull-show_hn 1
+pull-story 7
+pulse-story 1
+pulumi-story 1
+pump-story 3
+punctuation-story 1
+punish-story 1
+puppet masters-story 2
+purchase-story 2
+pure-show_hn 1
+pure-story 3
+purely-show_hn 1
+purism wiki-story 2
+purpose games-story 2
+purpose-story 1
+pursue-ask_hn 1
+pursue-story 2
+pursuit-story 3
+push-story 7
+put-story 17
+putin poetry-story 2
+putin-story 1
+puzzle solver-story 2
+puzzle-story 4
+pvgis-story 1
+pwa-story 3
+pwned-story 2
+pycoder-story 1
+pyow-show_hn 1
+pyqt5-story 1
+pyramid-story 2
+python code-story 2
+python guido-story 2
+python haskell-story 2
+python-ask_hn 3
+python-show_hn 6
+python-story 26
+pythonista-story 1
+pytorch-show_hn 1
+pytorch-story 5
+pyzx python-story 2
+q1-story 1
+q2-story 1
+q3-story 1
+q4 roundup-story 2
+q4 update-story 2
+q4-story 1
+qemu-show_hn 2
+qi-story 1
+qnnpack-story 1
+qt-story 1
+quadruple-story 1
+quake china-story 2
+quake-story 1
+qualcomm-story 4
+qualitative-story 1
+quality assurance-story 2
+quality-ask_hn 1
+quality-show_hn 1
+quality-story 4
+qualtrics-story 1
+quant-story 1
+quantify-show_hn 1
+quantify-story 4
+quants-story 1
+quantstamp-story 1
+quantum computing-story 2
+quantum paradox-story 2
+quantum programmer-story 2
+quantum radar-story 2
+quantum research-story 2
+quantum systems-story 2
+quantum-story 20
+quarantine-story 1
+quark-story 1
+quarry-story 1
+quarter-story 1
+qubit-story 1
+queen-story 1
+query-story 4
+quest-story 5
+question-ask_hn 2
+question-story 9
+questionable-ask_hn 1
+questions managers-story 2
+queue-story 3
+quic-story 2
+quick kill-story 2
+quick-story 3
+quietly-story 4
+quit-story 4
+quiz-story 1
+quod-show_hn 1
+quora-story 1
+quote-story 2
+quotient-story 1
+r d-story 2
+r lessons-story 2
+r-story 4
+r2d2 technique-story 2
+race-show_hn 2
+race-story 6
+racing-show_hn 1
+racist patients-story 2
+racist-story 2
+rack-ask_hn 1
+racket school-story 2
+racket-story 2
+radar-story 2
+radare2-story 1
+radeon vega-story 2
+radiation-story 2
+radical-story 4
+radicalize-story 1
+radically-story 1
+radio network-story 2
+radio stations-story 2
+radio telescope-story 2
+radio tower-story 2
+radio-story 1
+raft consensus-story 2
+raft-story 1
+ragel state-story 2
+raid-story 2
+rail-show_hn 1
+rail-story 8
+railgun-story 1
+railroad-story 2
+rails applications-story 2
+rain man-story 2
+rainbow warrior-story 2
+rainforest-story 1
+raise-story 15
+ram-story 3
+ramen-story 1
+ramp-story 1
+random-story 3
+randomize-story 1
+randomly-story 1
+range anxiety-story 2
+range-ask_hn 1
+range-story 2
+rank-story 3
+ranking-story 1
+ransacking-story 1
+ransomware infection-story 2
+rant-story 2
+rap music-story 2
+rap-story 2
+rapid-show_hn 1
+rapid-story 1
+rapidly-ask_hn 1
+rapperswil-story 1
+rapporteur-story 1
+rare-story 3
+raspberry pi-story 10
+raspberry pis-story 2
+raspberry-show_hn 1
+raspberrypi-story 1
+rat-story 1
+rate limiting-story 2
+rate-ask_hn 1
+rate-show_hn 1
+rate-story 7
+rather-story 2
+ravikant-story 1
+raw-story 2
+ray tracer-story 2
+ray-story 3
+raytheon-story 1
+raytracing engine-story 2
+rb-story 1
+rc shell-story 2
+rc-story 4
+rce-story 1
+rcs-story 1
+rdbms-story 1
+rds-story 2
+re hate-story 2
+re-story 28
+reach-story 5
+react component-story 2
+react developers-story 2
+react native-story 2
+react-show_hn 3
+react-story 17
+reaction-ask_hn 1
+reactive-story 1
+reactjs-story 2
+reactor exceeds-story 2
+reactor-story 3
+reactxp-story 1
+read-ask_hn 1
+read-story 17
+reader view-show_hn 2
+reader-ask_hn 1
+reader-story 2
+reading well-story 2
+reading-story 2
+readme-story 1
+ready-story 10
+real-show_hn 4
+real-story 38
+realignment-story 1
+realistic-story 2
+reality introducing-story 2
+reality shopping-story 2
+reality-story 10
+realization-story 1
+realize-story 1
+reallv-story 1
+really-ask_hn 2
+really-story 24
+realm-story 1
+realtime data-show_hn 2
+realtime-story 1
+realtor-show_hn 1
+reap-story 2
+reason-ask_hn 3
+reason-story 6
+reasonably-story 1
+reasonml-show_hn 2
+reasonml-story 2
+reasonreact-story 1
+reassembly-story 1
+rebase-story 2
+rebel-story 1
+rebind toolkit-show_hn 2
+rebirth-story 1
+rebranded-story 1
+rebrands repositions-story 2
+rebuild-story 2
+rebuttal-story 1
+recall-story 2
+recap-story 2
+recaptacha-story 1
+recaptcha-story 2
+receive-story 3
+recent-story 3
+recession-story 1
+reckon-story 1
+reclare-story 1
+recode media-story 2
+recode-story 1
+recognition problems-story 2
+recognition tech-story 2
+recognition technology-story 2
+recognition-story 4
+recognizable-story 1
+recognize-story 2
+recommend-ask_hn 1
+recommend-show_hn 1
+recommend-story 4
+reconcile-story 3
+reconfigurable-story 1
+reconnaissance threat-story 2
+reconstruct-story 1
+reconstruction-story 1
+record-story 6
+recovers-story 1
+recovery words-story 2
+recruit-ask_hn 1
+recruit-story 2
+recruiter-ask_hn 1
+recruiting-story 1
+recurrent-story 2
+recursion-story 1
+recycle-story 1
+recycler-story 1
+red-story 10
+reddit-story 8
+redditors-story 1
+redefine-story 2
+redemption-story 2
+redesign-story 2
+redhat-story 1
+redirection-story 1
+redirects-story 2
+redis module-story 2
+redis-story 2
+redisearch-story 1
+redisgraph-story 1
+redistribute spotify-story 2
+redox-story 1
+reduce-story 11
+redundant-story 2
+redux-story 2
+redwood-story 1
+reef-story 1
+reel-story 1
+refactoring-story 1
+reference elevation-story 2
+reference sheet-story 2
+reference-story 2
+referer-ask_hn 1
+reflection-story 1
+reflog-story 1
+refresh-story 1
+refrigerator-show_hn 1
+refrigerator-story 1
+refund-story 1
+refuse-story 2
+regard-story 2
+regardless-ask_hn 1
+regex-story 2
+regime-story 2
+region-story 1
+register-story 2
+registry-story 1
+regression-story 4
+regret-story 2
+regularly-ask_hn 1
+regularly-story 1
+regulate-story 1
+regulated-story 1
+regulating-story 1
+regulation-story 8
+regulator-story 5
+regulatory-story 2
+rehnquist-story 1
+reid-story 1
+reilly-story 1
+rein-story 1
+reinforce-story 1
+reinforcement learning-story 4
+reinforcement-story 3
+reinstate-story 1
+reinvent-story 3
+reject-ask_hn 1
+reject-story 1
+relate-ask_hn 1
+relate-story 2
+related-show_hn 1
+relationship-story 2
+relatively-story 1
+relax-show_hn 1
+relay-story 1
+release-ask_hn 1
+release-show_hn 1
+release-story 42
+relentless pursuit-story 2
+relevant-story 1
+reliability-story 1
+reliable-ask_hn 1
+reliable-story 2
+reliablity-story 1
+reliance jio-story 2
+relica cross-show_hn 2
+relies-story 1
+religious-story 1
+rely-ask_hn 2
+rema-story 1
+remains-story 1
+remake-story 1
+remark-story 1
+remarkable-story 1
+remember-ask_hn 1
+remember-story 5
+reminder-story 1
+remix-story 1
+remote control-story 2
+remote-ask_hn 3
+remote-show_hn 3
+remote-story 6
+remoteengineers-story 1
+remotely-story 2
+remotement-show_hn 1
+remotestorage-story 1
+remove-ask_hn 1
+remove-story 11
+rename-story 1
+renault-story 1
+rend-story 1
+render-ask_hn 1
+render-show_hn 1
+render-story 4
+renewable-story 1
+renowned-story 1
+rent-story 2
+rental cars-story 2
+rené girard-story 2
+renée hendricksen-story 2
+reorganisation-story 1
+reorganize-story 1
+repair ecosystem-story 2
+repair-story 2
+repeal-story 1
+repeatable-story 2
+repertoire-story 1
+repl-story 2
+replace-story 9
+replacement-show_hn 1
+replacement-story 3
+replay-story 1
+replicate-story 1
+replication crisis-story 2
+replication intervals-story 2
+replication-story 1
+replugger-story 1
+reply-ask_hn 2
+repo-story 2
+report explores-story 2
+report shows-story 2
+report tether-story 2
+report-show_hn 1
+report-story 23
+reportedly-story 7
+reporting-story 3
+repos-story 2
+repository-story 2
+represent-story 2
+representation-story 1
+representative-story 1
+represently-show_hn 1
+reproductive-story 1
+reprogramming-story 1
+reputation-story 1
+request codacy-story 2
+request-ask_hn 1
+request-show_hn 2
+request-story 8
+requestanimationframe-story 1
+require-story 1
+requirement-show_hn 1
+requirement-story 1
+requisite-story 1
+resale-show_hn 1
+rescind-ask_hn 1
+rescue-story 5
+rescued-story 1
+rescuer-story 1
+research foundation-story 2
+research parkinson-story 2
+research topics-story 2
+research-ask_hn 1
+research-story 11
+researcher-story 7
+reservation holders-story 2
+reserve bank-story 2
+reshape-story 2
+residential-story 1
+resilience-story 1
+resiliency-story 1
+resistance-story 1
+resistant-story 2
+resolution-story 2
+resolve-ask_hn 1
+resolve-story 3
+resonator-story 1
+resource-ask_hn 5
+resource-show_hn 3
+resource-story 3
+respect-story 2
+respiratory-story 1
+respond-story 1
+response-show_hn 1
+response-story 5
+responsibility segregation-story 2
+responsibility-story 2
+responsive-story 1
+rest-story 3
+restful-story 1
+restoration-story 1
+restore-story 1
+restrict-story 1
+restricted-story 1
+restriction-story 1
+restrictive-story 1
+result-story 5
+resurrection-story 1
+retail-story 3
+retailer-story 2
+retailflux-story 1
+rethink-story 4
+retirement-story 1
+retrieve-story 1
+retro computing-story 2
+retro hardware-story 2
+retro-story 1
+retrofit-story 1
+retry-ask_hn 1
+return-story 13
+retweets-story 1
+reunite-ask_hn 1
+reusable-story 2
+revamp-story 1
+reveal-story 14
+reveals secrets-story 2
+reveals-story 1
+revel-story 1
+revenue-ask_hn 1
+revenue-story 2
+revers-story 1
+reverse engineering-story 2
+reverse proxy-show_hn 2
+reverse-story 2
+reverso context-story 2
+reverso-story 1
+review purism-story 2
+review richard-story 2
+review-ask_hn 1
+review-show_hn 1
+review-story 25
+revision-story 1
+revisit-story 2
+revitalization-story 1
+revitalize-story 1
+revive-story 2
+revoke-story 1
+revolut-story 1
+revolution-story 6
+revolutionise-story 1
+revolutionize-story 1
+reward business-story 2
+rewrite-story 1
+rewritten-story 1
+rex sorgatz-story 2
+rfc-story 1
+rfid-story 1
+rfids-story 2
+rhel-story 1
+rhythm-story 3
+ribbon-story 1
+rich-story 11
+richard feynman-story 2
+richard-story 1
+richest-story 2
+rick-story 1
+rid-story 3
+riddle-story 3
+ride-story 4
+rider-story 2
+rift-story 2
+rig-story 1
+right-story 19
+ring-story 1
+ringer-story 1
+rings appendices-story 2
+ripen-story 1
+ripple-story 1
+risc-story 2
+riscos-story 1
+rise fall-story 2
+rise textile-story 2
+rise-ask_hn 1
+rise-story 12
+risk takers-story 2
+risk-story 12
+risks threats-story 2
+rite-story 1
+rival-story 4
+river-story 1
+rl-ask_hn 1
+rl-story 1
+rl3-show_hn 2
+rlay-story 1
+rnn-story 1
+ro-story 1
+road-story 7
+roadkill-story 1
+roadmap codeburst-story 2
+roadmap-story 4
+roadside-story 1
+roam-story 1
+rob joyce-story 2
+robert-story 1
+robinhood-story 3
+robo-story 1
+robot move-story 2
+robot-show_hn 1
+robot-story 24
+robotgo-story 1
+robotic-ask_hn 1
+robotic-story 3
+robotics-ask_hn 1
+robotics-show_hn 2
+robotics-story 1
+robust-ask_hn 1
+robust-story 1
+rock-story 1
+rocket engine-story 2
+rocket launch-story 4
+rocket locomotive-story 2
+rocket-show_hn 1
+rocket-story 10
+rockstar-story 1
+rodin-story 1
+roger-story 1
+rogue scientist-story 2
+rogue-story 1
+rohingya-story 2
+role-story 6
+roll-show_hn 1
+roll-story 4
+rollback-story 1
+rom-story 1
+romaine-story 1
+romania-story 1
+romanian-story 1
+romanov-story 1
+rome-story 1
+ronan farrow-story 2
+room-story 3
+root bridges-story 2
+root-ask_hn 1
+root-story 1
+ros-story 1
+rose-story 1
+rossum-story 1
+roughjs-show_hn 1
+round-story 2
+rounding-story 1
+roundup jan-story 2
+roundup mar-story 2
+roundup-story 1
+rout-story 2
+route-story 1
+router-story 2
+routing-story 1
+rover-story 2
+row-story 2
+rowhammer-story 2
+royalty becom-story 2
+royce-story 1
+royole-story 1
+rpc-show_hn 1
+rpc-story 2
+rpg-show_hn 1
+rr-story 2
+rsa-show_hn 1
+rscomponents-story 1
+rsync-story 1
+rtx-story 1
+ru-story 1
+rubber stamp-story 2
+rubber-story 1
+ruby sinatra-story 2
+ruby-show_hn 1
+ruby-story 14
+ruin-story 1
+rule compliance-story 2
+rule-story 13
+ruler-show_hn 1
+rules coffee-story 2
+ruling-story 2
+rumor-story 1
+run-ask_hn 3
+run-show_hn 1
+run-story 29
+runner-story 1
+running-story 1
+runtime-story 1
+runway-story 1
+rupert-story 1
+rupture-story 1
+rural-story 4
+rush-story 3
+russia blocks-story 2
+russia-story 17
+russian-story 9
+rust react-story 2
+rust-story 17
+ryan-story 2
+ryugu mercure-story 2
+ryzen-story 4
+s agencies-story 2
+s defense-story 2
+s driver-story 2
+s lawmaker-story 2
+s recession-story 2
+s startups-story 2
+s10-story 1
+s12-story 1
+s17-story 1
+s18-story 1
+s2 cells-story 2
+s3-show_hn 2
+s3-story 2
+s6-story 1
+s7 replacement-story 2
+s9-story 1
+saas-ask_hn 2
+saas-show_hn 1
+saas-story 9
+sachin-story 1
+sachs-story 1
+sad-story 1
+safaricom-story 1
+safe-story 10
+safely-story 1
+safety board-story 2
+safety-story 4
+saga-story 1
+sail-story 4
+saipan-story 1
+salary-ask_hn 2
+salary-story 2
+sale-story 10
+salesforce billionaire-story 2
+salesforce-show_hn 1
+salespeople-story 1
+salmon-story 1
+same-story 5
+sameer ajmani-story 2
+sammartino-story 1
+sample-story 1
+sampling-story 1
+samsung galaxy-story 2
+samsung-story 1
+san-story 8
+sanctuary-story 1
+sand castle-story 2
+sand game-story 2
+sand-story 2
+sandberg-story 1
+sandboxed-story 1
+sander-story 1
+sandia labs-story 2
+sanitation-story 1
+sanitizer-story 2
+sanitizers-story 1
+sans schema-story 2
+sap-story 1
+sarah mei-story 2
+sardex-story 1
+sardinian-story 1
+sat-story 1
+satellite broadband-story 2
+satellite imagery-story 2
+satellite launcher-story 2
+satellite meta-story 2
+satellite-story 5
+satoshi-story 1
+saturday-story 1
+saturn-story 1
+saucer man-story 2
+saudi arabia-story 4
+saudi backlash-story 2
+saudi-story 2
+save-story 20
+saved-story 1
+saving-story 1
+savior-story 1
+saviour lightning-story 2
+savvy-story 1
+saw-story 2
+say-story 53
+scala-show_hn 1
+scala-story 2
+scalability-story 3
+scalable-show_hn 1
+scalable-story 5
+scale brain-story 2
+scale matrix-story 2
+scale simulation-story 2
+scale-story 11
+scaling proposal-story 2
+scaling-ask_hn 1
+scaling-story 2
+scality-story 1
+scam facebook-story 2
+scam-story 4
+scammed-story 1
+scammer-story 2
+scan-show_hn 1
+scan-story 4
+scandal-story 4
+scanner-story 1
+scar-story 2
+scarcity-story 1
+scattershot-story 1
+sccs-story 1
+scenario-story 2
+scenarios backwards-story 2
+scene-story 3
+schedule-show_hn 1
+schedule-story 5
+schema-story 1
+scheme-story 1
+schizophrenia-story 1
+scholar-story 1
+scholarly-story 1
+scholarship-story 1
+school management-story 2
+school watchmakers-story 2
+school-ask_hn 2
+school-story 11
+schoolers-story 2
+schoolmate-story 1
+schools share-story 2
+sci-story 1
+science papers-story 2
+science-ask_hn 3
+science-story 23
+scientific-ask_hn 1
+scientific-story 3
+scientist-story 17
+scientologists-story 1
+scooter startup-story 2
+scooter startups-story 2
+scooter-story 2
+scope-show_hn 1
+scoped-story 1
+scoping-story 1
+score-story 1
+scott galloway-story 2
+scottish-story 1
+scotus-story 1
+scout-show_hn 1
+scramble-story 2
+scrap paper-show_hn 2
+scrap-ask_hn 1
+scrap-story 2
+scrapyard-story 1
+scratch-story 2
+screen-show_hn 1
+screen-story 7
+screenhero-show_hn 1
+screenly-story 1
+screensaver-show_hn 1
+screenshield-story 1
+screenshot-show_hn 1
+screenshot-story 2
+screenshots-story 1
+screenwriter-story 2
+screeny-show_hn 1
+screw-story 1
+scrip-story 1
+script gotchas-story 2
+script-story 6
+scriptable-show_hn 1
+scrub-story 1
+scrum-story 1
+scrumpy-show_hn 1
+scrutinize-story 1
+sculpture-story 1
+scutoids-story 1
+sdes-ask_hn 1
+sdk-story 3
+sdr-story 1
+sdv-story 1
+se-story 1
+sea-story 1
+seagate-story 1
+seaman-story 1
+seamlessly-show_hn 1
+sear-ask_hn 1
+search engine-story 4
+search engines-story 2
+search guard-story 2
+search shop-story 2
+search tool-story 2
+search-ask_hn 3
+search-show_hn 1
+search-story 13
+seasonal-story 1
+seattle-ask_hn 1
+seattle-story 8
+sec-story 2
+second-ask_hn 1
+second-story 7
+secret-ask_hn 1
+secret-story 16
+secretary-story 1
+secretive-story 1
+secretly-story 5
+section-ask_hn 1
+sector-ask_hn 1
+sector-story 1
+secure cookie-story 2
+secure enclaves-story 2
+secure shell-story 2
+secure-story 8
+securely-story 1
+securities platform-story 2
+security boundary-story 2
+security facilities-story 2
+security flaw-story 2
+security implications-story 2
+security incident-story 2
+security mysteries-story 2
+security platform-story 2
+security reading-story 2
+security researchers-story 2
+security tool-story 2
+security-show_hn 1
+security-story 31
+sed-story 1
+sedentary-story 1
+see-show_hn 1
+see-story 18
+seed-story 2
+seek-story 5
+seem-story 1
+segmentsmack-story 1
+segy-story 1
+seinfeld calendar-story 2
+select-story 4
+selection-story 2
+selenium tutorial-story 2
+selenium-show_hn 1
+self driving-story 4
+self-story 24
+selfies-story 1
+selfishness-story 1
+selfpublish-story 1
+sell-story 18
+selling-story 1
+semantic-story 2
+semaphore-story 1
+semi-story 3
+sen-story 1
+senate democrat-story 2
+senate hearing-story 2
+senate-story 3
+senator-story 1
+send-ask_hn 2
+send-story 11
+sendbeatsbot-show_hn 1
+sending-story 1
+senior-ask_hn 2
+senior-story 1
+senna-story 1
+sennheiser headset-story 2
+sense-show_hn 2
+sense-story 5
+sense8-story 1
+sensible-story 2
+sensitive-story 4
+sensor-story 1
+sensory-story 1
+sent-ask_hn 1
+sentiment analysis-story 2
+seo-story 2
+seoul-story 1
+separate-story 2
+separated-ask_hn 1
+september-story 1
+seq2seq-show_hn 1
+seqeval-show_hn 1
+sequence-show_hn 1
+sequence-story 2
+serbia row-story 2
+serena-story 1
+serendipitous-story 1
+sergebot-story 1
+sergey brin-ask_hn 2
+serializers-story 1
+series-story 7
+serious-story 4
+serve-story 3
+server road-story 2
+server-ask_hn 1
+server-show_hn 2
+server-story 16
+serverless architecture-story 2
+serverless framework-story 2
+serverless node-story 2
+serverless website-story 2
+serverless-story 9
+service blocks-story 2
+service bus-story 2
+service hire-story 2
+service operator-story 2
+service-ask_hn 1
+service-show_hn 2
+service-story 31
+servo-story 1
+session level-story 2
+session-show_hn 2
+session-story 2
+sesta-story 1
+set-story 18
+seth godin-story 2
+seth-story 1
+settle-story 2
+settlement-story 2
+setup-story 1
+severe-story 1
+sex-story 4
+sexist-story 1
+sexual-story 2
+sf-story 3
+sgx-story 1
+shade-story 2
+shadow-story 3
+shake-story 2
+shakespeare-story 2
+shame-story 1
+shampoo-story 1
+shanghai-story 1
+shape-story 6
+sharded-story 1
+share-ask_hn 1
+share-show_hn 1
+share-story 23
+shareholding-story 1
+sharp-story 3
+sharpkeys-story 1
+sharply-story 1
+sharpton-story 1
+shawn pierce-story 2
+shed-story 2
+sheep-story 2
+sheet-story 3
+shelf-story 1
+shell-story 2
+shelter-story 1
+shepard-story 1
+sherlock-story 1
+sheryl-story 1
+shibe-story 1
+shift-story 3
+shine-story 2
+shiny-story 1
+ship-story 6
+shipbreaking-story 1
+shipment-story 1
+shippable-story 1
+shit-story 1
+shitty-story 1
+shkreli-story 1
+shockingly-story 1
+shodan-story 1
+shoe-story 1
+shojo-story 1
+shool-story 1
+shoot-story 4
+shooter-story 2
+shooting experiment-story 2
+shooting-story 1
+shop-story 4
+shopping cart-story 2
+shopping-story 3
+short-story 11
+shortage-story 3
+shortcut-story 1
+shorten-story 3
+shortener-show_hn 1
+shortener-story 1
+shorter-story 1
+shortlist-story 1
+shot-story 2
+should-ask_hn 7
+should-story 33
+shouldn-story 1
+shout-story 1
+shovel-story 1
+show-show_hn 205
+show-story 11
+showerthoughts-show_hn 1
+showpad-story 1
+shred-story 2
+shrink-story 1
+shut-story 5
+shutdown-story 1
+shuttle centaur-story 2
+siberia-story 1
+siberian-story 1
+sicilian-story 1
+sick-story 5
+side benefit-story 2
+side business-story 2
+side channel-story 2
+side project-story 4
+side render-story 2
+side-show_hn 2
+side-story 10
+sidewalk-story 1
+sideways-story 1
+siem-story 2
+siemonster-story 1
+sierra app-story 2
+sierra-story 1
+sigbus-story 1
+sight-story 1
+sign-story 6
+signage management-story 2
+signal s-story 2
+signal-story 1
+signature generator-show_hn 2
+signature-show_hn 2
+signed-story 1
+significance-story 1
+significant-story 1
+significantly-story 2
+signups-story 1
+silence-story 1
+silent-ask_hn 1
+silently-story 1
+silicon valley-story 28
+silicon-story 5
+silivaccine-story 1
+silk road-story 2
+silver gold-story 2
+silverblue-story 1
+silversparro-story 1
+sim-story 2
+simh-story 1
+similar-story 2
+similarly-story 1
+simple-ask_hn 2
+simple-show_hn 9
+simple-story 17
+simplicity-story 1
+simplify-show_hn 1
+simply-story 3
+simpson-story 1
+simulate-story 2
+simulated-story 1
+simulation-story 2
+simulink-story 1
+sin-story 1
+sinaloa-story 1
+since-story 7
+sinclair tribune-story 2
+sinclair-story 1
+sing-story 1
+singapore-story 1
+single-ask_hn 1
+single-show_hn 3
+single-story 7
+singularity-story 2
+sinister-story 3
+sink-story 1
+sinner-story 1
+sip-story 1
+sipc-story 1
+sir-story 1
+siri alexa-story 2
+siri-story 1
+siriusxm-story 1
+sit-story 4
+site hell-story 2
+site reliability-story 4
+site-ask_hn 1
+site-show_hn 2
+site-story 12
+situation-story 1
+size lego-story 2
+size-story 7
+skam-story 1
+skeptic-story 1
+skepticism-story 1
+sketch-show_hn 1
+sketch-story 5
+sketchpad-story 1
+skill-ask_hn 3
+skill-show_hn 1
+skill-story 6
+skilled-story 1
+skills-ask_hn 1
+skillsets-story 1
+skin coats-story 2
+skin display-story 2
+skin sheriff-story 2
+skinner box-story 2
+skip lists-story 2
+skip-story 4
+skirmish-story 1
+sky deal-story 2
+sky-story 3
+skyknit-story 1
+skylark-story 1
+skype-story 1
+slack directory-story 2
+slack-show_hn 2
+slack-story 7
+slam-story 2
+slash-ask_hn 1
+slash-story 2
+slate-story 1
+slave-story 2
+slavery-story 1
+sled-story 1
+sleekplay-story 1
+sleep-story 5
+slice software-story 2
+slick-story 1
+slide-story 3
+slight-story 1
+slightly-story 1
+slippery-story 1
+slope-story 1
+slos-story 1
+slow-ask_hn 2
+slow-story 12
+slowdive-story 1
+slowdown-story 1
+slowly-story 1
+slync-story 1
+sm-story 1
+smack-story 1
+small-ask_hn 2
+small-show_hn 1
+small-story 12
+smart contracts-story 2
+smart-show_hn 1
+smart-story 21
+smartasset-story 1
+smarter-story 1
+smartly-story 1
+smartphone-story 4
+smartphones-story 2
+smartwatch-story 1
+smash-story 1
+smell-story 1
+smes-story 1
+smooth-show_hn 1
+smooth-story 1
+smoother map-story 2
+sms-story 1
+smt-story 2
+snake-show_hn 1
+snake-story 1
+snap camera-story 2
+snap-story 3
+snapchat-story 7
+snapshot-show_hn 1
+sneak-story 1
+snes-story 3
+sniff-story 2
+snigl-show_hn 1
+snip-story 2
+snitching-story 1
+snoop-story 2
+snowden-story 1
+so-ask_hn 2
+so-story 29
+soa-story 1
+sobering-story 1
+soccer team-story 2
+social-show_hn 3
+social-story 25
+socialist-story 1
+socialize-story 2
+socially-story 1
+sociology-story 1
+socket-story 1
+soda pop-story 2
+soft-story 2
+softbank-story 4
+software apocalypse-story 2
+software collection-story 2
+software developers-story 2
+software development-story 6
+software engineer-story 2
+software engineering-story 2
+software engineers-ask_hn 2
+software merrchant-story 2
+software principles-story 2
+software soup-story 2
+software trial-story 2
+software utopianism-story 2
+software-ask_hn 12
+software-show_hn 2
+software-story 25
+sogou-story 1
+soil fantasies-story 2
+soil-story 1
+sokolov-story 1
+solana-story 1
+solar project-story 2
+solar system-story 2
+solar-story 6
+solaris-story 1
+solid-ask_hn 1
+solidity contract-story 2
+solo developers-story 2
+solo-story 1
+solopreneurs-ask_hn 1
+solution-ask_hn 2
+solution-story 15
+solve-story 17
+som-story 1
+some-ask_hn 1
+some-story 14
+someday-story 1
+someone-ask_hn 1
+someone-story 7
+something-ask_hn 2
+something-story 3
+sometimes-story 1
+somewhere-story 1
+son-story 1
+song-story 3
+songbeat-show_hn 1
+songbird-story 1
+sonnet-story 1
+sonoma coast-story 2
+sonos-story 1
+sony-story 1
+soon-story 6
+sooner-story 1
+sorry-story 3
+sort function-story 2
+sort-story 6
+sotheby-story 1
+soul-story 1
+sound mixer-story 2
+soundtrack-show_hn 1
+soup-story 1
+source admin-story 2
+source alternative-story 2
+source benchmarks-story 2
+source blog-story 2
+source contributor-story 2
+source email-story 2
+source erlang-story 2
+source leadership-story 2
+source library-story 2
+source reupload-story 2
+source software-story 2
+source suite-show_hn 2
+source web-show_hn 2
+source-ask_hn 4
+source-show_hn 2
+source-story 44
+sourced-story 1
+sourceforge-story 1
+south africa-story 2
+south-story 6
+southeast asia-story 2
+southeast-story 1
+southern-story 3
+southwest-story 1
+soviet-story 2
+sox-story 1
+soybean-story 1
+soylent-story 1
+soyuz-story 1
+spa-story 1
+space cadet-story 2
+space dies-story 2
+space force-story 2
+space invaders-story 2
+space junk-story 2
+space poster-story 2
+space program-story 2
+space station-story 2
+space-story 22
+spacecraft design-story 2
+spacecraft-story 3
+spaceship-story 3
+spacewar-story 1
+spacex-story 8
+spam-ask_hn 1
+spam-story 1
+spare-story 1
+spark-story 6
+spawn-story 1
+speak-story 3
+speaker-story 1
+speaks-story 1
+spec-story 2
+special-story 4
+specie-story 3
+specific-ask_hn 1
+specific-story 1
+specification-story 2
+specificity-story 1
+speckle-story 1
+spectacle-story 1
+spectre torvalds-story 2
+spectre-story 6
+spectreprime-story 1
+spectrum-story 2
+speculate-story 1
+speculation-story 2
+speculative-story 4
+speculose-story 1
+speech message-show_hn 2
+speech synthesis-story 2
+speech-story 7
+speed cruise-story 2
+speed-show_hn 1
+speed-story 13
+spend-ask_hn 1
+spend-story 6
+spent-story 1
+sperm-story 2
+spf-story 1
+sphere-story 1
+spice-story 1
+spicy-story 1
+spider-story 1
+spike-story 2
+spill-story 1
+spin-story 1
+spinning-ask_hn 1
+spirit-story 2
+splintered-story 1
+split-story 3
+splootysplotty-story 1
+spmd-story 1
+spoiler-story 1
+sponge-story 1
+sponsor-story 1
+sponsored-story 1
+spoof-story 2
+spore-story 1
+sport-story 1
+spot-ask_hn 1
+spot-story 3
+spotify-story 3
+spotlight-story 1
+sprawl-story 1
+spray-story 1
+spread-story 3
+spreadsheet-story 1
+spring boot-story 2
+springer-story 1
+sprinkle-story 1
+sprint t-story 2
+sprint-story 1
+sprite-story 1
+sputnik-story 1
+spy plane-story 2
+spy tool-story 2
+spy-story 7
+spyware-story 1
+sql-show_hn 1
+sql-story 3
+sqlite-story 1
+sqrrl-story 1
+square inch-story 2
+squash-story 1
+squashathon-story 1
+squeezejet-story 1
+squiggle-story 1
+sram-story 1
+srinivasan-story 1
+srraming-story 1
+ssa-story 1
+ssec-story 1
+ssh-story 4
+ssl-show_hn 1
+ssl-story 1
+ssn-story 1
+sso-story 2
+sss-story 1
+stable-story 3
+stack engineers-story 2
+stack exchange-story 2
+stack overflow-story 4
+stack web-story 2
+stack-ask_hn 1
+stack-story 9
+stackletter-story 1
+stackoverflow-ask_hn 1
+stackoverflow-story 1
+stadium-story 1
+staff china-story 2
+staff-story 2
+staffer-story 1
+stag-story 2
+stage startups-story 2
+stage-ask_hn 1
+stage-story 1
+staggering-story 1
+stagnant-story 1
+stagnation-story 1
+stake-story 2
+stalag luft-story 2
+stall-story 1
+stamos-story 1
+stand-story 5
+standalone-story 3
+standard source-story 2
+standard-show_hn 1
+standard-story 8
+standstill-story 1
+stanford muyila-story 2
+stanford university-story 2
+stanford-story 2
+star wars-story 2
+star-story 5
+starcity year-story 2
+starlight-story 1
+start-ask_hn 2
+start-show_hn 2
+start-story 23
+startling-story 1
+startup addict-story 2
+startup alley-story 2
+startup call9-story 2
+startup disrupts-story 2
+startup imec-story 2
+startup job-story 2
+startup learncore-story 2
+startup night-story 2
+startup rebuilds-story 2
+startup-ask_hn 6
+startup-show_hn 1
+startup-story 51
+startupmate-story 1
+startuppers-story 1
+startups-ask_hn 2
+startups-story 2
+starve-story 1
+stat-story 1
+state entities-story 2
+state-ask_hn 1
+state-story 24
+stateflow-story 1
+stateless components-story 2
+statement-story 2
+states congress-story 2
+static-ask_hn 1
+static-story 3
+statically-story 1
+station-story 2
+statistic-story 3
+statistical-story 1
+stats-ask_hn 1
+statsd-show_hn 1
+statue-story 1
+status-story 2
+statuspage-show_hn 1
+stay-ask_hn 1
+stay-story 3
+steal-story 4
+stealth-story 2
+steer-story 4
+steindorfer-story 1
+stellar-story 1
+step guide-story 2
+step-story 11
+stephen-story 3
+steps towards-story 2
+steroid-show_hn 1
+steroid-story 1
+steve blank-story 2
+steve-story 8
+steven-story 1
+stewart-story 1
+stick-story 4
+stigmatise-story 1
+still-ask_hn 3
+still-story 24
+stimulus-story 1
+stipend-story 1
+stir-story 1
+stitch fix-story 2
+stitch-show_hn 1
+stix-story 1
+stock merger-story 2
+stock-ask_hn 1
+stock-story 6
+stocks quants-story 2
+stoicism-story 1
+stoke-story 1
+stone-story 1
+stop-ask_hn 1
+stop-show_hn 1
+stop-story 18
+storage bottleneck-story 2
+storage development-story 2
+storage-story 3
+store buffer-story 2
+store success-story 2
+store-ask_hn 1
+store-story 17
+stored-story 1
+stories metrics-story 2
+storj labs-story 2
+storm surge-story 2
+storm-story 1
+stormer-story 1
+stormy daniels-story 2
+story-story 23
+storytelling-story 1
+straight-story 2
+strand-story 1
+stranded-story 1
+stranger-story 1
+strap-story 2
+strategic-story 2
+strategy-story 9
+stratify-story 1
+stratum-show_hn 1
+strava-story 1
+strawberry-story 1
+streak-story 1
+stream reactor-story 2
+stream-show_hn 2
+stream-story 8
+streamer-story 1
+streamingpivot-show_hn 1
+streamline-show_hn 1
+streamline-story 1
+street smarts-story 2
+street trading-story 2
+street-story 3
+strength-story 1
+strenuous-story 1
+stress-story 5
+strftime-story 2
+strict-story 2
+strictyaml-story 1
+strife-story 1
+strike-story 5
+string-show_hn 1
+string-story 1
+strip-story 1
+stripe-story 2
+strobe-story 1
+strong-story 2
+struct2depth-story 1
+structure status-story 2
+structure-story 5
+structured-story 1
+structures concepts-story 2
+struggle-story 3
+stuck-ask_hn 1
+student debt-story 2
+student discounts-show_hn 2
+student-story 14
+studio code-story 2
+studio team-story 2
+studio-story 1
+studios names-story 2
+study buddy-ask_hn 2
+study examines-story 2
+study finds-story 2
+study reveals-story 2
+study-story 18
+stuff-show_hn 1
+stuff-story 1
+stumble-story 1
+stupid-story 3
+style guide-story 2
+style reversion-story 2
+style tips-story 2
+style transfer-story 2
+style video-story 2
+style-ask_hn 2
+style-story 1
+styled-story 1
+stylish-story 1
+stymie-story 1
+su-story 2
+sub saharan-ask_hn 2
+subconscious-story 1
+subdomain enumeration-story 2
+subject-ask_hn 1
+subject-story 1
+sublime-story 1
+subliminal-story 1
+suborbital-story 1
+subphenotypes-story 1
+subpoena-story 1
+subreddit chat-story 2
+subscribe-story 1
+subscriber-story 1
+subscription-ask_hn 1
+subscription-story 4
+subsea-story 2
+subsidy-story 1
+substring-story 1
+subterranean-story 1
+subtrees-story 1
+succeed-story 1
+success lifecycle-story 2
+success principle-story 2
+success-ask_hn 2
+success-story 5
+successful-story 3
+successfully-story 2
+such-story 2
+suck-story 7
+sudan-story 1
+sudoku-story 1
+sue-story 6
+suffer-story 3
+sugar-story 1
+suggest-story 3
+suggestion-ask_hn 1
+suggestion-show_hn 1
+suicidal-story 1
+suicide-story 3
+suit-story 1
+summarise-story 1
+summarize-show_hn 1
+summarize-story 1
+summary-show_hn 1
+summary-story 3
+summer-story 1
+summit-story 3
+sumo logic-story 2
+sun tzu-story 2
+sun-story 1
+sunlight-story 1
+sunvox-story 2
+super nintendo-story 2
+super-story 3
+superbug-story 1
+supercar-story 1
+supercharge-story 2
+supercomputer-story 5
+superconducting-story 1
+superior-story 1
+supermarket-story 1
+supermassive-story 1
+supernovae-story 1
+supersonic-story 2
+superstar cities-story 2
+superstar-story 1
+superstore-story 1
+supervillains-story 1
+supervise-story 1
+supervolcano-story 1
+supplier-story 1
+supply-story 4
+support-show_hn 2
+support-story 22
+suppression-story 1
+supremacy-story 2
+supreme-story 4
+sure-story 1
+surface hub-story 2
+surface-story 6
+surge-story 3
+surgery-story 2
+surname-story 1
+surprise-ask_hn 1
+surprise-story 2
+surprised-ask_hn 1
+surprising-story 1
+surveillance formula-story 2
+surveillance-story 2
+survey-story 4
+survival-story 2
+survive-story 10
+suse-story 1
+suspect-story 3
+suspends-story 1
+susskind-story 1
+sustainability-story 1
+sustainable-story 4
+sustainble-story 1
+suu-story 1
+sv-story 3
+svbrdf-story 1
+svg-show_hn 1
+sw-ask_hn 1
+sw-story 1
+swaney-story 1
+swap-story 1
+swarm-story 1
+swe-ask_hn 1
+swear-story 1
+sweden-story 2
+swedish-story 1
+sweep-story 1
+swift-story 4
+swing-story 1
+swipe-story 1
+swiping-story 1
+swirl-story 1
+swiss-story 3
+swisstable-story 1
+switch-ask_hn 2
+switch-show_hn 1
+switch-story 5
+switcher-story 1
+switching-story 1
+sword-story 1
+sxkdvm-story 1
+syfy-story 1
+symbol-show_hn 1
+symbol-story 3
+symfony-story 1
+symposium-story 1
+sync-show_hn 1
+sync-story 2
+synchronize-story 1
+synchronously-story 1
+syndrome-story 2
+syntax-show_hn 1
+syntax-story 1
+synth-story 2
+synthesize-story 2
+synthetic-story 1
+syracuse-story 1
+syria-story 1
+system patent-story 2
+system student-story 2
+system-ask_hn 3
+system-story 37
+systematic-story 1
+systemd-story 1
+systems laboratory-story 2
+t f-story 2
+t mobile-story 2
+t3-story 1
+tab-story 1
+tabgroups-story 1
+table protocol-story 2
+table-story 3
+tableau prep-story 2
+tableau-ask_hn 1
+tabstops-story 1
+tac toe-story 2
+tacit-story 1
+tackle-story 2
+tactic-story 2
+tag-ask_hn 1
+tag-story 2
+taihulight-story 1
+tailwind-story 1
+taiwanese-story 1
+take-ask_hn 2
+take-show_hn 2
+take-story 48
+takeaway-show_hn 1
+takeover-story 1
+taking-story 1
+tale-story 1
+talent matrix-story 2
+talent scout-story 2
+talk-ask_hn 1
+talk-story 22
+talks cybersecurity-story 2
+tall-story 1
+tame-story 1
+tangle-story 1
+tank-story 3
+tap-story 1
+tape-story 1
+tapping-story 1
+tar-show_hn 1
+taren-story 1
+target-story 6
+targeting-story 1
+tariff dodges-story 2
+tariff-story 3
+tarzan-story 1
+task force-story 2
+task runner-story 2
+task-show_hn 2
+task-story 4
+taskforce-story 1
+taste-story 1
+taught-story 1
+taunt-story 1
+tax filings-story 2
+tax rebellion-story 2
+tax-ask_hn 1
+tax-story 12
+taxi-story 4
+taxify-story 1
+taxonomy-ask_hn 1
+tcl tk-story 2
+tcl-story 1
+tcms-story 2
+tcp-show_hn 1
+tcp-story 3
+td-story 1
+tdd-story 3
+teach-ask_hn 2
+teach-show_hn 1
+teach-story 6
+teacher-story 2
+team consensus-story 2
+team meetings-story 2
+team-ask_hn 5
+team-show_hn 1
+team-story 17
+teammate-story 2
+teams-story 1
+teamwork-story 1
+tear gas-story 2
+tear-story 1
+teardown-story 1
+tease-story 1
+tech companies-story 2
+tech development-story 2
+tech historians-story 2
+tech industry-story 2
+tech jobs-story 4
+tech policy-story 2
+tech stocks-story 2
+tech superpower-story 2
+tech-ask_hn 6
+tech-show_hn 1
+tech-story 55
+techcos-story 1
+techie-story 1
+techmakers-story 1
+technical-ask_hn 2
+technical-story 10
+technique-ask_hn 1
+technique-story 3
+technocratic-story 1
+technological-story 1
+technology report-story 2
+technology-ask_hn 2
+technology-story 26
+techrepublic-story 1
+techsploitation-story 1
+techstars-story 1
+ted-story 2
+teen-story 1
+teenage-story 1
+teeth-story 1
+tekraze-story 1
+tel aviv-story 2
+telegram-story 10
+telemetry-story 1
+tell users-story 2
+tell-story 14
+telltale-story 2
+temperature-show_hn 1
+template-show_hn 3
+template-story 5
+temporal-story 2
+ten-story 6
+tenancy-ask_hn 1
+tenant-story 1
+tencent-story 2
+tender india-story 2
+tennis-story 2
+tension-story 1
+tensor-story 1
+tensorflow-story 11
+term impatient-story 2
+term patient-story 2
+term-show_hn 1
+term-story 6
+terminal-show_hn 2
+terminal-story 10
+terminology-story 1
+terraform-story 3
+terrahub-story 1
+terrify-story 2
+terror-story 1
+terry gilliam-story 2
+tesla autopilot-story 4
+tesla crash-story 2
+tesla doesn-story 2
+tesla model-story 6
+tesla q4-story 2
+tesla semi-story 2
+tesla supercharger-story 2
+tesla-story 22
+tessa88-story 1
+tessellation-story 1
+test coverage-story 2
+test delay-story 2
+test matter-ask_hn 2
+test suite-story 2
+test-ask_hn 1
+test-show_hn 3
+test-story 49
+tester-show_hn 1
+tester-story 1
+testicle-story 1
+testifies-story 1
+testify-story 1
+testing-story 1
+tether-story 1
+tetri-show_hn 1
+tetri-story 1
+teva-story 1
+texas-story 3
+text analytics-story 2
+text-ask_hn 1
+text-show_hn 2
+text-story 10
+texted-show_hn 1
+texts-story 1
+texturepacker-story 1
+thai-story 1
+thailand cave-story 2
+thailand-story 1
+than-ask_hn 1
+than-show_hn 1
+than-story 40
+thanks-story 1
+thanksgiving-story 1
+that-ask_hn 9
+that-show_hn 6
+that-story 92
+thaw-story 2
+the-ask_hn 26
+the-show_hn 25
+the-story 1170
+thee-story 1
+theft-story 1
+their-ask_hn 2
+their-story 28
+them-ask_hn 1
+them-story 15
+theme-story 3
+themes-story 1
+themselves-story 3
+then-story 4
+theodore sturgeon-story 2
+theorem-story 2
+theoretical-story 1
+theories-story 1
+theory-ask_hn 1
+theory-story 7
+theranos-story 3
+therapeutic-story 1
+there-ask_hn 9
+there-story 15
+therefore-story 1
+these-story 7
+thesis-story 2
+they-ask_hn 1
+they-story 28
+thicken-story 1
+thief-story 1
+thin-story 2
+thing richard-story 2
+thing-ask_hn 1
+thing-story 23
+things developers-story 2
+things i-story 4
+things satellites-story 2
+think-ask_hn 2
+think-story 22
+thinking-story 1
+third-ask_hn 2
+third-story 6
+thirteen-show_hn 1
+this-ask_hn 3
+this-show_hn 1
+this-story 41
+thomas piketty-story 2
+thomas-story 1
+thor stefansson-story 2
+thorough-story 1
+those-story 2
+thought-story 5
+thoughtbot-story 1
+thoughtful-story 1
+thousand-show_hn 1
+thousand-story 7
+thread-story 3
+threading-story 1
+threadripper-story 2
+threat campaign-story 2
+threat-story 3
+threaten-story 4
+threatens-story 1
+thrift-story 2
+throttle-story 3
+throttling-story 1
+through-story 17
+throw-story 1
+throwaway-story 1
+thunderx2-story 1
+tic-story 1
+tick-story 1
+ticket-story 2
+tidb-story 1
+tie-story 4
+tighten-story 2
+tik-story 1
+tiktok-story 2
+tikv-story 1
+till tomorrow-story 2
+tim berners-story 2
+tim cook-story 10
+tim-story 1
+time founders-story 4
+time hacker-story 2
+time magazine-story 2
+time price-story 2
+time programming-story 2
+time recovery-story 2
+time travel-story 2
+time vue-story 2
+time-ask_hn 5
+time-show_hn 3
+time-story 63
+timekeeping-ask_hn 1
+timelens-story 1
+timeline-story 1
+timelog-story 1
+timeouts-story 1
+timer-story 1
+tinder-story 2
+tiny-ask_hn 1
+tiny-show_hn 1
+tiny-story 9
+tip-ask_hn 1
+tip-story 9
+tiptoe-story 1
+tipue-story 1
+tissue-story 2
+titan-story 1
+titanic-story 1
+title-ask_hn 1
+tk-story 1
+tl-show_hn 1
+tl-story 4
+tla-story 1
+tls-story 1
+tm-story 1
+tmux-story 2
+to-ask_hn 62
+to-show_hn 34
+to-story 892
+toaroca-story 2
+toaster-story 1
+toba-story 1
+tobacco-story 1
+today marks-story 2
+today-ask_hn 2
+today-story 10
+todd antony-story 2
+toddler-story 1
+todo app-story 2
+together-show_hn 1
+together-story 4
+toilet-story 1
+tok-story 1
+token-story 4
+tokenization-story 1
+tokenized-story 1
+tokyo-story 2
+tolerant-show_hn 1
+tolerant-story 1
+toll-story 1
+tomb raider-story 2
+toml-story 1
+tomorrow-story 2
+tomtit-story 1
+ton-story 2
+toneden-show_hn 1
+tonight-story 1
+tony-story 1
+too-ask_hn 1
+too-story 15
+tool-ask_hn 2
+tool-show_hn 7
+tool-story 23
+toolbox-story 1
+toolkit-story 3
+tools animals-story 2
+tooltip-story 1
+top-ask_hn 1
+top-show_hn 1
+top-story 26
+top10-ask_hn 1
+topic modeling-story 2
+topic-ask_hn 2
+topic-show_hn 1
+topic-story 1
+toran billups-story 2
+torchtext-story 1
+toronto-story 3
+torrent-show_hn 1
+torrent-story 1
+torso-story 1
+tortured-story 1
+toss-story 1
+total-story 2
+totally-story 1
+totp-story 1
+touch-story 5
+touchdown-story 1
+tough-story 2
+tour-story 3
+tourism-story 2
+toward-story 7
+towards-ask_hn 1
+towards-story 2
+tower-story 2
+town-story 2
+toxic-story 1
+toy-story 3
+toyota-story 2
+tpu-story 1
+tpuv2-story 2
+trace-story 4
+track player-story 2
+track-ask_hn 3
+track-story 19
+tracker-show_hn 1
+tracker-story 2
+tracking-story 3
+tracr-story 1
+trade-ask_hn 1
+trade-show_hn 1
+trade-story 9
+trademark-story 1
+trader-story 2
+tradeshow-story 1
+trading depth-story 2
+trading economics-story 2
+trading-story 7
+traditional-ask_hn 1
+traditional-story 3
+traefik-story 1
+traffic lights-story 2
+traffic shaper-show_hn 2
+traffic-story 7
+tragedy-story 1
+tragic-story 1
+trail-story 1
+trailer-story 1
+train-story 2
+training-show_hn 1
+training-story 3
+tranche-story 1
+trans-story 2
+transaction processing-story 2
+transaction-story 3
+transactional-story 2
+transcript facebook-story 2
+transcript-story 2
+transcription-story 1
+transducer-story 1
+transfer-story 4
+transform-story 5
+transformation-story 1
+transit expert-story 2
+transition-story 4
+translate-story 1
+translation-story 2
+translator-story 1
+transliterate-show_hn 1
+translucent-story 1
+transmission security-story 2
+transmit-story 1
+transparency-story 2
+transparent screens-story 2
+transport business-story 2
+transport sucks-story 2
+transport-story 3
+transportation technology-story 2
+transportation-story 1
+trap-story 3
+trash-story 3
+travel guide-story 2
+travel-show_hn 3
+travel-story 5
+traveler-show_hn 1
+traveler-story 2
+travis-story 2
+treasure hunter-story 2
+treasure trove-story 2
+treasure-story 1
+treasury bull-story 2
+treasury-story 2
+treat-story 3
+treatment-story 2
+tree processing-story 2
+tree-story 7
+treelite-story 1
+trek-story 1
+trend-show_hn 1
+trend-story 7
+trending computer-story 2
+trent-story 1
+treo-show_hn 1
+trfl-story 1
+triage-story 1
+trial-story 3
+tribe-story 1
+tribune-story 1
+tribute-story 2
+trick-story 9
+trickery-story 1
+tricks cheatsheet-story 2
+tricky-story 2
+trigger-story 2
+trillion-story 1
+trilogy-story 1
+trip-story 2
+triple-story 1
+triplebyte-story 1
+triton cloud-story 2
+trivago tech-story 2
+trivia-story 2
+trojan-story 1
+troll pages-story 2
+troll-story 1
+trolley-story 1
+trombone mashup-story 2
+tromboon bassoon-story 2
+tron-story 1
+trope-story 1
+trouble-show_hn 1
+trouble-story 7
+troubleshoot-story 2
+trove-story 2
+troy hunt-story 2
+truck-story 4
+truckstop hierarchy-story 2
+true-story 4
+truebit-story 1
+truly-story 1
+trump tower-story 2
+trump victory-story 2
+trump-story 13
+trust scores-story 2
+trust-story 6
+trustico-story 1
+trustless-story 1
+truth clicks-story 2
+truth decay-story 2
+truth-story 4
+try-story 16
+tt-story 1
+ttl-story 1
+tty-story 1
+tube-story 1
+tuis-story 1
+tulips returns-story 2
+tumble-story 1
+tumblr-story 2
+tumor-story 1
+tunable-story 1
+tundra-story 1
+tune-story 2
+tuning-story 1
+tunnel-show_hn 1
+tunnel-story 2
+turbolinks-story 1
+turing-story 2
+turk data-story 2
+turkey-story 1
+turkish-show_hn 1
+turkish-story 1
+turmoil-story 1
+turn-ask_hn 1
+turn-show_hn 1
+turn-story 19
+turnkey-story 1
+tutorial-show_hn 1
+tutorial-story 8
+tv-story 7
+tweet-show_hn 3
+tweet-story 3
+tweetstorm-story 1
+twelve rules-story 2
+twice-story 1
+twilight-story 1
+twilio announces-story 2
+twilio-story 3
+twin-story 2
+twisted-story 2
+twistedsifter-story 1
+twitch-story 3
+twitter analyzis-show_hn 2
+twitter method-story 2
+twitter reddit-story 2
+twitter scam-story 2
+twitter-show_hn 1
+twitter-story 17
+twlocation-story 1
+tx-story 1
+txt-story 2
+type application-ask_hn 2
+type-ask_hn 1
+type-show_hn 1
+type-story 8
+typed-story 1
+typescript news-story 2
+typescript-story 8
+typewriter-story 1
+typing-ask_hn 1
+typing-story 1
+tyson-story 1
+u-ask_hn 2
+u-story 47
+uas-story 1
+uber lite-story 2
+uber-story 16
+uberpool-story 1
+ubiquiti-story 1
+ubuntu-ask_hn 1
+ubuntu-story 3
+udemy-story 1
+udfs-story 1
+udp-show_hn 1
+uefi-story 1
+uganda-story 1
+ugliness-story 1
+ugly-ask_hn 1
+ugly-story 1
+ui-show_hn 2
+ui-story 9
+uighur-story 1
+uk-ask_hn 1
+uk-story 10
+ukraine-story 2
+ulation-story 1
+ultimate-story 4
+ultimatum-story 1
+ultra-story 4
+ultralight-story 1
+ultraviolet-story 1
+un-story 4
+unacceptable-story 1
+unapologetic-story 1
+unauthorised-story 1
+unblocked-story 1
+unbound-story 1
+uncertainty-show_hn 1
+unchanged-story 1
+unclear-story 1
+uncover-story 2
+undefended-story 1
+undeniably-story 1
+under-story 13
+underappreciated-story 1
+undermine-story 2
+underrate-story 1
+underrun-story 1
+understand bitcoin-story 2
+understand-ask_hn 1
+understand-story 17
+understandability-story 1
+understandable-story 1
+understanding-story 3
+undertaker-story 1
+underway-story 1
+undo-story 1
+unearth-story 1
+unearths-story 1
+unemployment-story 1
+unethical-story 1
+unexpected-story 2
+unfair-ask_hn 1
+unfair-story 1
+unfamiliar-story 1
+unfinished-story 1
+unfold-story 2
+unfortunate-story 1
+ungoogled-story 1
+unhackable-story 1
+unicorn-story 2
+unified-ask_hn 1
+unified-story 2
+uniform-story 1
+unify-show_hn 1
+unify-story 2
+uninsurable-story 1
+unintended-story 2
+union square-story 2
+union-ask_hn 1
+union-story 4
+unionized-story 1
+unique-story 3
+unit-story 7
+unite-story 2
+united-story 8
+unity3d-story 1
+unival-story 1
+universal-story 3
+universe data-story 2
+universe-story 3
+university-story 2
+unix shell-story 2
+unix-ask_hn 1
+unix-story 7
+unknown-ask_hn 1
+unleash-story 1
+unless-story 1
+unlikely-story 1
+unlimited-show_hn 1
+unlimited-story 4
+unlock-story 1
+unlocking-story 1
+unmetered-story 1
+unordered-story 1
+unorthodox-story 1
+unpopular-story 1
+unread-story 1
+unreliable-story 1
+unroll-story 1
+unsafe-story 2
+unsavory-story 1
+unseen-story 1
+unsend-story 2
+unshorten-story 1
+unsolved-story 1
+unsupervised-story 1
+untangle-story 1
+unthinkable-story 1
+until-story 2
+untold-story 1
+untouchable-story 1
+unusual-story 1
+unveil-story 6
+unveiled-story 1
+unveils-story 2
+unwanted-story 1
+uoft-story 1
+uot-story 1
+up-show_hn 1
+up-story 57
+upcase-story 1
+upcoming-story 2
+update-story 19
+updated-story 1
+upend-story 1
+upgrade-story 5
+upgradeable-story 1
+upload-story 2
+uploading-story 1
+upon-story 2
+upper-story 1
+uproar-story 1
+ups-story 1
+upsell-story 1
+upset-story 1
+upskilling-story 1
+uptake-story 1
+uranus-story 1
+urban-story 2
+urge-story 2
+urgent-story 1
+url-show_hn 1
+url-story 6
+us-story 4
+us5723786-story 1
+usa-story 2
+usage differences-story 2
+usage-story 3
+usb-story 4
+usd-story 3
+usdt-story 1
+use cases-story 4
+use gitlab-ask_hn 2
+use power-story 2
+use-ask_hn 17
+use-show_hn 11
+use-story 155
+useful-story 4
+useless-story 2
+user experience-story 2
+user interfaces-story 2
+user onboarding-story 2
+user-ask_hn 3
+user-story 34
+userland-story 1
+usermanager-story 1
+uservoice-ask_hn 1
+usher-story 1
+utah-story 2
+utf-story 1
+utilize-story 1
+utopia-story 1
+utopian-story 1
+uucp-story 1
+uv-story 1
+uwp-story 1
+ux-ask_hn 2
+ux-story 5
+v-ask_hn 4
+v-story 19
+v0-story 2
+v1-story 3
+v2-story 4
+v3-story 3
+v4-story 2
+v6-story 1
+vacation-story 1
+vaccination campaign-story 2
+vaccine-story 2
+vacuum-story 1
+vagina-story 1
+vailentine-story 1
+valentines day-story 2
+validate-story 2
+validating images-story 2
+validation-show_hn 2
+validation-story 1
+validr-show_hn 1
+valley recruiters-story 2
+valley-story 3
+valuable-story 2
+valuation climbs-story 2
+valuation-story 2
+value isn-story 2
+value reddit-story 2
+value-show_hn 1
+value-story 6
+valve-story 1
+van gogh-story 2
+van halen-story 2
+van-story 2
+vanilla-story 1
+vanishes-story 1
+vapid-story 1
+vapor-story 2
+var-story 1
+variability hypothesis-story 2
+variability-story 1
+variable-story 5
+variadic-story 1
+variant-story 1
+variational-story 1
+variety-story 1
+various-story 1
+varnish-story 1
+vast-story 2
+vat-story 1
+vault-story 1
+vaynerchuk voice-story 2
+vbuild compile-story 2
+vc-story 1
+vcs-story 2
+ve-ask_hn 3
+ve-story 9
+vector graphics-story 2
+vegan-story 3
+veganuary-story 1
+vegetarianism-ask_hn 1
+vehicle communication-story 2
+vehicle production-story 2
+vehicle-story 7
+vehicular-story 1
+velocity-story 2
+velodyne lidar-story 2
+vendor-story 4
+venery-story 1
+venezuela-story 2
+venture-story 3
+venue-story 1
+ver-story 1
+verge-story 1
+verifiable-story 3
+verification-story 2
+verified-story 2
+verify-story 2
+verizon-story 2
+vernon-story 1
+veronica-story 1
+version control-story 2
+version-show_hn 1
+version-story 7
+versioning-story 1
+versus-story 5
+vertically-story 1
+very-ask_hn 1
+very-story 4
+vested-story 1
+vet-story 1
+veterinarian-story 1
+vga-story 1
+vgo-story 1
+via-story 5
+victim-story 1
+video ads-story 2
+video app-story 2
+video chris-story 2
+video makers-story 2
+video startup-story 2
+video-ask_hn 1
+video-show_hn 1
+video-story 53
+video2video-story 1
+videocontext-story 1
+videos-story 1
+viejo-story 1
+vietnam-story 1
+view-story 10
+viewer runs-story 2
+viewer-story 1
+viking-story 1
+villain-story 1
+vimeo-story 1
+vimrc-story 1
+vimtutor-story 1
+vinci hid-story 2
+vinci-story 1
+vine-story 1
+vintage-story 2
+violation-story 1
+violence-story 5
+violent-story 1
+viral-story 2
+vircorx-story 1
+virding-story 1
+virtual-ask_hn 1
+virtual-story 10
+virtualbox-show_hn 1
+virtually-story 1
+virtue-story 1
+virus-story 1
+visa-show_hn 1
+visa-story 6
+visalist-show_hn 1
+vision fund-story 2
+vision-story 1
+visionary-story 2
+visit-story 1
+visitor pattern-story 2
+visitor-story 1
+visl-story 1
+vista-story 1
+visual-ask_hn 1
+visual-show_hn 2
+visual-story 13
+visualise-story 2
+visualization-story 5
+visualize-show_hn 4
+visualize-story 5
+visualizer-story 1
+visually-story 1
+vital-story 1
+vitalik buterin-story 4
+vitamania-story 1
+vitamin-story 1
+vive-story 1
+vivek-story 1
+vix-story 1
+vizio-story 1
+vlc-story 2
+vm-story 2
+vmlens-story 1
+voice assistant-story 2
+voice platform-story 2
+voice-story 5
+volatile-story 2
+volcanic-story 1
+volcano lover-story 2
+volkswagen-story 1
+volume-story 2
+voluntourism-story 1
+vote-story 4
+voting-story 1
+voyager-story 2
+vp-story 1
+vpn-ask_hn 1
+vpn-show_hn 1
+vpn-story 2
+vpnfilter-story 1
+vr-story 8
+vrm-story 1
+vs-ask_hn 1
+vs-story 11
+vsphere-story 1
+vue dark-show_hn 2
+vue developer-story 2
+vue-show_hn 2
+vue-story 6
+vuegg-show_hn 1
+vuejs-show_hn 2
+vuejs-story 1
+vuesax-show_hn 1
+vuex mutation-story 2
+vuex-story 1
+vuid-story 1
+vuln-story 1
+vulnerability disclosure-story 2
+vulnerability-ask_hn 1
+vulnerability-story 8
+vulnerable-story 3
+vw-story 1
+w12-story 2
+w18 batch-story 2
+wabi sabi-story 2
+wadhwa-story 1
+wafer scale-story 2
+waffle house-story 2
+wag-story 1
+wage-story 6
+wager-show_hn 1
+wagon-story 1
+wait-story 6
+waiter-story 1
+wake-story 2
+wale-story 1
+walk-story 3
+walkman-story 1
+walkthrough-story 1
+wall-story 8
+wallet ledger-story 2
+wallet-story 3
+walmart-story 8
+walter isaacson-story 2
+wanna-story 1
+want-ask_hn 2
+want-story 26
+war deserters-story 2
+war era-story 2
+war soldiers-story 2
+war warhammer-story 2
+war-story 15
+ward-story 1
+warehouse-story 7
+warehousing-story 1
+warfare-story 1
+wargames-story 1
+warm-story 2
+warn-story 5
+warning-story 1
+warns-story 2
+warranty-story 1
+warrior-story 1
+warriorjs-show_hn 1
+wash-story 2
+washington post-show_hn 2
+washington post-story 2
+washington state-story 2
+washington-story 3
+wasm-story 1
+wasn-story 1
+waste industry-story 2
+waste-story 3
+watch millennium-story 2
+watch-ask_hn 1
+watch-show_hn 1
+watch-story 11
+watchdog-story 3
+watches siri-story 2
+watchtv-story 1
+water consumption-story 2
+water-story 12
+watsi-story 1
+watson-story 2
+wave-story 3
+wavegan-story 1
+waveguide-story 1
+way dogs-story 2
+way houyhnhnms-story 2
+way-ask_hn 5
+way-show_hn 4
+way-story 43
+waymo-story 4
+waze-story 1
+we-ask_hn 2
+we-story 76
+weak-story 1
+wealth management-story 2
+wealth-story 3
+wealthfront-story 1
+weapon-story 3
+weaponry-story 1
+weapons defense-story 2
+wear-story 1
+wearable-story 2
+weassembly-story 1
+weather-story 1
+weave-story 1
+weaveworks-story 1
+web analytics-story 4
+web app-story 4
+web application-story 2
+web content-story 2
+web designer-story 2
+web developer-story 4
+web engulfs-story 2
+web frameworks-story 2
+web mobile-ask_hn 2
+web server-story 2
+web startup-ask_hn 2
+web-ask_hn 3
+web-show_hn 4
+web-story 36
+webapps-story 2
+webassembly-show_hn 1
+webassembly-story 5
+webauthn-story 1
+webcam-story 2
+webgl-show_hn 2
+webgl-story 4
+webhooks-show_hn 1
+webmacs-story 1
+webp-story 1
+webpage-ask_hn 1
+webpage-story 1
+webperl-story 1
+webrtc-story 4
+webserver-story 1
+website-ask_hn 6
+website-show_hn 3
+website-story 14
+websockets-story 2
+webtorrent-show_hn 1
+wechat-story 1
+wedding-story 1
+weed-story 1
+week-ask_hn 1
+week-story 14
+weekend-story 1
+weekly-show_hn 2
+weekly-story 8
+wef-story 1
+wehe-story 1
+weinstein-story 1
+weir-story 1
+weird-story 4
+welcome-story 4
+welcometothejungle-story 1
+well-show_hn 2
+well-story 16
+wes-story 1
+west bank-story 2
+western-story 5
+wetrust-story 1
+wework-story 3
+whale-story 1
+what-ask_hn 51
+what-story 117
+whatever-story 2
+whats-story 1
+whatsapp-story 9
+wheel-ask_hn 1
+wheel-story 4
+when-ask_hn 10
+when-story 49
+where-ask_hn 1
+where-show_hn 1
+where-story 16
+whereas-story 1
+which-ask_hn 8
+which-show_hn 1
+which-story 12
+while-ask_hn 1
+while-show_hn 1
+while-story 4
+whim-story 1
+whisk-story 1
+whisky-story 1
+white-ask_hn 1
+white-story 3
+whiteboard-story 1
+whitening-story 1
+who-ask_hn 4
+who-show_hn 1
+who-story 46
+whois-ask_hn 1
+whoop-story 1
+whopping-ask_hn 1
+whose-story 1
+why-ask_hn 15
+why-story 144
+wi fi-story 2
+wide-story 4
+widely-story 1
+widespread-story 1
+widget-story 2
+widow-story 1
+width-story 1
+wield-story 1
+wife-story 2
+wifi-story 2
+wii-story 1
+wiki-story 1
+wikichip-story 1
+wikipedia admin-story 2
+wikipedia-show_hn 1
+wikipedia2vec-show_hn 1
+wild-story 3
+wildfire problem-story 2
+wildfire-story 2
+wildlife photographer-story 2
+wiley clapp-story 2
+will-ask_hn 2
+will-show_hn 1
+will-story 69
+willfully-story 1
+william goldman-story 2
+william james-story 2
+win-story 25
+wind-story 2
+window-show_hn 2
+window-story 20
+windowithiframe-show_hn 1
+windows applications-story 2
+windows download-story 2
+windows file-story 2
+windows part-story 4
+windows subsystem-story 2
+windows support-story 2
+windows-story 1
+wine-story 2
+winepak flatpak-story 2
+winfrey-story 1
+wing voters-story 2
+wing-story 1
+winnable-story 1
+winner-story 6
+winning-story 1
+winston churchill-story 2
+winter olympics-story 2
+winter-story 3
+wip-story 1
+wipe-story 2
+wiper-story 1
+wire chat-show_hn 2
+wire-story 3
+wired-story 1
+wireframes-story 1
+wireless network-story 2
+wireless sensor-story 2
+wireless-story 3
+wireshark-story 1
+wirex-story 1
+wiring-story 1
+wirth-story 1
+wisdom-story 2
+wish-story 4
+wit-show_hn 1
+with-ask_hn 13
+with-show_hn 23
+with-story 310
+withfree-story 1
+withhold-story 1
+within-ask_hn 1
+within-show_hn 1
+within-story 6
+without-ask_hn 2
+without-show_hn 3
+without-story 39
+wolfram-ask_hn 1
+woman-story 17
+wonder-story 1
+wonderswipe-story 1
+wooclap-show_hn 1
+woocommerce-story 1
+wood joinery-story 2
+wood-story 1
+word count-story 2
+word-show_hn 1
+word-story 5
+wordpress-show_hn 1
+wordpress-story 5
+wordsandbuttons-story 1
+work climate-story 2
+work force-story 2
+work hours-story 2
+work productivity-story 2
+work stop-story 2
+work trucks-story 2
+work-ask_hn 9
+work-show_hn 3
+work-story 58
+workbenchfx-story 1
+worker productivity-story 2
+worker-ask_hn 1
+worker-story 13
+workflow-ask_hn 1
+workflow-story 3
+working hacker-story 2
+workout-show_hn 1
+workplace-story 1
+workshop-story 1
+workspace-story 1
+workstation-ask_hn 1
+world bank-story 2
+world cup-story 4
+world happiness-story 2
+world network-story 2
+world system-story 2
+world-ask_hn 1
+world-show_hn 1
+world-story 53
+worldwide-story 1
+worldyet-story 1
+wormhole-story 1
+worrying-show_hn 1
+worrying-story 2
+worse-story 1
+worst-story 1
+worth-ask_hn 1
+worth-story 6
+worthwhile-show_hn 1
+would-ask_hn 8
+would-story 8
+wound-story 2
+wozniak i-story 2
+wozniak-story 4
+wp-story 1
+wr840n-show_hn 1
+wrap-story 2
+wrapper-story 1
+write-ask_hn 3
+write-show_hn 4
+write-story 29
+writer-ask_hn 1
+writer-show_hn 1
+writer-story 1
+writing process-story 2
+writing-story 1
+wrong-story 15
+wsj-story 1
+wtf-story 1
+wwe-story 1
+wwii-ask_hn 1
+wwv-story 1
+wwvh-story 1
+www-story 2
+wyden-story 1
+wyoming creek-story 2
+wyoming-story 1
+wysiwyg-story 1
+x-story 2
+x360-story 1
+x64-story 1
+x86-story 3
+xamarin-story 1
+xbox-story 1
+xelatex-show_hn 1
+xeon e-story 2
+xeon-story 1
+xfltreat-show_hn 1
+xfs-story 1
+xi-story 2
+xl-story 1
+xlsx-story 1
+xmas-story 1
+xmpp-show_hn 1
+xmpp-story 1
+xr-story 1
+xrp-story 1
+xss-story 1
+xvc-story 1
+xza-show_hn 1
+yacht-story 1
+yakondi-show_hn 1
+yakovenko-story 1
+yaml-story 1
+yammer-story 1
+yankee-story 1
+yanny-story 1
+yard-story 1
+yasha haddaji-story 2
+yc-story 14
+ycomments-show_hn 1
+year-ask_hn 1
+year-show_hn 1
+year-story 63
+yearly-ask_hn 1
+yearn-story 1
+yellowant-story 1
+yemen-story 1
+yes-story 3
+yet-story 7
+yimbys-story 1
+york city-story 4
+york fed-story 2
+york times-story 6
+york-story 3
+yorkers-story 1
+yosemite-story 1
+you-ask_hn 52
+you-show_hn 5
+you-story 184
+young-story 3
+your-ask_hn 25
+your-show_hn 17
+your-story 169
+yourself-story 3
+youtube-ask_hn 1
+youtube-story 18
+youtuber-story 2
+yummy-show_hn 1
+yuval noah-story 2
+zach hartwig-story 2
+zaha hadid-story 2
+zalando-story 1
+zelda-story 1
+zenhub-story 1
+zero-story 4
+zerover-story 1
+zerynth-story 1
+zfs-story 1
+zhou youguang-story 2
+zildjian-story 1
+zinc-story 1
+zip-story 2
+zipline-story 1
+zombie-story 1
+zone-story 3
+zoom-story 1
+zprint-story 1
+zsh-story 2
+zte-story 2
+zuckerberg-story 6
+zurich-story 2
+ðapp-story 1
+ꓘamerka-story 1
